@@ -1,0 +1,40 @@
+name: Pages
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - 'src/**'
+    - 'docs/source/**'
+  pull_request:
+    # Only following types are handled by the action, but one can default to all as well
+    types: [opened, reopened, synchronize]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency: ci-${{ github.ref }}
+    env:
+      SPHINXOPTS: "-D language=zh_CN"
+    steps:
+    - uses: actions/setup-python@v2
+    - uses: actions/checkout@master
+      with:
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+    - name: Installing the library
+      shell: bash -l {0}
+      run: |
+        git fetch origin
+        git checkout origin/main
+        git checkout ${{ matrix.branch }}  # attach this repo
+        git submodule init
+        git submodule update
+        (cd abqpy; git fetch origin; git checkout main; git reset --hard origin/${{ matrix.branch }}; git branch -a; pip install -r ./docs/requirements.txt; pip install .)
+        pip install -U pip setuptools
+        pip install -r ./requirements.txt
+    - name: Build and Commit
+      uses: sphinx-notes/pages@v2
+      with:
+        documentation_path: abqpy/docs/source
+        requirements_path: abqpy/docs/requirements.txt
+
