@@ -1,1 +1,1 @@
-sphinx-intl
+sphinx-intl[transifex]
