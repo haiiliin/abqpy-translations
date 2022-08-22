@@ -11,6 +11,8 @@ python:
     - requirements: requirements.txt
     - requirements: abqpy/requirements.txt
     - requirements: abqpy/docs/requirements.txt
+    - method: pip
+      path: abqpy
 submodules:
   include:
     - abqpy
