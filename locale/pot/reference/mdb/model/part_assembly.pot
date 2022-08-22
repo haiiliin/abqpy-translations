@@ -16,14 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../abqpy/docs/source/summary.rst:7
-msgid "Contents"
+#: ../../abqpy/docs/source/reference/mdb/model/part_assembly.rst:5
+msgid "Objects in and Assembly"
 msgstr ""
 
-#: ../../abqpy/docs/source/summary.rst:3
-msgid "API Summary"
-msgstr ""
-
-#: ../../abqpy/docs/source/summary.rst:5
-msgid "This summary guides you how to write an Abaqus Python script to build the Abaqus model, and to extract the outout data."
+#: ../../abqpy/docs/source/reference/mdb/model/part_assembly.rst:3
+msgid "Part and Assembly"
 msgstr ""

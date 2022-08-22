@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../abqpy/docs/source/summary.rst:7
+#: ../../abqpy/docs/source/user/output/python.rst:7
 msgid "Contents"
 msgstr ""
 
-#: ../../abqpy/docs/source/summary.rst:3
-msgid "API Summary"
+#: ../../abqpy/docs/source/user/output/python.rst:3
+msgid "Using the Abaqus Scripting Interface to access an output database"
 msgstr ""
 
-#: ../../abqpy/docs/source/summary.rst:5
-msgid "This summary guides you how to write an Abaqus Python script to build the Abaqus model, and to extract the outout data."
+#: ../../abqpy/docs/source/user/output/python.rst:5
+msgid "The following sections describe the architecture of an output database and how to use the Abaqus Scripting Interface to access data from an output database."
 msgstr ""
