@@ -8,6 +8,6 @@ sphinx:
 formats: []
 python:
   install:
-    - requirements: abqpy/docs/requirements.txt
+    - requirements: requirements.txt
     - method: pip
       path: abqpy
