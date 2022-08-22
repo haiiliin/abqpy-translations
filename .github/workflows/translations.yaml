@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  ubuntu:
+  update-translations:
     runs-on: ubuntu-latest
     strategy:
       matrix:
