@@ -22,7 +22,14 @@ jobs:
     - name: Installing the library
       shell: bash -l {0}
       run: |
-        (cd abqpy; git fetch origin; git checkout main; git reset --hard origin/${{ github.ref_name }}; git branch -a; pip install -r ./docs/requirements.txt; pip install .)
+        git fetch origin
+        git checkout origin/main
+        git checkout ${{ matrix.branch }}  # attach this repo
+        git submodule init
+        git submodule update
+        (cd abqpy; git fetch origin; git checkout main; git reset --hard origin/${{ matrix.branch }}; git branch -a; pip install -r ./docs/requirements.txt; pip install .)
+        pip install -U pip setuptools
+        pip install -r ./requirements.txt
     - name: Build and Commit
       uses: sphinx-notes/pages@v2
       with:
