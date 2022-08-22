@@ -44,6 +44,7 @@ jobs:
         (cd abqpy; git fetch origin; git checkout main; git reset --hard origin/main; git branch -a)
         pip install -U pip setuptools
         pip install -r ./requirements.txt
+        pip install .
     - name: Update translations
       run: sh ./locale/update.sh
     - name: After success
