@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,302 +70,302 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`bcs <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcs>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether boundary conditions are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`connectors <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.connectors>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether connectors are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`cnxEndPoints <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxEndPoints>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether the connector end points are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`cnxLocalAxes <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxLocalAxes>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether the connector local coordinate system axes are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`cnxTypeLabels <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTypeLabels>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether the connector section type labels are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`cnxTagDisplay <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTagDisplay>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether the tag information is displayed along with the connector section type labels."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraints>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether constraints are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`engineeringFeatures <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatures>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether to display engineering features."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`geometricRestrictions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether geometric restrictions are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`renderBeamProfiles <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderBeamProfiles>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether to render the beam profiles."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`beamScaleFactor <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.beamScaleFactor>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Float specifying the beam profile scale factor."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`predefinedFields <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFields>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether fields and initial conditions are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`interactions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether interactions are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`loads <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loads>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether loads are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`mesh <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.mesh>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether the mesh is shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`optimizationTasks <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTasks>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether optimization tasks are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`stopConditions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A Boolean specifying whether stop conditions are shown."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`renderStyle <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderStyle>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A SymbolicConstant specifying how the image in the viewport is rendered."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`bcOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.BCDisplayOptions.BCDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`constraintOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraintOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraintOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraintOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.ConstraintDisplayOptions.ConstraintDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`displayGroup <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroup>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroup:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroup:2
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroup:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroup:2
 msgid "A :py:class:`~abaqus.DisplayGroup.DisplayGroup.DisplayGroup` object specifying the current display group and referring to an object in the **displayGroups** member of Session."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`displayGroupInstances <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroupInstances>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroupInstances:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroupInstances:2
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.displayGroupInstances:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroupInstances:2
 msgid "A repository of DisplayGroupInstance objects."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`engineeringFeatureOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatureOptions>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatureOptions:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatureOptions:2
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatureOptions:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatureOptions:2
 msgid "An :py:class:`~abaqus.DisplayOptions.EngineeringFeatureDisplayOptions.EngineeringFeatureDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`predefinedFieldOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFieldOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFieldOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFieldOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.PredefinedFieldDisplayOptions.PredefinedFieldDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`geometricRestrictionOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictionOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictionOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictionOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.GeometricRestrictionDisplayOptions.GeometricRestrictionDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`geometryOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometryOptions>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometryOptions:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.geometryOptions:2
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometryOptions:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.geometryOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.GeometryDisplayOptions.GeometryDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`interactionOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactionOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactionOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactionOptions:2
 msgid "An :py:class:`~abaqus.DisplayOptions.InteractionDisplayOptions.InteractionDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`loadOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loadOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loadOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loadOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.LoadDisplayOptions.LoadDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`meshOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.meshOptions>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.meshOptions:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.meshOptions:2
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.meshOptions:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.meshOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.MeshDisplayOptions.MeshDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`optimizationTaskOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTaskOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTaskOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTaskOptions:2
 msgid "An :py:class:`~abaqus.DisplayOptions.OptimizationTaskDisplayOptions.OptimizationTaskDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`stopConditionOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditionOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditionOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditionOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.StopConditionDisplayOptions.StopConditionDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`symbolOptions <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.symbolOptions>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.symbolOptions:2
+#: ../../None:36:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.symbolOptions:2
 msgid "A :py:class:`~abaqus.DisplayOptions.SymbolDisplayOptions.SymbolDisplayOptions` object."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`visibleInstances <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.visibleInstances>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A tuple of Strings specifying the names of the part instances that are visible in the viewport."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`step <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.step>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "A String specifying the step for which objects are to be displayed."
 msgstr ""
 
@@ -389,101 +389,101 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues>`\\ \\(\\[visibleInstances\\, step\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the AssemblyDisplayOptions object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:28
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcs:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.bcs:2
 msgid "A Boolean specifying whether boundary conditions are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:72
 #: ../../abqpy/src/abaqus/DisplayOptions/PartDisplayOptions.py:docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues:25
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.beamScaleFactor:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.beamScaleFactor:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.beamScaleFactor:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.beamScaleFactor:2
 msgid "A Float specifying the beam profile scale factor. The beamScaleFactor must be greater than zero. The default value is 1.0."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:40
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxEndPoints:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxEndPoints:2
 msgid "A Boolean specifying whether the connector end points are shown. This member is applicable only if **connectors** = ON. The default value is ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:44
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxLocalAxes:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxLocalAxes:2
 msgid "A Boolean specifying whether the connector local coordinate system axes are shown. This member is applicable only if **connectors** = ON. The default value is ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:52
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTagDisplay:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTagDisplay:2
 msgid "A Boolean specifying whether the tag information is displayed along with the connector section type labels. This member is applicable only if **connectors** = ON and if **cnxTypeLabels** = ON. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:48
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTypeLabels:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.cnxTypeLabels:2
 msgid "A Boolean specifying whether the connector section type labels are shown. This member is applicable only if **connectors** = ON. The default value is ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:37
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.connectors:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.connectors:2
 msgid "A Boolean specifying whether connectors are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:34
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraints:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.constraints:2
 msgid "A Boolean specifying whether constraints are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:66
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatures:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.engineeringFeatures:2
 msgid "A Boolean specifying whether to display engineering features. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:79
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictions:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.geometricRestrictions:2
 msgid "A Boolean specifying whether geometric restrictions are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:31
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactions:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.interactions:2
 msgid "A Boolean specifying whether interactions are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:25
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loads:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.loads:2
 msgid "A Boolean specifying whether loads are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:22
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.mesh:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.mesh:2
 msgid "A Boolean specifying whether the mesh is shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:76
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTasks:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.optimizationTasks:2
 msgid "A Boolean specifying whether optimization tasks are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:57
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFields:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.predefinedFields:2
 msgid "A Boolean specifying whether fields and initial conditions are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:69
 #: ../../abqpy/src/abaqus/DisplayOptions/PartDisplayOptions.py:docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues:22
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderBeamProfiles:2
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderBeamProfiles:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderBeamProfiles:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderBeamProfiles:2
 msgid "A Boolean specifying whether to render the beam profiles. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:18
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderStyle:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.renderStyle:2
 msgid "A SymbolicConstant specifying how the image in the viewport is rendered. Possible values are WIREFRAME, HIDDEN, SHADED, and FILLED. The default value is WIREFRAME."
 msgstr ""
 
@@ -524,7 +524,7 @@ msgid "**step**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:14
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.step:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.step:2
 msgid "A String specifying the step for which objects are to be displayed. Possible values are any valid step name. The default value is \"Initial\"."
 msgstr ""
 
@@ -615,7 +615,7 @@ msgid "**stopConditions**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/AssemblyDisplayOptions.py:docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.setValues:82
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditions:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.stopConditions:2
 msgid "A Boolean specifying whether stop conditions are shown. The default value is OFF."
 msgstr ""
 
@@ -655,7 +655,7 @@ msgstr ""
 msgid ":obj:`RangeError`"
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.visibleInstances:2
+#: ../../docstring of abaqus.DisplayOptions.AssemblyDisplayOptions.AssemblyDisplayOptions.visibleInstances:2
 msgid "A tuple of Strings specifying the names of the part instances that are visible in the viewport. The default value is an empty sequence."
 msgstr ""
 
@@ -671,12 +671,12 @@ msgstr ""
 msgid "Check `BCDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-bcdisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.BCDisplayOptions.BCDisplayOptions.setValues>`\\ \\(\\[displacement\\, velocity\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/BCDisplayOptions.py:docstring of abaqus.DisplayOptions.BCDisplayOptions.BCDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the BCDisplayOptions object."
 msgstr ""
 
@@ -800,12 +800,12 @@ msgstr ""
 msgid "Check `ConstraintDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constraintdisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.ConstraintDisplayOptions.ConstraintDisplayOptions.setValues>`\\ \\(\\[constraintEquation\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/ConstraintDisplayOptions.py:docstring of abaqus.DisplayOptions.ConstraintDisplayOptions.ConstraintDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the ConstraintDisplayOptions object."
 msgstr ""
 
@@ -865,12 +865,12 @@ msgstr ""
 msgid "Check `EngineeringFeatureDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-engineeringfeaturedisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.EngineeringFeatureDisplayOptions.EngineeringFeatureDisplayOptions.setValues>`\\ \\(\\[pointMassInertia\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/EngineeringFeatureDisplayOptions.py:docstring of abaqus.DisplayOptions.EngineeringFeatureDisplayOptions.EngineeringFeatureDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the EngineeringFeatureDisplayOptions object."
 msgstr ""
 
@@ -938,12 +938,12 @@ msgstr ""
 msgid "Check `GeometricRestrictionDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-geometricrestrictiondisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.GeometricRestrictionDisplayOptions.GeometricRestrictionDisplayOptions.setValues>`\\ \\(\\[drillControl\\, fixedRegion\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GeometricRestrictionDisplayOptions.py:docstring of abaqus.DisplayOptions.GeometricRestrictionDisplayOptions.GeometricRestrictionDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the GeometricRestrictionDisplayOptions object."
 msgstr ""
 
@@ -1123,12 +1123,12 @@ msgstr ""
 msgid "Check `GeometryDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-geometrydisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.GeometryDisplayOptions.GeometryDisplayOptions.setValues>`\\ \\(\\[geometryEdgesInShaded\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GeometryDisplayOptions.py:docstring of abaqus.DisplayOptions.GeometryDisplayOptions.GeometryDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the GeometryDisplayOptions object."
 msgstr ""
 
@@ -1228,78 +1228,78 @@ msgstr ""
 msgid "Check `GraphicsInfo on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-graphicsinfopyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glVersion <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVersion>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the OpenGL version."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glxServerVersion <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVersion>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the glx version of the server."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glxClientVersion <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVersion>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the of glx version of the client."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glVendor <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVendor>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A String specifying the graphics adapter vendor."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glRenderer <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glRenderer>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glRenderer:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glRenderer:2
 msgid "A String specifying the name of the rendering device or the name of the software graphics library."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glxServerVendor <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVendor>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVendor:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVendor:2
 msgid "A String specifying the glx developer on the server side."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`glxClientVendor <abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVendor>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVendor:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVendor:2
 msgid "A String specifying the glx developer on the client side."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVendor:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVendor:2
 msgid "A String specifying the graphics adapter vendor. On hardware accelerated systems **glVendor** specifies the vendor that manufactured the adapter. On systems without hardware acceleration **glVendor** specifies the developer of the software graphics library."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVersion:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glVersion:2
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the OpenGL version. The sequence consists of an Int with the OpenGL major version number, an Int with the OpenGL minor version number, and a String with any additional information."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVersion:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxClientVersion:2
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the of glx version of the client. The sequence consists of an Int with the glx major version number, an Int with the glx minor version number, and String with any additional information."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVersion:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsInfo.GraphicsInfo.glxServerVersion:2
 msgid "A sequence of the type (Int, Int, String) specifying the three components of the glx version of the server. The sequence consists of an Int with the glx major version number, an Int with the glx minor version number, and a String with any additional information."
 msgstr ""
 
@@ -1315,378 +1315,378 @@ msgstr ""
 msgid "Check `GraphicsOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-graphicsoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backgroundOverride <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundOverride>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether a viewport background style of GRADIENT can be overridden when displaying certain objects, such as sketches or XY plots."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backfaceCulling <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backfaceCulling>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether facets that are determined to be facing away from the viewer will be drawn."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`graphicsDriver <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.graphicsDriver>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A SymbolicConstant specifying the graphics driver to use."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`doubleBuffering <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.doubleBuffering>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether double buffering is used."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`displayLists <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.displayLists>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether a display list will be used to accelerate graphics performance."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`dragMode <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.dragMode>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A SymbolicConstant specifying which rendering is used during dynamic rotations of the view."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`antiAlias <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.antiAlias>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether lines will be smoothed to reduce the jagged effect of rasterization."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`autoFitAfterRotate <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.autoFitAfterRotate>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether the model is automatically resized to fit the viewport after each view rotation."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`polygonOffsetConstant <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetConstant>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Float specifying the offset added when drawing the faces of a polygon."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`polygonOffsetSlope <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetSlope>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Float specifying the factor that multiplies the slope of each line before the line is added to the vertexes of a polygon face."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`printPolygonOffsetConstant <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetConstant>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`printPolygonOffsetSlope <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetSlope>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`vertexArrays <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArrays>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying how the three-dimensional vertices of the model are processed."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`vertexArraysInDisplayLists <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArraysInDisplayLists>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether the **vertexArrays** setting should temporarily be set to OFF when building a display list."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`viewManipDisplayListThreshold <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.viewManipDisplayListThreshold>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "An Int specifying how large a display list may be created in order to accelerate view manipulation operations."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`directRendering <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.directRendering>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying how Abaqus renders X11 graphics operations."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`hardwareAcceleration <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareAcceleration>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether a hardware accelerated OpenGL graphics driver will be used on Windows platforms."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`hardwareOverlay <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlay>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether hardware overlay planes will be used if available."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`textureMapping <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.textureMapping>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether textures will be used to display contour plots."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`printTextureMapping <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printTextureMapping>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backgroundStyle <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundStyle>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A SymbolicConstant specifying the background style to be used for all viewport windows."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`accelerateOffScreen <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.accelerateOffScreen>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether the hardware accelerated graphics driver will be used for off-screen rendering."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backingStore <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backingStore>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Boolean specifying whether a backing store will be used to refresh a viewport after a window occluding the viewport is moved or dismissed."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`highlightMethod <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethod>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A SymbolicConstant specifying the highlight method."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`hardwareOverlayAvailable <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlayAvailable>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlayAvailable:2
+#: ../../None:34:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlayAvailable:2
 msgid "A Boolean specifying if the graphics hardware supports hardware overlay."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`shadersAvailable <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.shadersAvailable>`\\"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:215
-#: ../None:34:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.shadersAvailable:2
+#: ../../None:34:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.shadersAvailable:2
 msgid "A Boolean specifying if the graphics hardware supports the OpenGL Shading Language (GLSL)."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`translucencyMode <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.translucencyMode>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "An Int specifying whether speed or accuracy is more important when drawing translucent objects."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`contourRangeTexturePrecision <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.contourRangeTexturePrecision>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A Float specifying a tolerance used when computing the appropriate scale for transforming result (contour) values to texture values."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`options <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.options>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "None or a GraphicsOptions object specifying the object from which values are to be copied."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`highlightMethodHint <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethodHint>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A tuple of SymbolicConstants specifying a hint used to modify the highlight method."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backgroundColor <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundColor>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "A String specifying one of the two background colors for all viewport windows."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`backgroundBottomColor <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundBottomColor>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues>`\\ \\(\\[graphicsDriver\\, doubleBuffering\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the GraphicsOptions object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:200
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.accelerateOffScreen:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.accelerateOffScreen:2
 msgid "A Boolean specifying whether the hardware accelerated graphics driver will be used for off-screen rendering. The default value is ON if graphics hardware acceleration is available and has not been disabled via the hardwareAcceleration option, and the graphics driver supports the underlying technology. When set to OFF, an alternate (slower) technique will be used to create off-screen images. Off-screen rendering is used for Printing, Probe, and backing store (viewport refresh). Setting this value to OFF will force printed images to be rendered without hardware acceleration. This is useful when writing automated tests to produce raster images that you will want to compare across multiple machines that may have different graphics environments."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:63
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.antiAlias:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.antiAlias:2
 msgid "A Boolean specifying whether lines will be smoothed to reduce the jagged effect of rasterization. The default value is ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:67
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.autoFitAfterRotate:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.autoFitAfterRotate:2
 msgid "A Boolean specifying whether the model is automatically resized to fit the viewport after each view rotation. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:192
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backfaceCulling:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backfaceCulling:2
 msgid "A Boolean specifying whether facets that are determined to be facing away from the viewer will be drawn. The default value is ON. backfaceCulling provides a performance enhancement when displaying solid elements where the front side of the element occludes the back side of the element. Set **backfaceCulling** = OFF if it appears that you are seeing the back side of an element and the front side is missing. You should also set **backfaceCulling** = OFF if you believe the display is not complete."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:182
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundBottomColor:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundBottomColor:2
 msgid "A String specifying one of the two background colors for all viewport windows. This color is used only if **backgroundStyle** =GRADIENT. The initial color is black. A list of valid color strings is in the **colors** map in the Session object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:177
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundColor:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundColor:2
 msgid "A String specifying one of the two background colors for all viewport windows. The initial color is black. A list of valid color strings is in the **colors** map in the Session object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:187
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundOverride:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundOverride:2
 msgid "A Boolean specifying whether a viewport background style of GRADIENT can be overridden when displaying certain objects, such as sketches or XY plots. When overridden, the background will be the top color of the gradient background."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:168
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundStyle:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backgroundStyle:2
 msgid "A SymbolicConstant specifying the background style to be used for all viewport windows. Possible values are SOLID and GRADIENT. The default value is SOLID.If **backgroundStyle** = SOLID, the viewport background will appear as a solid color as specified by **backgroundColor**. If **backgroundStyle** = GRADIENT, the viewport background will be drawn as a gradient beginning with the **backgroundColor** at the top of the viewport and gradually blending to the **backgroundBottomColor** at the bottom of the viewport."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:211
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backingStore:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.backingStore:2
 msgid "A Boolean specifying whether a backing store will be used to refresh a viewport after a window occluding the viewport is moved or dismissed. The default value is ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:231
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.contourRangeTexturePrecision:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.contourRangeTexturePrecision:2
 msgid "A Float specifying a tolerance used when computing the appropriate scale for transforming result (contour) values to texture values. When set too low the 'out of range' colors may be incorrectly shown for values near the range limits. The default value is 0.5×10-5."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:125
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.directRendering:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.directRendering:2
 msgid "A Boolean specifying how Abaqus renders X11 graphics operations. When **directRendering** = OFF, the graphics are rendered through the X Server. When **directRendering** = ON, the graphics operations are sent directly to the graphics adapter producing faster displays. For maximum performance, the initial value is ON. This argument is used only when you first start Abaqus/CAE; you cannot configure **directRendering** during a session."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:25
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.displayLists:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.displayLists:2
 msgid "A Boolean specifying whether a display list will be used to accelerate graphics performance. The default value is ON.When **displayLists** = ON, drawing operations are recorded in a list that can be quickly replayed. This results in faster drawing on most systems but requires extra memory to record the drawing operations. In the Visualization module, display lists are only used during view manipulations and then their use is subject to the setting of **viewManipDisplayListThreshold**."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:15
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.doubleBuffering:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.doubleBuffering:2
 msgid "A Boolean specifying whether double buffering is used. The default value is ON.Double buffering controls where Abaqus/CAE draws its graphics. When **doubleBuffering** = OFF, everything is drawn directly to the screen and on many systems you can see the progress of the drawing operations. Most users find this distracting, especially in dynamic situations such as view manipulation or animation of results. When **doubleBuffering** = ON, the drawing occurs in a separate graphics buffer that is displayed when all the drawing operations are complete. This results in a much smoother display during view changes or animation. It is recommended that you set double buffering to ON."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:52
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.dragMode:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.dragMode:2
 msgid "A SymbolicConstant specifying which rendering is used during dynamic rotations of the view. Possible values are:FAST, specifying a rendering mode where the image is rendered in wireframe.AS_IS, specifying a rendering mode where the image is rendered as is.The default value is AS_IS.When set to **dragMode** = FAST, a wireframe outline is drawn during view changes by rotation, pan, or zoom. When **dragMode** = AS_IS, everything displayed in the window will be drawn during view changes; however, the display may lag behind the mouse movement when the model is complex especially if you are using an older or slower system. For newer systems with graphics hardware acceleration the AS_IS setting can be accommodated without significant loss of performance."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:10
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.graphicsDriver:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.graphicsDriver:2
 msgid "A SymbolicConstant specifying the graphics driver to use. Abaqus/CAE currently uses OpenGL exclusively so the only possible value is OPEN_GL. OPEN_GL takes advantage of graphics adapter hardware acceleration."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:133
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareAcceleration:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareAcceleration:2
 msgid "A Boolean specifying whether a hardware accelerated OpenGL graphics driver will be used on Windows platforms. The default value is ON.When **hardwareAcceleration** = OFF, the graphics driver uses a software implementation of OpenGL that is included with the operating system. This results in slower drawing on most systems; however, you may have to use the software implementation of OpenGL if the hardware graphics driver is incompatible with Abaqus/CAE.*hardwareAcceleration* is used only when you first start Abaqus/CAE on a Windows platform; you cannot configure **hardwareAcceleration** during a session.*hardwareAcceleration* is not used when you start Abaqus/CAE on an X-Windows platform and display to a Windows platform running Exceed or any other X-Windows server."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:144
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlay:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.hardwareOverlay:2
 msgid "A Boolean specifying whether hardware overlay planes will be used if available. The default value is the same value as the **hardwareOverlayAvailable** member.When **hardwareOverlayAvailable** = OFF, it will not be possible to set **hardwareOverlay** to ON and the HARDWARE_OVERLAY highlight method will not be available. If viewports display a solid color and will not display the model, it will be necessary to inhibit hardware overlay completely by setting the ABAQUS_EMULATE_OVERLAYS environment variable (to any value) before starting Abaqus/CAE.*hardwareOverlay* is used only when you first start Abaqus/CAE; you cannot configure **hardwareOverlay** during a session."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethod:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethod:2
 msgid "A SymbolicConstant specifying the highlight method. For the GraphicsOptions object, possible values of the member are HARDWARE_OVERLAY, XOR, SOFTWARE_OVERLAY, and BLEND."
 msgstr ""
 
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethodHint:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.highlightMethodHint:2
 msgid "A tuple of SymbolicConstants specifying a hint used to modify the highlight method. Possible values are:HARDWARE_OVERLAY, specifying a hint of hardware overlay. The best graphics performance is achieved using hardware overlay, but not all systems and graphics adapters support hardware overlay.XOR, specifying a hint of XOR technique. The XOR technique uses a boolean pixel operation to simulate the drawing operations but can produce different colors depending on the color of the underlying pixels.SOFTWARE_OVERLAY, specifying a hint of software overlay. The software overlay method simulates the effect of hardware overlay.BLEND, specifying a hint of blend method. The blend method combines the color of the underlying pixel with the desired color producing an approximation of the transient graphics.The default value is (HARDWARE_OVERLAY, XOR, SOFTWARE_OVERLAY, BLEND).The values of this sequence are applied by Abaqus when you start a session in first to last order. The first successful value becomes the default highlight method. Not all graphics adapters support the HARDWARE_OVERLAY value and you must use the **highlightMethodHint** argument to provide an alternative.You can use a single value to set the first element of the list, or you can use a tuple with one to four unique values. Abaqus sets any remaining elements of the tuple to unique values based on the default order."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:226
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.options:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.options:2
 msgid "None or a GraphicsOptions object specifying the object from which values are to be copied. If other arguments are also supplied to setValues, they will override the values in the **options** member. The default value is None."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:71
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetConstant:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetConstant:2
 msgid "A Float specifying the offset added when drawing the faces of a polygon. The **polygonOffsetConstant** argument affects the behavior of only the OpenGL driver. Possible values are 0.0 ≤≤ **polygonOffsetConstant** ≤≤ 100.0. The default value is platform dependent and is typically between 0.0 and 2.0."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:77
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetSlope:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.polygonOffsetSlope:2
 msgid "A Float specifying the factor that multiplies the slope of each line before the line is added to the vertexes of a polygon face. The **polygonOffsetSlope** argument affects the behavior of only the OpenGL driver. Possible values are 0.0 ≤≤ **polygonOffsetSlope** ≤≤ 100.0. The default value is platform dependent and is typically between 0.0 and 2.0."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:83
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetConstant:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetConstant:2
 msgid "A Float specifying the offset added when drawing the faces of a polygon. **printPolygonOffsetConstant** is similar to **polygonOffsetConstant**; however, **printPolygonOffsetConstant** is used when printing and **polygonOffsetConstant** is used for display. Some systems, especially Windows, use different OpenGL drivers for printing and display, and you may have to use different offset values for each driver."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:90
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetSlope:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printPolygonOffsetSlope:2
 msgid "A Float specifying the factor that multiplies the slope of each line before the line is added to the vertexes of a polygon face. **printPolygonOffsetSlope** is similar to **polygonOffsetSlope**; however, **printPolygonOffsetSlope** is used when printing and **polygonOffsetSlope** is used for display. Some systems, especially Windows, use different OpenGL drivers for printing and display, and you may have to use different offset values for each driver."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:159
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printTextureMapping:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.printTextureMapping:2
 msgid "A Boolean specifying whether textures will be used to display contour plots. The default value is ON.Turning off texture mapping for printing is necessary only if printed output does not correctly display a contour plot of your model. **printTextureMapping** is similar to **textureMapping**; however, **printTextureMapping** is used when printing and **textureMapping** is used for display. Some systems, especially Windows, use different OpenGL drivers for printing and display, and you may have to use different settings for each driver."
 msgstr ""
 
@@ -1747,7 +1747,7 @@ msgid "**vertexArrays**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:98
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArrays:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArrays:2
 msgid "A Boolean specifying how the three-dimensional vertices of the model are processed. When **vertexArrays** = OFF, each vertex of the model is processed separately. When **vertexArrays** = ON, the vertices are processed in large blocks resulting in faster display. Not all graphics adapters support this capability correctly. An indicator that the graphics adapters is not processing three-dimensional vertices correctly is the absence of graphics during rubber banding operations. For example, when dynamically dragging the radius of a circle in the Sketcher, the circle should be visible. The default value is ON."
 msgstr ""
 
@@ -1756,7 +1756,7 @@ msgid "**vertexArraysInDisplayLists**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:108
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArraysInDisplayLists:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.vertexArraysInDisplayLists:2
 msgid "A Boolean specifying whether the **vertexArrays** setting should temporarily be set to OFF when building a display list. The default value is ON.Some graphics adapters do not properly support using vertex arrays inside a display list. Setting **vertexArraysInDisplayLists** to OFF has a smaller impact on graphics performance than setting **vertexArrays** or **displayLists** to OFF."
 msgstr ""
 
@@ -1765,7 +1765,7 @@ msgid "**viewManipDisplayListThreshold**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:115
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.viewManipDisplayListThreshold:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.viewManipDisplayListThreshold:2
 msgid "An Int specifying how large a display list may be created in order to accelerate view manipulation operations. Increasing this value when viewing large models will increase the delay before a view manipulation operation begins in order to obtain improved graphics performance during the view manipulation. If set high with a large model, the delay can be many seconds. In excessive cases, graphics memory can be exceeded and the result may be an empty display list (no visible model) for the view manipulation. This setting is treated as 0 if **displayLists** = OFF. Possible values are 0 ≤≤ **viewManipDisplayListThreshold** ≤≤ 20000. The default value is 40."
 msgstr ""
 
@@ -1786,7 +1786,7 @@ msgid "**textureMapping**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:154
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.textureMapping:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.textureMapping:2
 msgid "A Boolean specifying whether textures will be used to display contour plots. The default value is ON.Turning off texture mapping is necessary only if viewports will not correctly display a contour plot of your model."
 msgstr ""
 
@@ -1831,7 +1831,7 @@ msgid "**translucencyMode**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/GraphicsOptions.py:docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.setValues:219
-#: ../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.translucencyMode:2
+#: ../../docstring of abaqus.DisplayOptions.GraphicsOptions.GraphicsOptions.translucencyMode:2
 msgid "An Int specifying whether speed or accuracy is more important when drawing translucent objects. Lower values optimize for speed while higher values optimize for accuracy. The actual meaning of each setting will depend on the setting of **shadersAvailable** and the capabilities of the graphics hardware and driver. Possible values are 1 ≤≤ **translucencyMode** ≤≤ 6. The default value is 4."
 msgstr ""
 
@@ -1855,12 +1855,12 @@ msgstr ""
 msgid "Check `InteractionDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-interactiondisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.InteractionDisplayOptions.InteractionDisplayOptions.setValues>`\\ \\(\\[surfaceContact\\, selfContact\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/InteractionDisplayOptions.py:docstring of abaqus.DisplayOptions.InteractionDisplayOptions.InteractionDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the InteractionDisplayOptions object."
 msgstr ""
 
@@ -1944,12 +1944,12 @@ msgstr ""
 msgid "Check `Light on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-lightpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.Light.Light.setValues>`\\ \\(\\[enabled\\, type\\, latitude\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/Light.py:docstring of abaqus.DisplayOptions.Light.Light.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the Light object."
 msgstr ""
 
@@ -2021,63 +2021,63 @@ msgstr ""
 msgid "Check `LightOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-lightoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`shading <abaqus.DisplayOptions.LightOptions.LightOptions.shading>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A SymbolicConstant specifying the shading technique that should be used to fill facets for geometric bodies when **renderStyle** =SHADED."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`viewpoint <abaqus.DisplayOptions.LightOptions.LightOptions.viewpoint>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A SymbolicConstant specifying how specular highlights should be calculated."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`materialShininess <abaqus.DisplayOptions.LightOptions.LightOptions.materialShininess>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A Float specifying the degree to which specular reflection is focused."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`lights <abaqus.DisplayOptions.LightOptions.LightOptions.lights>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.lights:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.lights:2
 msgid "A :py:class:`~abaqus.DisplayOptions.LightArray.LightArray` object of length 8."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`ambientColor <abaqus.DisplayOptions.LightOptions.LightOptions.ambientColor>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A String specifying the light applied evenly to the entire scene independent of any individual light."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.LightOptions.LightOptions.setValues>`\\ \\(\\[shading\\, viewpoint\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/LightOptions.py:docstring of abaqus.DisplayOptions.LightOptions.LightOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the LightOptions object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/LightOptions.py:docstring of abaqus.DisplayOptions.LightOptions.LightOptions.setValues:36
-#: ../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.ambientColor:2
+#: ../../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.ambientColor:2
 msgid "A String specifying the light applied evenly to the entire scene independent of any individual light. The initial value is 20% gray. A list of valid color strings is in the **colors** map in the **session** object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/LightOptions.py:docstring of abaqus.DisplayOptions.LightOptions.LightOptions.setValues:41
-#: ../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.materialShininess:2
+#: ../../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.materialShininess:2
 msgid "A Float specifying the degree to which specular reflection is focused. The higher the **materialShininess** argument, the more focused the specular highlight. Possible values are 0.0 ≤≤ **polygonOffsetConstant** ≤≤ 128.0. The default value is 105.0."
 msgstr ""
 
@@ -2090,7 +2090,7 @@ msgid "**shading**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/LightOptions.py:docstring of abaqus.DisplayOptions.LightOptions.LightOptions.setValues:10
-#: ../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.shading:2
+#: ../../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.shading:2
 msgid "A SymbolicConstant specifying the shading technique that should be used to fill facets for geometric bodies when **renderStyle** =SHADED. The lighting of facets for meshed geometry is not affected by this setting. Possible values are:GOURAUD, specifying that lighting values should be computed for each corner of a facet and interpolated to fill the remainder of the facet.PHONG, specifying that lighting values should be computed for each pixel of a facet.The default value is GOURAUD.When set to **shading** =GOURAUD, lighting values are computed for each corner of a facet and the lighting for the remainder of the facet is interpolated from the corner values. When **shading** =PHONG, lighting values are computed for each pixel of a facet.Note:The shading technique can only be set to PHONG when the **shadersAvailable** member of GraphicsOptions is True.Printed output will only contain Phong shading if the output format is raster and the **accelerateOffScreen** member of GraphicsOptions is ON.The **renderStyle** setting is part of AssemblyDisplayOptions, PartDisplayOptions, and various other options objects not listed here since they are generally used for meshed geometry."
 msgstr ""
 
@@ -2099,7 +2099,7 @@ msgid "**viewpoint**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/LightOptions.py:docstring of abaqus.DisplayOptions.LightOptions.LightOptions.setValues:26
-#: ../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.viewpoint:2
+#: ../../docstring of abaqus.DisplayOptions.LightOptions.LightOptions.viewpoint:2
 msgid "A SymbolicConstant specifying how specular highlights should be calculated. Possible values are:INFINITE, specifying that a constant vector should be used for the direction from the camera to a vertex when computing specular highlights.LOCAL, specifying that the vector from the camera to each vertex should be calculated when computing specular highlights.The default value is INFINITE.When set to **viewpoint** =INFINITE, a constant vector is used for the direction from the camera (viewpoint) to a vertex. When **viewpoint** =LOCAL, the result is more realistic because the actual vector from the camera to each vertex is calculated. However, overall performance is decreased."
 msgstr ""
 
@@ -2123,11 +2123,11 @@ msgstr ""
 msgid "Check `LoadDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-loaddisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.LoadDisplayOptions.LoadDisplayOptions.setValues>`\\ \\(\\[concentratedForce\\, moment\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the LoadDisplayOptions object. concentratedForce     ​           A Boolean specifying whether concentrated force symbols are shown. The default value     is ON. moment     ​           A Boolean specifying whether moment symbols are shown. The default value is ON. pressure     ​           A Boolean specifying whether pressure symbols are shown. The default value is ON. pipePressure     ​           A Boolean specifying whether pipe pressure symbols are shown. The default value is     ON. bodyForce     ​           A Boolean specifying whether body force symbols are shown. The default value is ON. lineLoad     ​           A Boolean specifying whether line load symbols are shown. The default value is ON. gravity     ​           A Boolean specifying whether gravity symbols are shown. The default value is ON. boltLoad     ​           A Boolean specifying whether bolt load symbols are shown. The default value is ON. pegLoad     ​           A Boolean specifying whether PEG load symbols are shown. The default value is ON. connectorForce     ​           A Boolean specifying whether connector force symbols are shown. The default value is     ON. connectorMoment     ​           A Boolean specifying whether connector moment symbols are shown. The default value is     ON. inertiaRelief     ​           A Boolean specifying whether inertia relief symbols are shown. The default value is     ON. rotationalIntertiaLoad     ​           A Boolean specifying whether rotational inertia load symbols are shown. The default     value is ON. coriolisForce     ​           A Boolean specifying whether coriolis force symbols are shown. The default value is     ON. bodyHeatFlux     ​           A Boolean specifying whether body heat flux symbols are shown. The default value is     ON. surfaceHeatFlux     ​           A Boolean specifying whether surface heat flux symbols are shown. The default value     is ON. concentratedHeatFlux     ​           A Boolean specifying whether concentrated heat flux symbols are shown. The default     value is ON. concentratedPoreFluid     ​           A Boolean specifying whether concentrated pore fluid symbols are shown. The default     value is ON. surfacePoreFluid     ​           A Boolean specifying whether surface pore fluid symbols are shown. The default value     is ON. hydroFluidFlow     ​           A Boolean specifying whether hydro fluid flow symbols are shown. The default value is     ON. concentratedCharge     ​           A Boolean specifying whether concentrated charge symbols are shown. The default value     is ON. concentratedCurrent     ​           A Boolean specifying whether concentrated current symbols are shown. The default     value is ON. surfaceCharge     ​           A Boolean specifying whether surface charge symbols are shown. The default value is     ON. surfaceCurrent     ​           A Boolean specifying whether surface current symbols are shown. The default value is     ON. bodyCharge     ​           A Boolean specifying whether body charge symbols are shown. The default value is ON. bodyCurrent     ​           A Boolean specifying whether body current symbols are shown. The default value is ON. inwardVolAccel     ​           A Boolean specifying whether inward volume acceleration symbols are shown. The     default value is ON. bodyConcentrationFlux     ​           A Boolean specifying whether body concentration flux symbols are shown. The default     value is ON. surfaceConcentrationFlux     ​           A Boolean specifying whether surface concentration flux symbols are shown. The     default value is ON. concentratedConcentrationFlux     ​   A Boolean specifying whether concentrated concentration flux symbols are shown. The     default value is ON."
 msgstr ""
 
@@ -2383,12 +2383,12 @@ msgstr ""
 msgid "Check `MeshDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-meshdisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.MeshDisplayOptions.MeshDisplayOptions.setValues>`\\ \\(\\[nodeLabels\\, elementLabels\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/MeshDisplayOptions.py:docstring of abaqus.DisplayOptions.MeshDisplayOptions.MeshDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the MeshDisplayOptions object."
 msgstr ""
 
@@ -2488,12 +2488,12 @@ msgstr ""
 msgid "Check `OptimizationTaskDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-optimizationtaskdisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.OptimizationTaskDisplayOptions.OptimizationTaskDisplayOptions.setValues>`\\ \\(\\[topologyTask\\, shapeTask\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/OptimizationTaskDisplayOptions.py:docstring of abaqus.DisplayOptions.OptimizationTaskDisplayOptions.OptimizationTaskDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the OptimizationTaskDisplayOptions object."
 msgstr ""
 
@@ -2529,71 +2529,71 @@ msgstr ""
 msgid "Check `PartDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-partdisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`engineeringFeatures <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatures>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "A Boolean specifying whether engineering features are shown."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`renderBeamProfiles <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderBeamProfiles>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`beamScaleFactor <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.beamScaleFactor>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`mesh <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.mesh>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.mesh:2
+#: ../../None:12:<autosummary>:1
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.mesh:2
 msgid "A Boolean specifying whether the mesh should be displayed."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`renderStyle <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderStyle>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`displayGroup <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroup>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`displayGroupInstances <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.displayGroupInstances>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`engineeringFeatureOptions <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatureOptions>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`geometryOptions <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.geometryOptions>`\\"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`meshOptions <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.meshOptions>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues>`\\ \\(\\[renderStyle\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/PartDisplayOptions.py:docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the PartDisplayOptions object."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/PartDisplayOptions.py:docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues:19
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatures:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.engineeringFeatures:2
 msgid "A Boolean specifying whether engineering features are shown. The default value is OFF."
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/PartDisplayOptions.py:docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.setValues:10
-#: ../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderStyle:2
+#: ../../docstring of abaqus.DisplayOptions.PartDisplayOptions.PartDisplayOptions.renderStyle:2
 msgid "A SymbolicConstant specifying how the image in the viewport is rendered. Possible values are WIREFRAME, HIDDEN, and SHADED. The default value is WIREFRAME."
 msgstr ""
 
@@ -2613,12 +2613,12 @@ msgstr ""
 msgid "Check `PredefinedFieldDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-predefinedfielddisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.PredefinedFieldDisplayOptions.PredefinedFieldDisplayOptions.setValues>`\\ \\(\\[temperatureField\\, velocityField\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/PredefinedFieldDisplayOptions.py:docstring of abaqus.DisplayOptions.PredefinedFieldDisplayOptions.PredefinedFieldDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the PredefinedFieldDisplayOptions object."
 msgstr ""
 
@@ -2678,12 +2678,12 @@ msgstr ""
 msgid "Check `StopConditionDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-stopconditiondisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.StopConditionDisplayOptions.StopConditionDisplayOptions.setValues>`\\ \\(\\[localStopCondition\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/StopConditionDisplayOptions.py:docstring of abaqus.DisplayOptions.StopConditionDisplayOptions.StopConditionDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the StopConditionDisplayOptions object."
 msgstr ""
 
@@ -2711,12 +2711,12 @@ msgstr ""
 msgid "Check `SymbolDisplayOptions on help.3ds.com/2022 <https://help.3ds.com/2022/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-symboldisplayoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.DisplayOptions.SymbolDisplayOptions.SymbolDisplayOptions.setValues>`\\ \\(\\[otherSymbolSize\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/DisplayOptions/SymbolDisplayOptions.py:docstring of abaqus.DisplayOptions.SymbolDisplayOptions.SymbolDisplayOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the SymbolDisplayOptions object."
 msgstr ""
 

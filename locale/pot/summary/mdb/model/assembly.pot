@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,26 +44,26 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`Instance <abaqus.Assembly.AssemblyModel.AssemblyModel.Instance>`\\ \\(name\\, objectToCopy\\)"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method copies a PartInstance object from the specified model and creates a new PartInstance object."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`convertAllSketches <abaqus.Assembly.AssemblyModel.AssemblyModel.convertAllSketches>`\\ \\(\\[regenerate\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method converts all sketches from Abaqus 6.5 or earlier to the equivalent ConstrainedSketch objects."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`linkInstances <abaqus.Assembly.AssemblyModel.AssemblyModel.linkInstances>`\\ \\(instancesMap\\)"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method links the selected PartInstance objects to the corresponding PartInstance objects from the specified models."
 msgstr ""
