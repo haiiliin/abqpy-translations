@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,431 +84,431 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Sketcher.SketchModel.SketchModel.name>`\\"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstrainedSketchFromGeometryFile:14
 #: ../../abqpy/src/abaqus/Sketcher/SketchModel.py:docstring of abaqus.Sketcher.SketchModel.SketchModel.ConstrainedSketch:18
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A String specifying the repository key."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`stefanBoltzmann <abaqus.Sketcher.SketchModel.SketchModel.stefanBoltzmann>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "None or a Float specifying the Stefan-Boltzmann constant."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`absoluteZero <abaqus.Sketcher.SketchModel.SketchModel.absoluteZero>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "None or a Float specifying the absolute zero constant."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`waveFormulation <abaqus.Sketcher.SketchModel.SketchModel.waveFormulation>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A SymbolicConstant specifying the type of incident wave formulation to be used in acoustic problems."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`universalGas <abaqus.Sketcher.SketchModel.SketchModel.universalGas>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "None or a Float specifying the universal gas constant."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`noPartsInputFile <abaqus.Sketcher.SketchModel.SketchModel.noPartsInputFile>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A Boolean specifying whether an input file should be written without parts and assemblies."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`restartIncrement <abaqus.Sketcher.SketchModel.SketchModel.restartIncrement>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "An Int specifying the increment, interval, iteration or cycle where the restart analysis will start."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`endRestartStep <abaqus.Sketcher.SketchModel.SketchModel.endRestartStep>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A Boolean specifying that the step specified by **restartStep** should be terminated at the increment specified by **restartIncrement**."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`shellToSolid <abaqus.Sketcher.SketchModel.SketchModel.shellToSolid>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A Boolean specifying that a shell global model drives a solid submodel."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`lastChangedCount <abaqus.Sketcher.SketchModel.SketchModel.lastChangedCount>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A Float specifying the time stamp that indicates when the model was last changed."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`description <abaqus.Sketcher.SketchModel.SketchModel.description>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A String specifying the purpose and contents of the Model object."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`restartJob <abaqus.Sketcher.SketchModel.SketchModel.restartJob>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A String specifying the name of the job that generated the restart data."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`restartStep <abaqus.Sketcher.SketchModel.SketchModel.restartStep>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A String specifying the name of the step where the restart analysis will start."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`globalJob <abaqus.Sketcher.SketchModel.SketchModel.globalJob>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A String specifying the name of the job that generated the results for the global model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`copyConstraints <abaqus.Sketcher.SketchModel.SketchModel.copyConstraints>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A boolean specifying the status of constraints created in a model, in the model which instances this model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`copyConnectors <abaqus.Sketcher.SketchModel.SketchModel.copyConnectors>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A boolean specifying the status of connectors created in a model, in the model which instances this model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`copyInteractions <abaqus.Sketcher.SketchModel.SketchModel.copyInteractions>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A boolean specifying the status of interactions created in a model, in the model which instances this model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`keywordBlock <abaqus.Sketcher.SketchModel.SketchModel.keywordBlock>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A :py:class:`~abaqus.Model.KeywordBlock.KeywordBlock` object."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`rootAssembly <abaqus.Sketcher.SketchModel.SketchModel.rootAssembly>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "An :py:class:`~abaqus.Assembly.Assembly.Assembly` object."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`amplitudes <abaqus.Sketcher.SketchModel.SketchModel.amplitudes>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Amplitude objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`profiles <abaqus.Sketcher.SketchModel.SketchModel.profiles>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Profile objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`boundaryConditions <abaqus.Sketcher.SketchModel.SketchModel.boundaryConditions>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of BoundaryCondition objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.SketchModel.SketchModel.constraints>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.constraints:2
+#: ../../None:55:<autosummary>:1
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.constraints:2
 msgid "A repository of ConstrainedSketchConstraint objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`analyticalFields <abaqus.Sketcher.SketchModel.SketchModel.analyticalFields>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of AnalyticalField objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`discreteFields <abaqus.Sketcher.SketchModel.SketchModel.discreteFields>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of DiscreteField objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`predefinedFields <abaqus.Sketcher.SketchModel.SketchModel.predefinedFields>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of PredefinedField objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`interactions <abaqus.Sketcher.SketchModel.SketchModel.interactions>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Interaction objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`interactionProperties <abaqus.Sketcher.SketchModel.SketchModel.interactionProperties>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of InteractionProperty objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`contactControls <abaqus.Sketcher.SketchModel.SketchModel.contactControls>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of ContactControl objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`contactInitializations <abaqus.Sketcher.SketchModel.SketchModel.contactInitializations>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of ContactInitialization objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`contactStabilizations <abaqus.Sketcher.SketchModel.SketchModel.contactStabilizations>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of ContactStabilization objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`linkedInstances <abaqus.Sketcher.SketchModel.SketchModel.linkedInstances>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A tuple of tuples of Strings specifying the linked child PartInstance name in the current model to the corresponding parent PartInstance name in a different model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`linkedParts <abaqus.Sketcher.SketchModel.SketchModel.linkedParts>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A tuple of tuples of Strings specifying the linked child Part name in the current model to the corresponding parent Part name in a different model."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`loads <abaqus.Sketcher.SketchModel.SketchModel.loads>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Load objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`materials <abaqus.Sketcher.SketchModel.SketchModel.materials>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Material objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`calibrations <abaqus.Sketcher.SketchModel.SketchModel.calibrations>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Calibration objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`sections <abaqus.Sketcher.SketchModel.SketchModel.sections>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Section objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`remeshingRules <abaqus.Sketcher.SketchModel.SketchModel.remeshingRules>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of RemeshingRule objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`sketches <abaqus.Sketcher.SketchModel.SketchModel.sketches>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of ConstrainedSketch objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`parts <abaqus.Sketcher.SketchModel.SketchModel.parts>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Part objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`steps <abaqus.Sketcher.SketchModel.SketchModel.steps>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Step objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`featureOptions <abaqus.Sketcher.SketchModel.SketchModel.featureOptions>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A :py:class:`~abaqus.Feature.FeatureOptions.FeatureOptions` object."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`adaptiveMeshConstraints <abaqus.Sketcher.SketchModel.SketchModel.adaptiveMeshConstraints>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of AdaptiveMeshConstraint objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`adaptiveMeshControls <abaqus.Sketcher.SketchModel.SketchModel.adaptiveMeshControls>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of AdaptiveMeshControl objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`timePoints <abaqus.Sketcher.SketchModel.SketchModel.timePoints>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of TimePoint objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`filters <abaqus.Sketcher.SketchModel.SketchModel.filters>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of Filter objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`integratedOutputSections <abaqus.Sketcher.SketchModel.SketchModel.integratedOutputSections>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of IntegratedOutputSection objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`fieldOutputRequests <abaqus.Sketcher.SketchModel.SketchModel.fieldOutputRequests>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of FieldOutputRequest objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`historyOutputRequests <abaqus.Sketcher.SketchModel.SketchModel.historyOutputRequests>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of HistoryOutputRequest objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`optimizationTasks <abaqus.Sketcher.SketchModel.SketchModel.optimizationTasks>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of OptimizationTask objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`tableCollections <abaqus.Sketcher.SketchModel.SketchModel.tableCollections>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of TableCollection objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`eventSeriesTypes <abaqus.Sketcher.SketchModel.SketchModel.eventSeriesTypes>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of EventSeriesType objects."
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid ":py:obj:`eventSeriesDatas <abaqus.Sketcher.SketchModel.SketchModel.eventSeriesDatas>`\\"
 msgstr ""
 
-#: ../None:55:<autosummary>:1
+#: ../../None:55:<autosummary>:1
 msgid "A repository of EventSeriesData objects."
 msgstr ""
 
@@ -559,51 +559,51 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`ConstrainedSketch <abaqus.Sketcher.SketchModel.SketchModel.ConstrainedSketch>`\\ \\(name\\, sheetSize\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a ConstrainedSketch object."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.SketchModel.SketchModel.__init__>`\\ \\(name\\[\\, description\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method creates a Model object."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`ModelFromInputFile <abaqus.Sketcher.SketchModel.SketchModel.ModelFromInputFile>`\\ \\(name\\, inputFileName\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method creates a Model object by reading the keywords in an input file and creating the corresponding Abaqus/CAE objects."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`ModelFromOdbFile <abaqus.Sketcher.SketchModel.SketchModel.ModelFromOdbFile>`\\ \\(name\\, odbFileName\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method creates a Model object by reading an output database and creating any corresponding Abaqus/CAE objects."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`ModelFromNastranFile <abaqus.Sketcher.SketchModel.SketchModel.ModelFromNastranFile>`\\ \\(modelName\\, inputFileName\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method creates a Model object by reading the keywords in a Nastran bulk data file or Nastran input file and creating any corresponding Abaqus/CAE objects."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Sketcher.SketchModel.SketchModel.setValues>`\\ \\(\\[description\\, noPartsInputFile\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method modifies the Model object."
 msgstr ""
 
@@ -927,640 +927,640 @@ msgstr ""
 msgid "ConstrainedSketch"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.dimensions:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.dimensions:2
 msgid "A repository of ConstrainedSketchDimension objects."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.geometry:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.geometry:2
 msgid "A :py:class:`~abaqus.Amplitude.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray` object specifying the sketch geometry, such as lines, arcs, circles, and splines."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.parameters:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.parameters:2
 msgid "A repository of ConstrainedSketchParameter objects specifying sketch parameters, which may be associated with dimensions."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.sketchOptions:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.sketchOptions:2
 msgid "A :py:class:`~abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchOptions.ConstrainedSketchOptions` object specifying the sketch option settings."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.vertices:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.vertices:2
 msgid "A :py:class:`~abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray` object."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.imageOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.imageOptions:2
+#: ../../None:9:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.imageOptions:2
 msgid "A :py:class:`~abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchImageOptions.ConstrainedSketchImageOptions` object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.__init__>`\\ \\(\\)\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`ConstrainedSketchFromGeometryFile <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstrainedSketchFromGeometryFile>`\\ \\(name\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstrainedSketchFromGeometryFile:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates a ConstrainedSketch object and places it in the sketches repository."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`print <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.print>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method prints the following statistics about a sketch: - The sketch Id (a positive integer)."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`assignCenterline <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.assignCenterline>`\\ \\(line\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.assignCenterline:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method indicates the construction line that will be used as a centerline for revolved features."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`assignCenterOfTwist <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.assignCenterOfTwist>`\\ \\(point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.assignCenterOfTwist:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method indicates the isolated point that will be used as the center of twist when an extruded feature is created with twist."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`autoDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.autoDimension>`\\ \\(objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.autoDimension:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method applies dimensions to the selected ConstrainedSketchGeometry objects in an effort to make the ConstrainedSketch well defined."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`autoTrimCurve <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.autoTrimCurve>`\\ \\(curve1\\, point1\\, parameter1\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method automatically trims a selected ConstrainedSketchGeometry object at the specified location."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`breakCurve <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.breakCurve>`\\ \\(curve1\\, point1\\, curve2\\, point2\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method breaks a specified ConstrainedSketchGeometry object (*curve1*) using another specified ConstrainedSketchGeometry object (*curve2*)."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`copyMirror <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyMirror>`\\ \\(mirrorLine\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyMirror:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates copies of the given ConstrainedSketchGeometry objects, mirrors them about a selected line, and inserts them into the appropriate repositories of the ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`copyMove <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyMove>`\\ \\(vector\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyMove:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates copies of the given ConstrainedSketchGeometry objects, moves them from their original position, and inserts them into the appropriate repositories of the ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`copyRotate <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyRotate>`\\ \\(centerPoint\\, angle\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyRotate:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates copies of the given ConstrainedSketchGeometry objects, rotates them, and inserts them into the appropriate repositories of the ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`copyScale <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyScale>`\\ \\(scaleValue\\, scaleCenter\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.copyScale:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates copies of the given ConstrainedSketchGeometry objects, scales them by the specified value about a selected point, and inserts them into the appropriate repositories of the ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`delete <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.delete>`\\ \\(objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.delete:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method deletes the given ConstrainedSketchGeometry, ConstrainedSketchDimension, or ConstrainedSketchConstraint objects."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`deleteParameter <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.deleteParameter>`\\ \\(name\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.deleteParameter:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "The command deletes a specified parameter."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`dragEntity <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.dragEntity>`\\ \\(entity\\, points\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.dragEntity:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method drags a specified ConstrainedSketchGeometry or ConstrainedSketchVertex object to a specific location."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`linearPattern <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.linearPattern>`\\ \\(number1\\, spacing1\\, angle1\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method copies ConstrainedSketchGeometry objects in a linear pattern along one or two directions."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`mergeVertices <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.mergeVertices>`\\ \\(value\\, vertexList\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method merges the ConstrainedSketchVertex objects that lie within the specified distance of each other."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`move <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.move>`\\ \\(vector\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.move:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method translates the given ConstrainedSketchGeometry objects by the given vector."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`offset <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.offset>`\\ \\(distance\\, objectList\\, side\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates copies of the selected ConstrainedSketchGeometry objects, offsets them by the specified distance in the specified direction, and inserts them into the ConstrainedSketch object's appropriate repositories."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`radialPattern <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.radialPattern>`\\ \\(number\\, totalAngle\\, centerPoint\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.radialPattern:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method copies ConstrainedSketchGeometry objects in a radial pattern about a specified center point."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`resetView <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.resetView>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.resetView:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method resets the view to be perpendicular to the sketching plane."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`rectangle <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.rectangle>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.rectangle:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method creates four lines that form a rectangle with diagonal corners defined by the given points and inserts them into the geometry repository of the ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`removeGapsAndOverlaps <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.removeGapsAndOverlaps>`\\ \\(tolerance\\, geomList\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method removes gaps and overlaps between sketch geometries specified by the user."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`repairShortEdges <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.repairShortEdges>`\\ \\(geomList\\[\\, tolerance\\]\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method deletes the short edges specified, optionally selecting only those short edges whose lengths are smaller than the specified tolerance and healing the resultant gap in the sketch."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`retrieveSketch <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.retrieveSketch>`\\ \\(sketch\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method copies all ConstrainedSketchGeometry, ConstrainedSketchDimension, ConstrainedSketchConstraint, and ConstrainedSketchParameter objects from the specified ConstrainedSketch object."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`rotate <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.rotate>`\\ \\(centerPoint\\, angle\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.rotate:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method rotates the given ConstrainedSketchGeometry objects by the given angle and about the given point."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`scale <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.scale>`\\ \\(scaleValue\\, scaleCenter\\, objectList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.scale:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method scales the given ConstrainedSketchGeometry objects by the given scale factor and about the given point."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`setPrimaryObject <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.setPrimaryObject>`\\ \\(option\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method makes the ConstrainedSketch object the primary object in the current viewport."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`trimExtendCurve <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.trimExtendCurve>`\\ \\(curve1\\, point1\\, curve2\\, point2\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method trims or extends a specified ConstrainedSketchGeometry object (*curve1*) using another specified ConstrainedSketchGeometry object (*curve2*)."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`undo <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.undo>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.undo:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method undoes the effects of the last ConstrainedSketch object method."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`unsetPrimaryObject <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.unsetPrimaryObject>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method removes the ConstrainedSketch object from the current viewport, reversing the effects of the setPrimaryobject command."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`writeAcisFile <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.writeAcisFile>`\\ \\(fileName\\[\\, version\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.writeAcisFile:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method exports the geometry of the sketch to a named file in ACIS format."
 msgstr ""
 
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid ":py:obj:`writeIgesFile <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.writeIgesFile>`\\ \\(filename\\[\\, flavor\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.writeIgesFile:2
-#: ../None:35:<autosummary>:1
+#: ../../None:35:<autosummary>:1
 msgid "This method exports the geometry of the sketch to a named file in IGES format."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`CoincidentConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.CoincidentConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a coincident constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`ConcentricConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConcentricConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a concentric constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualLengthConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.EqualLengthConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates an equal length constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualRadiusConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.EqualRadiusConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates an equal radius constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`FixedConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.FixedConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a fixed constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`HorizontalConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.HorizontalConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a horizontal constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`VerticalConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.VerticalConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a vertical constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`ParallelConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ParallelConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a parallel constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`PerpendicularConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.PerpendicularConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a perpendicular constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualDistanceConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.EqualDistanceConstraint>`\\ \\(entity1\\, entity2\\, ...\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates an equal distance constraint."
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`TangentConstraint <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.TangentConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:13:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a tangent constraint."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`AngularDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.AngularDimension>`\\ \\(line1\\, line2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.AngularDimension:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchDimension/ConstrainedSketchDimensionModel.py:docstring of abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.AngularDimension:2
-#: ../None:3:<autosummary>:1
-#: ../None:8:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "This method constructs a ConstrainedSketchDimension object between two ConstrainedSketchGeometry objects, with the given angle between them."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`HorizontalDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.HorizontalDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../None:8:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "This method constructs a ConstrainedSketchDimension object between two vertices."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`ObliqueDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ObliqueDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`RadialDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.RadialDimension>`\\ \\(curve\\, textPoint\\[\\, value\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../None:8:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "This method constructs a ConstrainedSketchDimension object on a circular or elliptical arc."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`VerticalDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.VerticalDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../None:8:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "This method constructs a ConstrainedSketchDimension between two vertices."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`DistanceDimension <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.DistanceDimension>`\\ \\(entity1\\, entity2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../None:8:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "This method constructs a ConstrainedSketchDimension object between two ConstrainedSketchGeometry, or aConstrainedSketchVertex and ConstrainedSketchGeometry object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Arc3Points <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.Arc3Points>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Arc3Points:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Arc3Points:2
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs an arc using a two endpoints and an intermediate third point on the arc."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ArcByCenterEnds <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ArcByCenterEnds>`\\ \\(center\\, point1\\, point2\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs an arc using a center point and two vertices."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ArcByStartEndTangent <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ArcByStartEndTangent>`\\ \\(point1\\, point2\\, vector\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs an arc using two vertices."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`CircleByCenterPerimeter <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.CircleByCenterPerimeter>`\\ \\(center\\, point1\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs a circle using a center point and a point on the perimeter."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ConstructionCircleByCenterPerimeter <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstructionCircleByCenterPerimeter>`\\ \\(center\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs a construction circle using a center point and a point on the perimeter."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`EllipseByCenterPerimeter <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.EllipseByCenterPerimeter>`\\ \\(center\\, axisPoint1\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs an ellipse using a center point, a major axis point, and a minor axis point."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`FilletByRadius <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.FilletByRadius>`\\ \\(radius\\, curve1\\, nearPoint1\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method constructs a fillet arc of a given radius between two curves."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Line <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.Line>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Line:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Line:2
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a line between two given points."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ConstructionLine <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstructionLine>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ConstructionLine:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ConstructionLine:2
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates an oblique construction line that runs between two given points."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Spline <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.Spline>`\\ \\(points\\[\\, constrainPoints\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Spline:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Spline:2
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a spline curve running through a sequence of points."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`Spot <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.Spot>`\\ \\(point\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a spot construction point located at the specified coordinates."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getVertices <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.getVertices>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getVertices:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getVertices:2
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "This method returns an list of ConstrainedSketchVertex objects which are a part of the given ConstrainedSketchGeometry object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.getSize>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getSize:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getSize:2
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "This method returns the length of the given ConstrainedSketchGeometry object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getPointAtDistance <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.getPointAtDistance>`\\ \\(point\\, distance\\[\\, percentage\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getPointAtDistance:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryModel.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getPointAtDistance:2
-#: ../None:16:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:16:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method returns a point offset along the given ConstrainedSketchGeometry from the given end by a specified arc length distance or a percentage of the total length of the ConstrainedSketchGeometry object."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`ConstrainedSketchParameter <abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch.ConstrainedSketchParameter>`\\ \\(name\\[\\, path\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketch.py:docstring of abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.ConstrainedSketchParameter:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchParameter/ConstrainedSketchParameterModel.py:docstring of abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.ConstrainedSketchParameter:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a parameter and optionally associates a dimension with this parameter."
 msgstr ""
 
@@ -3227,75 +3227,75 @@ msgstr ""
 msgid "A :py:class:`~abaqus.Sketcher.ConstrainedSketch.ConstrainedSketch` object contains the entities that are used to create a sketch. The objects include ConstrainedSketchGeometry objects contained in the ConstrainedSketchGeometry Repository, such as Line, Arc, and Spline. ConstrainedSketchVertex, ConstrainedSketchDimension, ConstrainedSketchConstraint, and ConstrainedSketchParameter objects are contained in their respective repositories."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.imageOptions>`\\"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`CoincidentConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.CoincidentConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`ConcentricConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.ConcentricConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualLengthConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.EqualLengthConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualRadiusConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.EqualRadiusConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`FixedConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.FixedConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`HorizontalConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.HorizontalConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`VerticalConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.VerticalConstraint>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`ParallelConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.ParallelConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`PerpendicularConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.PerpendicularConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`EqualDistanceConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.EqualDistanceConstraint>`\\ \\(entity1\\, entity2\\, ...\\)"
 msgstr ""
 
-#: ../None:13:<autosummary>:1
+#: ../../None:13:<autosummary>:1
 msgid ":py:obj:`TangentConstraint <abaqus.Sketcher.ConstrainedSketchConstraint.ConstrainedSketchConstraintModel.ConstrainedSketchConstraintModel.TangentConstraint>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3303,55 +3303,55 @@ msgstr ""
 msgid "ConstrainedSketchDimensionModel"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.imageOptions>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`AngularDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.AngularDimension>`\\ \\(line1\\, line2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`HorizontalDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.HorizontalDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`ObliqueDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.ObliqueDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`RadialDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.RadialDimension>`\\ \\(curve\\, textPoint\\[\\, value\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`VerticalDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.VerticalDimension>`\\ \\(vertex1\\, vertex2\\, textPoint\\)"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`DistanceDimension <abaqus.Sketcher.ConstrainedSketchDimension.ConstrainedSketchDimensionModel.ConstrainedSketchDimensionModel.DistanceDimension>`\\ \\(entity1\\, entity2\\, textPoint\\)"
 msgstr ""
 
@@ -3359,87 +3359,87 @@ msgstr ""
 msgid "ConstrainedSketchGeometryModel"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.imageOptions>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Arc3Points <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Arc3Points>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ArcByCenterEnds <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ArcByCenterEnds>`\\ \\(center\\, point1\\, point2\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ArcByStartEndTangent <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ArcByStartEndTangent>`\\ \\(point1\\, point2\\, vector\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`CircleByCenterPerimeter <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.CircleByCenterPerimeter>`\\ \\(center\\, point1\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ConstructionCircleByCenterPerimeter <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ConstructionCircleByCenterPerimeter>`\\ \\(center\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`EllipseByCenterPerimeter <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.EllipseByCenterPerimeter>`\\ \\(center\\, axisPoint1\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`FilletByRadius <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.FilletByRadius>`\\ \\(radius\\, curve1\\, nearPoint1\\, ...\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Line <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Line>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`ConstructionLine <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.ConstructionLine>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Spline <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Spline>`\\ \\(points\\[\\, constrainPoints\\]\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`Spot <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.Spot>`\\ \\(point\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getVertices <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getVertices>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getSize>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`getPointAtDistance <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryModel.ConstrainedSketchGeometryModel.getPointAtDistance>`\\ \\(point\\, distance\\[\\, percentage\\]\\)"
 msgstr ""
 
@@ -3447,35 +3447,35 @@ msgstr ""
 msgid "ConstrainedSketchParameterModel"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.imageOptions>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`ConstrainedSketchParameter <abaqus.Sketcher.ConstrainedSketchParameter.ConstrainedSketchParameterModel.ConstrainedSketchParameterModel.ConstrainedSketchParameter>`\\ \\(name\\[\\, path\\, ...\\]\\)"
 msgstr ""
 
@@ -3483,41 +3483,41 @@ msgstr ""
 msgid "ConstrainedSketchVertexModel"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`constraints <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.constraints>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`dimensions <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.dimensions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`geometry <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.geometry>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`parameters <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.parameters>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`sketchOptions <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.sketchOptions>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.vertices>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`imageOptions <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.imageOptions>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`Spot <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.Spot>`\\ \\(point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchVertex/ConstrainedSketchVertex.py:docstring of abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex.Spot:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchVertex/ConstrainedSketchVertexModel.py:docstring of abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexModel.ConstrainedSketchVertexModel.Spot:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a spot (construction point) located at the specified coordinates."
 msgstr ""
 
@@ -3538,7 +3538,7 @@ msgstr ""
 msgid "CoincidentConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.CoincidentConstraint.CoincidentConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3546,7 +3546,7 @@ msgstr ""
 msgid "ConcentricConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.ConcentricConstraint.ConcentricConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3566,7 +3566,7 @@ msgstr ""
 msgid "EqualDistanceConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.EqualDistanceConstraint.EqualDistanceConstraint.__init__>`\\ \\(entity1\\, entity2\\, midpoint\\)"
 msgstr ""
 
@@ -3574,7 +3574,7 @@ msgstr ""
 msgid "EqualLengthConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.EqualLengthConstraint.EqualLengthConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3582,7 +3582,7 @@ msgstr ""
 msgid "EqualRadiusConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.EqualRadiusConstraint.EqualRadiusConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3590,7 +3590,7 @@ msgstr ""
 msgid "FixedConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.FixedConstraint.FixedConstraint.__init__>`\\ \\(entity\\)"
 msgstr ""
 
@@ -3598,7 +3598,7 @@ msgstr ""
 msgid "HorizontalConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.HorizontalConstraint.HorizontalConstraint.__init__>`\\ \\(entity\\)"
 msgstr ""
 
@@ -3606,7 +3606,7 @@ msgstr ""
 msgid "ParallelConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.ParallelConstraint.ParallelConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3614,7 +3614,7 @@ msgstr ""
 msgid "PerpendicularConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.PerpendicularConstraint.PerpendicularConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3622,7 +3622,7 @@ msgstr ""
 msgid "TangentConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.TangentConstraint.TangentConstraint.__init__>`\\ \\(entity1\\, entity2\\)"
 msgstr ""
 
@@ -3630,7 +3630,7 @@ msgstr ""
 msgid "VerticalConstraint"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchConstraint.VerticalConstraint.VerticalConstraint.__init__>`\\ \\(entity\\)"
 msgstr ""
 
@@ -3638,7 +3638,7 @@ msgstr ""
 msgid "AngularDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.AngularDimension.AngularDimension.__init__>`\\ \\(line1\\, line2\\, textPoint\\[\\, value\\, ...\\]\\)"
 msgstr ""
 
@@ -3646,7 +3646,7 @@ msgstr ""
 msgid "DistanceDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.DistanceDimension.DistanceDimension.__init__>`\\ \\(entity1\\, entity2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
@@ -3654,7 +3654,7 @@ msgstr ""
 msgid "HorizontalDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.HorizontalDimension.HorizontalDimension.__init__>`\\ \\(vertex1\\, vertex2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
@@ -3662,7 +3662,7 @@ msgstr ""
 msgid "ObliqueDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.ObliqueDimension.ObliqueDimension.__init__>`\\ \\(vertex1\\, vertex2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
@@ -3670,7 +3670,7 @@ msgstr ""
 msgid "RadialDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.RadialDimension.RadialDimension.__init__>`\\ \\(curve\\, textPoint\\[\\, value\\, ...\\]\\)"
 msgstr ""
 
@@ -3678,7 +3678,7 @@ msgstr ""
 msgid "VerticalDimension"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchDimension.VerticalDimension.VerticalDimension.__init__>`\\ \\(vertex1\\, vertex2\\, textPoint\\[\\, ...\\]\\)"
 msgstr ""
 
@@ -3694,45 +3694,45 @@ msgstr ""
 msgid "Check `ConstrainedSketchGeometry on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchgeometrypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.id:2
+#: ../../None:6:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.id:2
 msgid "An Int specifying the index of the sketch entity in the ConstrainedSketchGeometryArray."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A SymbolicConstant specifying the geometry of the sketch entity."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A SymbolicConstant specifying the type of sketch entity."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.pointOn>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.pointOn:2
+#: ../../None:6:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.pointOn:2
 msgid "A tuple of Floats specifying the **X**- and*Y*-coordinates of a point located on the geometry."
 msgstr ""
 
-#: ../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.curveType:2
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.curveType:2
 msgid "A SymbolicConstant specifying the geometry of the sketch entity. Possible values are ARC, CIRCLE, ELLIPSE, LINE, and SPLINE."
 msgstr ""
 
-#: ../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.type:2
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometry.ConstrainedSketchGeometry.type:2
 msgid "A SymbolicConstant specifying the type of sketch entity. Possible values are REGULAR, REFERENCE, and CONSTRUCTION."
 msgstr ""
 
@@ -3748,290 +3748,290 @@ msgstr ""
 msgid "Check `ConstrainedSketchGeometryArray on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchgeometryarraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchGeometry/ConstrainedSketchGeometryArray.py:docstring of abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.findAt:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method returns the ConstrainedSketchGeometry object located at the given coordinates."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return repr(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return getattr(self, name)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self<value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self<=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self==value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self!=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self>value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self>=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement iter(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__init__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return len(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "x.__getitem__(y) <==> x[y]"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Set self[key] to value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Delete self[key]."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self+value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self*value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return value*self."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return key in self."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement self+=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement self*=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return a reverse iterator over the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return the size of the list in memory, in bytes."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove all items from list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return a shallow copy of the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Append object to the end of the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Insert object before index."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Extend list by appending elements from the iterable."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove and return item at index (default last)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove first occurrence of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return first index of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return number of occurrences of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Reverse *IN PLACE*."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Sort the list in ascending order and return None."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "See PEP 585"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method is called when a class is subclassed."
 msgstr ""
 
@@ -4040,7 +4040,7 @@ msgstr ""
 msgid "Private Data Attributes:"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.Sketcher.ConstrainedSketchGeometry.ConstrainedSketchGeometryArray.ConstrainedSketchGeometryArray._is_protocol>`\\"
 msgstr ""
 
@@ -4080,23 +4080,23 @@ msgstr ""
 msgid "Arc3Points"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.Arc3Points.Arc3Points.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.Arc3Points.Arc3Points.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.Arc3Points.Arc3Points.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.Arc3Points.Arc3Points.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.Arc3Points.Arc3Points.__init__>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
@@ -4104,23 +4104,23 @@ msgstr ""
 msgid "ArcByCenterEnds"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByCenterEnds.ArcByCenterEnds.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByCenterEnds.ArcByCenterEnds.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByCenterEnds.ArcByCenterEnds.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByCenterEnds.ArcByCenterEnds.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByCenterEnds.ArcByCenterEnds.__init__>`\\ \\(center\\, point1\\, point2\\, direction\\)"
 msgstr ""
 
@@ -4128,23 +4128,23 @@ msgstr ""
 msgid "ArcByStartEndTangent"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByStartEndTangent.ArcByStartEndTangent.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByStartEndTangent.ArcByStartEndTangent.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByStartEndTangent.ArcByStartEndTangent.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByStartEndTangent.ArcByStartEndTangent.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.ArcByStartEndTangent.ArcByStartEndTangent.__init__>`\\ \\(point1\\, point2\\, vector\\)"
 msgstr ""
 
@@ -4152,23 +4152,23 @@ msgstr ""
 msgid "CircleByCenterPerimeter"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.CircleByCenterPerimeter.CircleByCenterPerimeter.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.CircleByCenterPerimeter.CircleByCenterPerimeter.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.CircleByCenterPerimeter.CircleByCenterPerimeter.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.CircleByCenterPerimeter.CircleByCenterPerimeter.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.CircleByCenterPerimeter.CircleByCenterPerimeter.__init__>`\\ \\(center\\, point1\\)"
 msgstr ""
 
@@ -4176,23 +4176,23 @@ msgstr ""
 msgid "ConstructionCircleByCenterPerimeter"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionCircleByCenterPerimeter.ConstructionCircleByCenterPerimeter.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionCircleByCenterPerimeter.ConstructionCircleByCenterPerimeter.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionCircleByCenterPerimeter.ConstructionCircleByCenterPerimeter.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionCircleByCenterPerimeter.ConstructionCircleByCenterPerimeter.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionCircleByCenterPerimeter.ConstructionCircleByCenterPerimeter.__init__>`\\ \\(center\\, point1\\)"
 msgstr ""
 
@@ -4200,23 +4200,23 @@ msgstr ""
 msgid "ConstructionLine"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionLine.ConstructionLine.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionLine.ConstructionLine.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionLine.ConstructionLine.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionLine.ConstructionLine.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.ConstructionLine.ConstructionLine.__init__>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
@@ -4224,23 +4224,23 @@ msgstr ""
 msgid "EllipseByCenterPerimeter"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.EllipseByCenterPerimeter.EllipseByCenterPerimeter.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.EllipseByCenterPerimeter.EllipseByCenterPerimeter.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.EllipseByCenterPerimeter.EllipseByCenterPerimeter.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.EllipseByCenterPerimeter.EllipseByCenterPerimeter.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.EllipseByCenterPerimeter.EllipseByCenterPerimeter.__init__>`\\ \\(center\\, axisPoint1\\, axisPoint2\\)"
 msgstr ""
 
@@ -4248,23 +4248,23 @@ msgstr ""
 msgid "FilletByRadius"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.FilletByRadius.FilletByRadius.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.FilletByRadius.FilletByRadius.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.FilletByRadius.FilletByRadius.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.FilletByRadius.FilletByRadius.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.FilletByRadius.FilletByRadius.__init__>`\\ \\(radius\\, curve1\\, nearPoint1\\, curve2\\, ...\\)"
 msgstr ""
 
@@ -4272,23 +4272,23 @@ msgstr ""
 msgid "getPointAtDistance"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.getPointAtDistance.getPointAtDistance.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.getPointAtDistance.getPointAtDistance.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.getPointAtDistance.getPointAtDistance.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.getPointAtDistance.getPointAtDistance.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.getPointAtDistance.getPointAtDistance.__init__>`\\ \\(point\\, distance\\[\\, percentage\\]\\)"
 msgstr ""
 
@@ -4296,23 +4296,23 @@ msgstr ""
 msgid "Line"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.Line.Line.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.Line.Line.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.Line.Line.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.Line.Line.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.Line.Line.__init__>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
@@ -4320,23 +4320,23 @@ msgstr ""
 msgid "Spline"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.Spline.Spline.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.Spline.Spline.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.Spline.Spline.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.Spline.Spline.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.Spline.Spline.__init__>`\\ \\(points\\[\\, constrainPoints\\]\\)"
 msgstr ""
 
@@ -4345,23 +4345,23 @@ msgstr ""
 msgid "Spot"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Sketcher.ConstrainedSketchGeometry.Spot.Spot.id>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`curveType <abaqus.Sketcher.ConstrainedSketchGeometry.Spot.Spot.curveType>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`type <abaqus.Sketcher.ConstrainedSketchGeometry.Spot.Spot.type>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Sketcher.ConstrainedSketchGeometry.Spot.Spot.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchGeometry.Spot.Spot.__init__>`\\ \\(point\\)"
 msgstr ""
 
@@ -4377,14 +4377,14 @@ msgstr ""
 msgid "Check `ConstrainedSketcherOptions on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketcheroptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketcherOptions.ConstrainedSketcherOptions.setValues>`\\ \\(\\[constructionGeometry\\, gridSnap\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchOptions/ConstrainedSketchImageOptions.py:docstring of abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchImageOptions.ConstrainedSketchImageOptions.setValues:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchOptions/ConstrainedSketchOptions.py:docstring of abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchOptions.ConstrainedSketchOptions.setValues:2
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchOptions/ConstrainedSketcherOptions.py:docstring of abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketcherOptions.ConstrainedSketcherOptions.setValues:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method modifies the ConstrainedSketchOptions object."
 msgstr ""
 
@@ -4510,7 +4510,7 @@ msgstr ""
 msgid "Check `ConstrainedSketchImageOptions on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchimageoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchImageOptions.ConstrainedSketchImageOptions.setValues>`\\ \\(\\[imageName\\, showImage\\, origin\\, ...\\]\\)"
 msgstr ""
 
@@ -4578,7 +4578,7 @@ msgstr ""
 msgid "Check `ConstrainedSketchOptions on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchoptionspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Sketcher.ConstrainedSketchOptions.ConstrainedSketchOptions.ConstrainedSketchOptions.setValues>`\\ \\(\\[sheetSize\\, gridSpacing\\, grid\\, ...\\]\\)"
 msgstr ""
 
@@ -4662,43 +4662,43 @@ msgstr ""
 msgid "Parameter"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.name>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A String specifying the name of the ConstrainedSketchParameter object."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`path <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.path>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A String specifying the path to the ConstrainedSketchDimension that depends on this ConstrainedSketchParameter."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`expression <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.expression>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A String specifying an expression or value associated with this ConstrainedSketchParameter."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`previousParameter <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.previousParameter>`\\"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "A String specifying the name of the ConstrainedSketchParameter that appears before this one in the ordered list."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.__init__>`\\ \\(name\\[\\, path\\, expression\\, previous\\]\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`Parameter <abaqus.Sketcher.ConstrainedSketchParameter.Parameter.Parameter.Parameter>`\\ \\(name\\[\\, path\\, expression\\, ...\\]\\)"
 msgstr ""
 
@@ -4714,16 +4714,16 @@ msgstr ""
 msgid "Check `ConstrainedSketchVertex on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchvertexpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`coords <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex.coords>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../docstring of abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex.coords:2
+#: ../../None:3:<autosummary>:1
+#: ../../docstring of abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex.coords:2
 msgid "A tuple of Floats specifying the*X*-, **Y**-, and **Z**-coordinates of the sketch vertex."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`Spot <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex.Spot>`\\ \\(point\\)"
 msgstr ""
 
@@ -4748,157 +4748,157 @@ msgstr ""
 msgid "Check `ConstrainedSketchVertexArray on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-constrainedsketchvertexarraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Sketcher/ConstrainedSketchVertex/ConstrainedSketchVertexArray.py:docstring of abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.findAt:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method returns the ConstrainedSketchVertex located at the given coordinates."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__init__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertexArray.ConstrainedSketchVertexArray._is_protocol>`\\"
 msgstr ""
 
@@ -4910,14 +4910,14 @@ msgstr ""
 msgid "A :py:class:`~abaqus.Sketcher.ConstrainedSketchVertex.ConstrainedSketchVertex.ConstrainedSketchVertex` object."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`coords <abaqus.Sketcher.ConstrainedSketchVertex.Spot.Spot.coords>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Sketcher.ConstrainedSketchVertex.Spot.Spot.__init__>`\\ \\(point\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`Spot <abaqus.Sketcher.ConstrainedSketchVertex.Spot.Spot.Spot>`\\ \\(point\\)"
 msgstr ""

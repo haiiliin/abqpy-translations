@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,29 +55,29 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`Instance <abaqus.Assembly.AssemblyModel.AssemblyModel.Instance>`\\ \\(name\\, objectToCopy\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/AssemblyModel.py:docstring of abaqus.Assembly.AssemblyModel.AssemblyModel.Instance:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method copies a PartInstance object from the specified model and creates a new PartInstance object."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`convertAllSketches <abaqus.Assembly.AssemblyModel.AssemblyModel.convertAllSketches>`\\ \\(\\[regenerate\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/AssemblyModel.py:docstring of abaqus.Assembly.AssemblyModel.AssemblyModel.convertAllSketches:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method converts all sketches from Abaqus 6.5 or earlier to the equivalent ConstrainedSketch objects."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`linkInstances <abaqus.Assembly.AssemblyModel.AssemblyModel.linkInstances>`\\ \\(instancesMap\\)"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method links the selected PartInstance objects to the corresponding PartInstance objects from the specified models."
 msgstr ""
 
@@ -385,9 +385,9 @@ msgid "**name**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/AssemblyModel.py:docstring of abaqus.Assembly.AssemblyModel.AssemblyModel.Instance:18
-#: ../None:28:<autosummary>:1
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.name:2
+#: ../../None:28:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.name:2
 msgid "A String specifying the repository key."
 msgstr ""
 
@@ -590,1189 +590,1189 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`isOutOfDate <abaqus.Assembly.Assembly.Assembly.isOutOfDate>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "An Int specifying that feature parameters have been modified but that the assembly has not been regenerated."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`timeStamp <abaqus.Assembly.Assembly.Assembly.timeStamp>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.timeStamp:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.timeStamp:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.timeStamp:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.timeStamp:2
 msgid "A Float specifying which gives an indication when the assembly was last modified."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`isLocked <abaqus.Assembly.Assembly.Assembly.isLocked>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "An Int specifying whether the assembly is locked or not."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`regenerateConstraintsTogether <abaqus.Assembly.Assembly.Assembly.regenerateConstraintsTogether>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "A Boolean specifying whether the positioning constraints in the assembly should be regenerated together before regenerating other assembly features."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Assembly.Assembly.Assembly.vertices>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "A :py:class:`~abaqus.BasicGeometry.VertexArray.VertexArray` object specifying all the vertices existing at the assembly level."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`edges <abaqus.Assembly.Assembly.Assembly.edges>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "An :py:class:`~abaqus.BasicGeometry.EdgeArray.EdgeArray` object specifying all the edges existing at the assembly level."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`elements <abaqus.Assembly.Assembly.Assembly.elements>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "A :py:class:`~abaqus.Mesh.MeshElementArray.MeshElementArray` object specifying all the elements existing at the assembly level."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`nodes <abaqus.Assembly.Assembly.Assembly.nodes>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "A :py:class:`~abaqus.Mesh.MeshNodeArray.MeshNodeArray` object specifying all the nodes existing at the assembly level."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`instances <abaqus.Assembly.Assembly.Assembly.instances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.instances:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.instances:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.instances:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.instances:2
 msgid "A repository of PartInstance objects."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`datums <abaqus.Assembly.Assembly.Assembly.datums>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.datums:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.datums:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.datums:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.datums:2
 msgid "A repository of Datum objects specifying all Datum objects in the assembly."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`features <abaqus.Assembly.Assembly.Assembly.features>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.features:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.features:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.features:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.features:2
 msgid "A repository of Feature objects specifying all Feature objects in the assembly."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`featuresById <abaqus.Assembly.Assembly.Assembly.featuresById>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid "A repository of Feature objects specifying all Feature objects in the assembly.The Feature objects in the featuresById repository are the same as the Feature objects in the features repository."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`surfaces <abaqus.Assembly.Assembly.Assembly.surfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.allSurfaces:2
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.surfaces:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allSurfaces:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.surfaces:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.allSurfaces:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.surfaces:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allSurfaces:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.surfaces:2
 msgid "A repository of Surface objects specifying for more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allSurfaces <abaqus.Assembly.Assembly.Assembly.allSurfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInternalSurfaces <abaqus.Assembly.Assembly.Assembly.allInternalSurfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.allInternalSurfaces:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSurfaces:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.allInternalSurfaces:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSurfaces:2
 msgid "A repository of Surface objects specifying picked regions."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`sets <abaqus.Assembly.Assembly.Assembly.sets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.sets:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.sets:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.sets:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.sets:2
 msgid "A repository of Set objects."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allSets <abaqus.Assembly.Assembly.Assembly.allSets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.allSets:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allSets:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.allSets:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allSets:2
 msgid "A repository of Set objects specifying for more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInternalSets <abaqus.Assembly.Assembly.Assembly.allInternalSets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.allInternalSets:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSets:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.allInternalSets:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSets:2
 msgid "A repository of Set objects specifying picked regions."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`skins <abaqus.Assembly.Assembly.Assembly.skins>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.skins:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.skins:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.skins:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.skins:2
 msgid "A repository of Skin objects specifying the skins created on the assembly."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`stringers <abaqus.Assembly.Assembly.Assembly.stringers>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.stringers:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.stringers:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.stringers:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.stringers:2
 msgid "A repository of Stringer objects specifying the stringers created on the assembly."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`referencePoints <abaqus.Assembly.Assembly.Assembly.referencePoints>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.referencePoints:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.referencePoints:2
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.referencePoints:2
+#: ../../None:28:<autosummary>:1
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.referencePoints:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.referencePoints:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.referencePoints:2
 msgid "A repository of ReferencePoint objects."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`modelInstances <abaqus.Assembly.Assembly.Assembly.modelInstances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.modelInstances:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.modelInstances:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.modelInstances:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.modelInstances:2
 msgid "A repository of ModelInstance objects."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInstances <abaqus.Assembly.Assembly.Assembly.allInstances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.allInstances:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInstances:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.allInstances:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.allInstances:2
 msgid "A :py:class:`~abaqus.Assembly.PartInstance.PartInstance` object specifying the PartInstances and A :py:class:`~abaqus.Model.Model.ModelInstance` object specifying the ModelInstances."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`engineeringFeatures <abaqus.Assembly.Assembly.Assembly.engineeringFeatures>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.engineeringFeatures:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.engineeringFeatures:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.engineeringFeatures:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.engineeringFeatures:2
 msgid "An :py:class:`~abaqus.EngineeringFeature.EngineeringFeature.EngineeringFeature` object."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`modelName <abaqus.Assembly.Assembly.Assembly.modelName>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.modelName:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.modelName:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.modelName:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.modelName:2
 msgid "A String specifying the name of the model to which the assembly belongs."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`connectorOrientations <abaqus.Assembly.Assembly.Assembly.connectorOrientations>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.connectorOrientations:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.connectorOrientations:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.connectorOrientations:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.connectorOrientations:2
 msgid "A :py:class:`~abaqus.Assembly.ConnectorOrientationArray.ConnectorOrientationArray` object."
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`sectionAssignments <abaqus.Assembly.Assembly.Assembly.sectionAssignments>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.sectionAssignments:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.sectionAssignments:2
+#: ../../None:29:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.sectionAssignments:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.sectionAssignments:2
 msgid "A :py:class:`~abaqus.Property.SectionAssignmentArray.SectionAssignmentArray` object."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Assembly.Assembly.Assembly.name>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Assembly.Assembly.Assembly.id>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.id:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.id:2
 msgid "An Int specifying the ID of the feature."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`ConnectorOrientation <abaqus.Assembly.Assembly.Assembly.ConnectorOrientation>`\\ \\(region\\[\\, localCsys1\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:2
-#: ../None:3:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:3:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method creates a ConnectorOrientation object."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`collapseMeshEdge <abaqus.Assembly.Assembly.Assembly.collapseMeshEdge>`\\ \\(edge\\, collapseMethod\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.collapseMeshEdge:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method collapses an edge of a quadrilateral or triangular element of a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`combineElement <abaqus.Assembly.Assembly.Assembly.combineElement>`\\ \\(elements\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.combineElement:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method combines two triangular elements of a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`deleteElement <abaqus.Assembly.Assembly.Assembly.deleteElement>`\\ \\(elements\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method deletes the given elements from a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`projectNode <abaqus.Assembly.Assembly.Assembly.projectNode>`\\ \\(nodes\\, projectionReference\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.projectNode:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method projects the given nodes of a part instance onto a mesh entity, geometric entity, or a datum object."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`editNode <abaqus.Assembly.Assembly.Assembly.editNode>`\\ \\(nodes\\[\\, coordinate1\\, coordinate2\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.editNode:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method changes the coordinates of the given nodes on a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`mergeNodes <abaqus.Assembly.Assembly.Assembly.mergeNodes>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`splitElement <abaqus.Assembly.Assembly.Assembly.splitElement>`\\ \\(elements\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.splitElement:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method splits quadrilateral elements into triangular elements."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`splitMeshEdge <abaqus.Assembly.Assembly.Assembly.splitMeshEdge>`\\ \\(edge\\[\\, parameter\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.splitMeshEdge:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method splits an edge of a quadrilateral or triangular element of a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`swapMeshEdge <abaqus.Assembly.Assembly.Assembly.swapMeshEdge>`\\ \\(edge\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.swapMeshEdge:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method swaps the diagonal of two adjacent triangular elements of a part instance."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`generateMeshByOffset <abaqus.Assembly.Assembly.Assembly.generateMeshByOffset>`\\ \\(region\\, meshType\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.EditMesh.MeshEditAssembly.MeshEditAssembly.generateMeshByOffset:2
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method generates a solid or shell mesh from an orphan mesh surface by generating layers of elements that propagate out normal to the surface boundary."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`redoMeshEdit <abaqus.Assembly.Assembly.Assembly.redoMeshEdit>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method executes the edit mesh or the bottom-up meshing operation most recently undone by the undoMeshEdit method on an assembly."
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid ":py:obj:`undoMeshEdit <abaqus.Assembly.Assembly.Assembly.undoMeshEdit>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:14:<autosummary>:1
+#: ../../None:14:<autosummary>:1
 msgid "This method undoes the most recent edit mesh or the bottom-up meshing operation on an assembly and restores the mesh on the affected part instance to its previous state."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`assignStackDirection <abaqus.Assembly.Assembly.Assembly.assignStackDirection>`\\ \\(cells\\, referenceRegion\\)"
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method assigns a stack direction to geometric cells."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`associateMeshWithGeometry <abaqus.Assembly.Assembly.Assembly.associateMeshWithGeometry>`\\ \\(geometricEntity\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.associateMeshWithGeometry:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method associates a geometric entity with mesh entities that are either orphan elements, bounds orphan elements, or were created using the bottom-up meshing technique."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`createVirtualTopology <abaqus.Assembly.Assembly.Assembly.createVirtualTopology>`\\ \\(regions\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method creates a virtual topology feature by automatically merging faces and edges based on a set of geometric parameters."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`deleteBoundaryLayerControls <abaqus.Assembly.Assembly.Assembly.deleteBoundaryLayerControls>`\\ \\(regions\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.deleteBoundaryLayerControls:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method deletes the control parameters for boundary layer mesh for all the specified regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`deleteMesh <abaqus.Assembly.Assembly.Assembly.deleteMesh>`\\ \\(regions\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.deleteMesh:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method deletes a subset of the mesh that contains the native elements from the given part instances or regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`deleteMeshAssociationWithGeometry <abaqus.Assembly.Assembly.Assembly.deleteMeshAssociationWithGeometry>`\\ \\(...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.deleteMeshAssociationWithGeometry:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method deletes the association of geometric entities with mesh entities."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`deletePreviewMesh <abaqus.Assembly.Assembly.Assembly.deletePreviewMesh>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method deletes all boundary meshes in the assembly."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`deleteSeeds <abaqus.Assembly.Assembly.Assembly.deleteSeeds>`\\ \\(regions\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.deleteSeeds:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method deletes the global edge seeds from the given part instances or deletes the local edge seeds from the given edges."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`generateBottomUpExtrudedMesh <abaqus.Assembly.Assembly.Assembly.generateBottomUpExtrudedMesh>`\\ \\(cell\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.generateBottomUpExtrudedMesh:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method generates solid elements by extruding a 2D mesh along a vector, either on an orphan mesh or within a cell region using a bottom-up technique."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`generateBottomUpSweptMesh <abaqus.Assembly.Assembly.Assembly.generateBottomUpSweptMesh>`\\ \\(cell\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.generateBottomUpSweptMesh:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method generates solid elements by sweeping a 2D mesh, either on an orphan mesh or within a cell region using a bottom-up technique."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`generateBottomUpRevolvedMesh <abaqus.Assembly.Assembly.Assembly.generateBottomUpRevolvedMesh>`\\ \\(cell\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.generateBottomUpRevolvedMesh:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method generates solid elements by revolving a 2D mesh around an axis, either on an orphan mesh or within a cell region using a bottom-up technique."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`generateMesh <abaqus.Assembly.Assembly.Assembly.generateMesh>`\\ \\(\\[regions\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.generateMesh:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method generates a mesh in the given part instances or regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getEdgeSeeds <abaqus.Assembly.Assembly.Assembly.getEdgeSeeds>`\\ \\(edge\\, attribute\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getEdgeSeeds:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns an edge seed parameter for a specified edge of an assembly."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getElementType <abaqus.Assembly.Assembly.Assembly.getElementType>`\\ \\(region\\, elemShape\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getElementType:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns the ElemType object of a given element shape assigned to a region of the assembly."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getIncompatibleMeshInterfaces <abaqus.Assembly.Assembly.Assembly.getIncompatibleMeshInterfaces>`\\ \\(\\[cells\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getIncompatibleMeshInterfaces:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns a sequence of face objects that are meshed with incompatible elements."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getMeshControl <abaqus.Assembly.Assembly.Assembly.getMeshControl>`\\ \\(region\\, attribute\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getMeshControl:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns a mesh control parameter for the specified region of the assembly."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getMeshStats <abaqus.Assembly.Assembly.Assembly.getMeshStats>`\\ \\(regions\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getMeshStats:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns the mesh statistics for the given part instances or regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getPartSeeds <abaqus.Assembly.Assembly.Assembly.getPartSeeds>`\\ \\(region\\, attribute\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getPartSeeds:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns a part seed parameter for the specified instance."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`getUnmeshedRegions <abaqus.Assembly.Assembly.Assembly.getUnmeshedRegions>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.getUnmeshedRegions:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method returns all geometric regions in the assembly that require a mesh for submitting an analysis but are either unmeshed or are meshed incompletely."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`ignoreEntity <abaqus.Assembly.Assembly.Assembly.ignoreEntity>`\\ \\(entities\\)"
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method creates a virtual topology feature."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`restoreIgnoredEntity <abaqus.Assembly.Assembly.Assembly.restoreIgnoredEntity>`\\ \\(entities\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.restoreIgnoredEntity:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method restores vertices and edges that have been merged using a virtual topology feature."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`seedEdgeByBias <abaqus.Assembly.Assembly.Assembly.seedEdgeByBias>`\\ \\(biasMethod\\, end1Edges\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.seedEdgeByBias:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method seeds the given edges nonuniformly using the specified number of elements and bias ratio or the specified minimum and maximum element sizes."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`seedEdgeByNumber <abaqus.Assembly.Assembly.Assembly.seedEdgeByNumber>`\\ \\(edges\\, number\\[\\, constraint\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.seedEdgeByNumber:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method seeds the given edges uniformly based on the number of elements along the edges."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`seedEdgeBySize <abaqus.Assembly.Assembly.Assembly.seedEdgeBySize>`\\ \\(edges\\, size\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.seedEdgeBySize:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method seeds the given edges either uniformly or following edge curvature distribution, based on the desired element size."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`seedPartInstance <abaqus.Assembly.Assembly.Assembly.seedPartInstance>`\\ \\(regions\\, size\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.seedPartInstance:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method assigns global edge seeds to the given part instances."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`setBoundaryLayerControls <abaqus.Assembly.Assembly.Assembly.setBoundaryLayerControls>`\\ \\(regions\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.setBoundaryLayerControls:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method sets the control parameters for boundary layer mesh for the specified regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`setElementType <abaqus.Assembly.Assembly.Assembly.setElementType>`\\ \\(regions\\, elemTypes\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.setElementType:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method assigns element types to the specified regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`setLogicalCorners <abaqus.Assembly.Assembly.Assembly.setLogicalCorners>`\\ \\(region\\, corners\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.setLogicalCorners:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method sets the logical corners for a mappable face region."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`setMeshControls <abaqus.Assembly.Assembly.Assembly.setMeshControls>`\\ \\(regions\\[\\, elemShape\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.setMeshControls:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method sets the mesh control parameters for the specified regions."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`setSweepPath <abaqus.Assembly.Assembly.Assembly.setSweepPath>`\\ \\(region\\, edge\\, sense\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.setSweepPath:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method sets the sweep path for a sweepable region or the revolve path for a revolvable region."
 msgstr ""
 
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid ":py:obj:`verifyMeshQuality <abaqus.Assembly.Assembly.Assembly.verifyMeshQuality>`\\ \\(criterion\\[\\, threshold\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Mesh.MeshAssembly.MeshAssembly.verifyMeshQuality:2
-#: ../None:33:<autosummary>:1
+#: ../../None:33:<autosummary>:1
 msgid "This method tests the quality of part instance meshes and returns poor-quality elements."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`SectionAssignment <abaqus.Assembly.Assembly.Assembly.SectionAssignment>`\\ \\(region\\, sectionName\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Property.PropertyAssembly.PropertyAssembly.SectionAssignment:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a SectionAssignment object."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`Surface <abaqus.Assembly.Assembly.Assembly.Surface>`\\ \\(\\[side1Faces\\, side2Faces\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method creates a surface from a sequence of objects in a model database."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`Set <abaqus.Assembly.Assembly.Assembly.Set>`\\ \\(name\\, \\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`clashSets <abaqus.Assembly.Assembly.Assembly.clashSets>`\\ \\(arg1\\, arg2\\)"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command prints a message describing the relationship between the contents of two sets. Possible outcomes are:     - Both sets are the same. - Set 2 is a subset of set 1. - Set 2 is a superset of set 1. - Set 2 intersects set 1. - Set 2 touches set 1 (their boundaries intersect). - Set 2 and set 1 are disjoint. This command accepts only positional arguments and has no keywords."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`deleteSets <abaqus.Assembly.Assembly.Assembly.deleteSets>`\\ \\(setNames\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.deleteSets:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command deletes the given sets from the assembly."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`markSetInternal <abaqus.Assembly.Assembly.Assembly.markSetInternal>`\\ \\(setName\\, internalSet\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.markSetInternal:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command marks the given Set as internal or external."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`markSurfaceInternal <abaqus.Assembly.Assembly.Assembly.markSurfaceInternal>`\\ \\(setName\\, internalSurface\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.markSurfaceInternal:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command marks the given Surface as internal or external."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`isSetInternal <abaqus.Assembly.Assembly.Assembly.isSetInternal>`\\ \\(setName\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.isSetInternal:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command returns a flag indicating whether the Set is Internal."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`isSurfaceInternal <abaqus.Assembly.Assembly.Assembly.isSurfaceInternal>`\\ \\(surfaceName\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.isSurfaceInternal:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command returns a flag indicating whether the Surface is Internal."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`deleteSurfaces <abaqus.Assembly.Assembly.Assembly.deleteSurfaces>`\\ \\(surfaceNames\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Region.RegionAssemblyBase.RegionAssemblyBase.deleteSurfaces:2
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "This command deletes the given surfaces from the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`Instance <abaqus.Assembly.Assembly.Assembly.Instance>`\\ \\(name\\, \\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.Instance:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.Instance:2
-#: ../None:17:<autosummary>:1
-#: ../None:46:<autosummary>:1
+#: ../../None:17:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method creates a PartInstance object and puts it into the instances repository."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`backup <abaqus.Assembly.Assembly.Assembly.backup>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method makes a backup copy of the features in the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`clearGeometryCache <abaqus.Assembly.Assembly.Assembly.clearGeometryCache>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method deletes the geometry cache."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`deleteAllFeatures <abaqus.Assembly.Assembly.Assembly.deleteAllFeatures>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.deleteAllFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.deleteAllFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method deletes all the features in the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`deleteFeatures <abaqus.Assembly.Assembly.Assembly.deleteFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.deleteFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.deleteFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method deletes specified features from the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`excludeFromSimulation <abaqus.Assembly.Assembly.Assembly.excludeFromSimulation>`\\ \\(instances\\, exclude\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.excludeFromSimulation:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.excludeFromSimulation:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method excludes the specified part instances from the analysis."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`featurelistInfo <abaqus.Assembly.Assembly.Assembly.featurelistInfo>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.featurelistInfo:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.featurelistInfo:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method prints the name and status of all the features in the feature lists."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getMassProperties <abaqus.Assembly.Assembly.Assembly.getMassProperties>`\\ \\(\\[regions\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method returns the mass properties of the assembly, or instances or regions."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getAngle <abaqus.Assembly.Assembly.Assembly.getAngle>`\\ \\(plane1\\, plane2\\, line1\\, line2\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getAngle:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getAngle:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method returns the angle between the specified entities."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getCoordinates <abaqus.Assembly.Assembly.Assembly.getCoordinates>`\\ \\(entity\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getCoordinates:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getCoordinates:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method returns the coordinates of a specified point."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getDistance <abaqus.Assembly.Assembly.Assembly.getDistance>`\\ \\(entity1\\, entity2\\[\\, printResults\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getDistance:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getDistance:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "Depending on the arguments provided, this method returns one of the following:"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getFacesAndVerticesOfAttachmentLines <abaqus.Assembly.Assembly.Assembly.getFacesAndVerticesOfAttachmentLines>`\\ \\(edges\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "Given an array of edge objects, this method returns a tuple of dictionary objects."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getSurfaceSections <abaqus.Assembly.Assembly.Assembly.getSurfaceSections>`\\ \\(surface\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getSurfaceSections:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.getSurfaceSections:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method returns a list of the sections assigned to the regions encompassed by the specified surface."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importEafFile <abaqus.Assembly.Assembly.Assembly.importEafFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importEafFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importEafFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from an EAF file into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importParasolidFile <abaqus.Assembly.Assembly.Assembly.importParasolidFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importParasolidFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importParasolidFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from the Parasolid file into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importCatiaV5File <abaqus.Assembly.Assembly.Assembly.importCatiaV5File>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importCatiaV5File:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importCatiaV5File:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from a CATIA V5 Elysium Neutral file into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importEnfFile <abaqus.Assembly.Assembly.Assembly.importEnfFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importEnfFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importEnfFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from an Elysium Neutral file created by Pro/ENGINEER, I-DEAS, or CATIA V5 into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importIdeasFile <abaqus.Assembly.Assembly.Assembly.importIdeasFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importIdeasFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importIdeasFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from an I-DEAS Elysium Neutral file into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importProEFile <abaqus.Assembly.Assembly.Assembly.importProEFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importProEFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.importProEFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method imports an assembly from a Pro/ENGINEER Elysium Neutral file into the root assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`makeDependent <abaqus.Assembly.Assembly.Assembly.makeDependent>`\\ \\(instances\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.makeDependent:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.makeDependent:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method converts the specified part instances from independent to dependent part instances."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`makeIndependent <abaqus.Assembly.Assembly.Assembly.makeIndependent>`\\ \\(instances\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.makeIndependent:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.makeIndependent:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method converts the specified part instances from dependent to independent part instances."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`printAssignedSections <abaqus.Assembly.Assembly.Assembly.printAssignedSections>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.printAssignedSections:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.printAssignedSections:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method prints a summary of assigned connector sections."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`printConnectorOrientations <abaqus.Assembly.Assembly.Assembly.printConnectorOrientations>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.printConnectorOrientations:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.printConnectorOrientations:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method prints a summary of connector orientations."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`projectReferencesOntoSketch <abaqus.Assembly.Assembly.Assembly.projectReferencesOntoSketch>`\\ \\(sketch\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method projects the specified edges, vertices, and datum points from the assembly onto the specified ConstrainedSketch object."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`queryCachedStates <abaqus.Assembly.Assembly.Assembly.queryCachedStates>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method displays the position of geometric states relative to the sequence of features in the assembly cache."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`regenerate <abaqus.Assembly.Assembly.Assembly.regenerate>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method regenerates the assembly and brings it up to date with the latest values of the assembly parameters."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`regenerationWarnings <abaqus.Assembly.Assembly.Assembly.regenerationWarnings>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.regenerationWarnings:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.regenerationWarnings:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method prints any regeneration warnings associated with the features."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`restore <abaqus.Assembly.Assembly.Assembly.restore>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method restores the parameters of all features in the assembly to the value they had before a failed regeneration."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeAllFeatures <abaqus.Assembly.Assembly.Assembly.resumeAllFeatures>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeAllFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeAllFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method resumes all the suppressed features in the part or assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeFeatures <abaqus.Assembly.Assembly.Assembly.resumeFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method resumes the specified suppressed features in the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeLastSetFeatures <abaqus.Assembly.Assembly.Assembly.resumeLastSetFeatures>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeLastSetFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.resumeLastSetFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method resumes the last set of features to be suppressed in the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`rotate <abaqus.Assembly.Assembly.Assembly.rotate>`\\ \\(instanceList\\, axisPoint\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.rotate:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.rotate:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method rotates given instances by the specified amount."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`translate <abaqus.Assembly.Assembly.Assembly.translate>`\\ \\(instanceList\\, vector\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.translate:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.translate:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method translates given instances by the specified amount."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`saveGeometryCache <abaqus.Assembly.Assembly.Assembly.saveGeometryCache>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.saveGeometryCache:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.saveGeometryCache:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method caches the current geometry, which improves regeneration performance."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Assembly.Assembly.Assembly.setValues>`\\ \\(regenerateConstraintsTogether\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.setValues:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.setValues:2
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method modifies the behavior associated with the specified assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`suppressFeatures <abaqus.Assembly.Assembly.Assembly.suppressFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.suppressFeatures:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.suppressFeatures:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method suppresses specified features."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`unlinkInstances <abaqus.Assembly.Assembly.Assembly.unlinkInstances>`\\ \\(instances\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method converts the specified PartInstance objects from linked child instances to regular instances."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`writeAcisFile <abaqus.Assembly.Assembly.Assembly.writeAcisFile>`\\ \\(fileName\\[\\, version\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.writeAcisFile:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.writeAcisFile:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method exports the assembly to a named file in ACIS part (SAT) or assembly (ASAT) format."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`writeCADParameters <abaqus.Assembly.Assembly.Assembly.writeCADParameters>`\\ \\(paramFile\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.writeCADParameters:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.writeCADParameters:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method writes the parameters that were imported from the CAD system to a parameter file."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`lock <abaqus.Assembly.Assembly.Assembly.lock>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method locks the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`unlock <abaqus.Assembly.Assembly.Assembly.unlock>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method unlocks the assembly."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`setMeshNumberingControl <abaqus.Assembly.Assembly.Assembly.setMeshNumberingControl>`\\ \\(instances\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method changes the start node and/or element labels on the specified independent part instances before or after Abaqus/CAE generates the meshes."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`copyMeshPattern <abaqus.Assembly.Assembly.Assembly.copyMeshPattern>`\\ \\(\\[elements\\, faces\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.copyMeshPattern:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.copyMeshPattern:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method copies a mesh pattern from a source region consisting of a set of shell elements or element faces onto a target face, mapping nodes and elements in a one-one correspondence between source and target."
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`smoothNodes <abaqus.Assembly.Assembly.Assembly.smoothNodes>`\\ \\(\\[nodes\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.smoothNodes:2
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.smoothNodes:2
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid "This method smooths the given nodes of a native mesh, moving them locally to a more optimal location that improves the quality of the mesh"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`AttachmentLines <abaqus.Assembly.Assembly.Assembly.AttachmentLines>`\\ \\(name\\, points\\, sourceFaces\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method creates a Feature object by creating attachment lines between the given set of source and target faces."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`Coaxial <abaqus.Assembly.Assembly.Assembly.Coaxial>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.Coaxial:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.Coaxial:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that its selected face is coaxial with the selected face of a fixed instance."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`CoincidentPoint <abaqus.Assembly.Assembly.Assembly.CoincidentPoint>`\\ \\(movablePoint\\, fixedPoint\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.CoincidentPoint:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.CoincidentPoint:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that a specified point is coincident with a specified point of a fixed instance."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`EdgeToEdge <abaqus.Assembly.Assembly.Assembly.EdgeToEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\, ...\\)"
 msgstr ""
 
@@ -1780,573 +1780,573 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.ParallelEdge:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.EdgeToEdge:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.ParallelEdge:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that its edge is parallel to an edge of a fixed instance."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`FaceToFace <abaqus.Assembly.Assembly.Assembly.FaceToFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.FaceToFace:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.FaceToFace:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that its face is coincident with a face of a fixed instance."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelCsys <abaqus.Assembly.Assembly.Assembly.ParallelCsys>`\\ \\(movableCsys\\, fixedCsys\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.ParallelCsys:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.ParallelCsys:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that its Datum coordinate system is parallel to a Datum coordinate system of a fixed instance."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelEdge <abaqus.Assembly.Assembly.Assembly.ParallelEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelFace <abaqus.Assembly.Assembly.Assembly.ParallelFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Feature.Feature.ParallelFace:2
 #: ../../abqpy/src/abaqus/Assembly/Feature.py:docstring of abaqus.Assembly.Feature.Feature.ParallelFace:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method moves an instance so that its face is parallel to a face of a fixed instance."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPoints <abaqus.Assembly.Assembly.Assembly.AttachmentPoints>`\\ \\(name\\, points\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates an attachment points Feature."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsAlongDirection <abaqus.Assembly.Assembly.Assembly.AttachmentPointsAlongDirection>`\\ \\(name\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object by creating attachment points along a direction or between two points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsOffsetFromEdges <abaqus.Assembly.Assembly.Assembly.AttachmentPointsOffsetFromEdges>`\\ \\(name\\, edges\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.AttachmentPointsOffsetFromEdges:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object by creating attachment points along or offset from one or more connected edges."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByCylFace <abaqus.Assembly.Assembly.Assembly.DatumAxisByCylFace>`\\ \\(face\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByCylFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object along the axis of a cylinder or cone."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByNormalToPlane <abaqus.Assembly.Assembly.Assembly.DatumAxisByNormalToPlane>`\\ \\(plane\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByNormalToPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object normal to the specified plane and passing through the specified point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByParToEdge <abaqus.Assembly.Assembly.Assembly.DatumAxisByParToEdge>`\\ \\(edge\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByParToEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object parallel to the specified edge and passing through the specified point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByPrincipalAxis <abaqus.Assembly.Assembly.Assembly.DatumAxisByPrincipalAxis>`\\ \\(principalAxis\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByPrincipalAxis:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object along one of the three principal axes."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByRotation <abaqus.Assembly.Assembly.Assembly.DatumAxisByRotation>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThreePoint <abaqus.Assembly.Assembly.Assembly.DatumAxisByThreePoint>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByThreePoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object normal to the circle described by three points and through its center."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThruEdge <abaqus.Assembly.Assembly.Assembly.DatumAxisByThruEdge>`\\ \\(edge\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByThruEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object along the specified edge."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPlane <abaqus.Assembly.Assembly.Assembly.DatumAxisByTwoPlane>`\\ \\(plane1\\, plane2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByTwoPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object at the intersection of two planes."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPoint <abaqus.Assembly.Assembly.Assembly.DatumAxisByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumAxisByTwoPoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumAxis object along the line joining two points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByDefault <abaqus.Assembly.Assembly.Assembly.DatumCsysByDefault>`\\ \\(coordSysType\\[\\, name\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumCsysByDefault:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumCsys object from the specified default coordinate system at the origin."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByOffset <abaqus.Assembly.Assembly.Assembly.DatumCsysByOffset>`\\ \\(coordSysType\\, ...\\[\\, name\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumCsysByOffset:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumCsys object by offsetting the origin of an existing datum coordinate system to a specified point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByThreePoints <abaqus.Assembly.Assembly.Assembly.DatumCsysByThreePoints>`\\ \\(coordSysType\\, origin\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumCsysByThreePoints:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumCsys object from three points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByTwoLines <abaqus.Assembly.Assembly.Assembly.DatumCsysByTwoLines>`\\ \\(coordSysType\\, line1\\, line2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumCsys object from two orthogonal lines."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPrincipalPlane <abaqus.Assembly.Assembly.Assembly.DatumPlaneByPrincipalPlane>`\\ \\(principalPlane\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByPrincipalPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object through the origin along one of the three principal planes."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByOffset <abaqus.Assembly.Assembly.Assembly.DatumPlaneByOffset>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByRotation <abaqus.Assembly.Assembly.Assembly.DatumPlaneByRotation>`\\ \\(plane\\, axis\\, angle\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByRotation:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object by rotating a plane about the specified axis through the specified angle."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByThreePoints <abaqus.Assembly.Assembly.Assembly.DatumPlaneByThreePoints>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByThreePoints:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object defined by passing through three points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByLinePoint <abaqus.Assembly.Assembly.Assembly.DatumPlaneByLinePoint>`\\ \\(line\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByLinePoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object that pass through the specified line and through the specified point that does not lie on the line."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPointNormal <abaqus.Assembly.Assembly.Assembly.DatumPlaneByPointNormal>`\\ \\(point\\, normal\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByPointNormal:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object normal to the specified line and running through the specified point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByTwoPoint <abaqus.Assembly.Assembly.Assembly.DatumPlaneByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPlaneByTwoPoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPlane object midway between two points and normal to the line connecting the points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByCoordinate <abaqus.Assembly.Assembly.Assembly.DatumPointByCoordinate>`\\ \\(coords\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByCoordinate:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object at the point defined by the specified coordinates."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOffset <abaqus.Assembly.Assembly.Assembly.DatumPointByOffset>`\\ \\(point\\, vector\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByOffset:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object offset from an existing point by a vector."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByMidPoint <abaqus.Assembly.Assembly.Assembly.DatumPointByMidPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByMidPoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object midway between two points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOnFace <abaqus.Assembly.Assembly.Assembly.DatumPointByOnFace>`\\ \\(face\\, edge1\\, offset1\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByOnFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object on the specified face, offset from two edges."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByEdgeParam <abaqus.Assembly.Assembly.Assembly.DatumPointByEdgeParam>`\\ \\(edge\\, parameter\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByEdgeParam:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object along an edge at a selected distance from one end of the edge."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnEdge <abaqus.Assembly.Assembly.Assembly.DatumPointByProjOnEdge>`\\ \\(point\\, edge\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByProjOnEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object along an edge by projecting an existing point along the normal to the edge."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnFace <abaqus.Assembly.Assembly.Assembly.DatumPointByProjOnFace>`\\ \\(point\\, face\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.DatumPointByProjOnFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a DatumPoint object on a specified face by projecting an existing point onto the face."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`MakeSketchTransform <abaqus.Assembly.Assembly.Assembly.MakeSketchTransform>`\\ \\(sketchPlane\\[\\, origin\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Transform object."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByDatumPlane <abaqus.Assembly.Assembly.Assembly.PartitionCellByDatumPlane>`\\ \\(cells\\, datumPlane\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByDatumPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells using the given datum plane."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtendFace <abaqus.Assembly.Assembly.Assembly.PartitionCellByExtendFace>`\\ \\(cells\\, extendFace\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByExtendFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells by extending the underlying geometry of a given face to partition the target cells."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtrudeEdge <abaqus.Assembly.Assembly.Assembly.PartitionCellByExtrudeEdge>`\\ \\(cells\\, edges\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByExtrudeEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells by extruding selected edges in the given direction."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNCorners <abaqus.Assembly.Assembly.Assembly.PartitionCellByPatchNCorners>`\\ \\(cell\\, cornerPoints\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByPatchNCorners:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions a cell using an N-sided cutting patch defined by the given corner points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNEdges <abaqus.Assembly.Assembly.Assembly.PartitionCellByPatchNEdges>`\\ \\(cell\\, edges\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByPatchNEdges:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions a cell using an N-sided cutting patch defined by the given edges."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneNormalToEdge <abaqus.Assembly.Assembly.Assembly.PartitionCellByPlaneNormalToEdge>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByPlaneNormalToEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells using a plane normal to an edge at the given edge point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlanePointNormal <abaqus.Assembly.Assembly.Assembly.PartitionCellByPlanePointNormal>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByPlanePointNormal:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells using a plane defined by a point and a normal direction."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneThreePoints <abaqus.Assembly.Assembly.Assembly.PartitionCellByPlaneThreePoints>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellByPlaneThreePoints:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells using a plane defined by three points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellBySweepEdge <abaqus.Assembly.Assembly.Assembly.PartitionCellBySweepEdge>`\\ \\(cells\\, edges\\, sweepPath\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionCellBySweepEdge:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more cells by sweeping selected edges along the given sweep path."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByDatumPlane <abaqus.Assembly.Assembly.Assembly.PartitionEdgeByDatumPlane>`\\ \\(edges\\, datumPlane\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionEdgeByDatumPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions an edge where it intersects with a datum plane."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByParam <abaqus.Assembly.Assembly.Assembly.PartitionEdgeByParam>`\\ \\(edges\\, parameter\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionEdgeByParam:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more edges at the given normalized edge parameter."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByPoint <abaqus.Assembly.Assembly.Assembly.PartitionEdgeByPoint>`\\ \\(edge\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionEdgeByPoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions an edge at the given point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByAuto <abaqus.Assembly.Assembly.Assembly.PartitionFaceByAuto>`\\ \\(face\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByAuto:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method automatically partitions a target face into simple regions that can be meshed using a structured meshing technique."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgeParams <abaqus.Assembly.Assembly.Assembly.PartitionFaceByCurvedPathEdgeParams>`\\ \\(face\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByCurvedPathEdgeParams:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions a face normal to two edges, using a curved path between the two given edge points defined by the normalized edge parameters."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgePoints <abaqus.Assembly.Assembly.Assembly.PartitionFaceByCurvedPathEdgePoints>`\\ \\(face\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByCurvedPathEdgePoints:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions a face normal to two edges, using a curved path between the two given edge points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByDatumPlane <abaqus.Assembly.Assembly.Assembly.PartitionFaceByDatumPlane>`\\ \\(faces\\, datumPlane\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByDatumPlane:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces using the given datum plane."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByExtendFace <abaqus.Assembly.Assembly.Assembly.PartitionFaceByExtendFace>`\\ \\(faces\\, extendFace\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByExtendFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces by extending the underlying geometry of another given face to partition the target faces."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByIntersectFace <abaqus.Assembly.Assembly.Assembly.PartitionFaceByIntersectFace>`\\ \\(faces\\, cuttingFaces\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByIntersectFace:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces using the given cutting faces to partition the target faces."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByProjectingEdges <abaqus.Assembly.Assembly.Assembly.PartitionFaceByProjectingEdges>`\\ \\(faces\\, edges\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByProjectingEdges:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces by projecting the given edges on the target faces."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByShortestPath <abaqus.Assembly.Assembly.Assembly.PartitionFaceByShortestPath>`\\ \\(faces\\, point1\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceByShortestPath:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces using a minimum distance path between the two given points."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketch <abaqus.Assembly.Assembly.Assembly.PartitionFaceBySketch>`\\ \\(faces\\, sketch\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceBySketch:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more planar faces by sketching on them."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchDistance <abaqus.Assembly.Assembly.Assembly.PartitionFaceBySketchDistance>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceBySketchDistance:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces by sketching on a sketch plane and then projecting the sketch toward the target faces through the given distance."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchRefPoint <abaqus.Assembly.Assembly.Assembly.PartitionFaceBySketchRefPoint>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceBySketchRefPoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces by sketching on a sketch plane and then projecting the sketch toward the target faces through a distance governed by the reference point."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchThruAll <abaqus.Assembly.Assembly.Assembly.PartitionFaceBySketchThruAll>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.PartitionFaceBySketchThruAll:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method partitions one or more faces by sketching on a sketch plane and then projecting toward the target faces through an infinite distance."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`ReferencePoint <abaqus.Assembly.Assembly.Assembly.ReferencePoint>`\\ \\(point\\[\\, instanceName\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.ReferencePoint:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates a Feature object and a ReferencePoint object at the specified location."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`RemoveWireEdges <abaqus.Assembly.Assembly.Assembly.RemoveWireEdges>`\\ \\(wireEdgeList\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.RemoveWireEdges:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method removes wire edges."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`WirePolyLine <abaqus.Assembly.Assembly.Assembly.WirePolyLine>`\\ \\(points\\[\\, mergeType\\, meshable\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method creates an additional Feature object by creating a series of wires joining points in pairs."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`isSuppressed <abaqus.Assembly.Assembly.Assembly.isSuppressed>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Feature.Feature.Feature.isSuppressed:2
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method queries the suppressed state of the feature."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`resume <abaqus.Assembly.Assembly.Assembly.resume>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method resumes suppressed features."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`suppress <abaqus.Assembly.Assembly.Assembly.suppress>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method suppresses features."
 msgstr ""
 
@@ -3166,7 +3166,7 @@ msgid "**region**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:18
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.region:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.region:2
 msgid "A :py:class:`~abaqus.Region.Set.Set` object specifying the region to which the orientation is assigned."
 msgstr ""
 
@@ -3175,7 +3175,7 @@ msgid "**localCsys1**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:21
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys1:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys1:2
 msgid "A :py:class:`~abaqus.Datum.DatumCsys.DatumCsys` object specifying the local coordinate system of the first connector point. This value may be None, indicating the global coordinate system."
 msgstr ""
 
@@ -3185,8 +3185,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:25
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:41
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis1:2
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis2:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis1:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis2:2
 msgid "A SymbolicConstant specifying the axis of a datum coordinate system about which an additional rotation is applied. Possible values are AXIS_1, AXIS_2, and AXIS_3. The default value is AXIS_1."
 msgstr ""
 
@@ -3196,8 +3196,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:30
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:46
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle1:2
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle2:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle1:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle2:2
 msgid "A Float specifying the angle of the additional rotation. The default value is 0.0."
 msgstr ""
 
@@ -3206,7 +3206,7 @@ msgid "**orient2sameAs1**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:33
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.orient2sameAs1:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.orient2sameAs1:2
 msgid "A Boolean specifying whether or not the second connector point is to use the same local coordinate system, axis, and angle as the first point. The default value is ON."
 msgstr ""
 
@@ -3215,7 +3215,7 @@ msgid "**localCsys2**"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.Assembly.Assembly.ConnectorOrientation:37
-#: ../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys2:2
+#: ../../docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys2:2
 msgid "A :py:class:`~abaqus.Datum.DatumCsys.DatumCsys` object specifying the local coordinate system of the second connector point. This value may be None, indicating the global coordinate system."
 msgstr ""
 
@@ -3791,7 +3791,7 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.Instance:17
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanCut:18
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanMerge:18
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.name:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.name:2
 msgid "A String specifying the repository key. The name must be a valid Abaqus object name."
 msgstr ""
 
@@ -5135,8 +5135,8 @@ msgstr ""
 msgid "A sequence of Strings specifying the surface names that will be deleted from the assembly."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.edges:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.edges:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.edges:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.edges:2
 msgid "An :py:class:`~abaqus.BasicGeometry.EdgeArray.EdgeArray` object specifying all the edges existing at the assembly level. This member does not provide access to the edges at the instance level."
 msgstr ""
 
@@ -5214,8 +5214,8 @@ msgstr ""
 msgid ":obj:`A` :obj:`coordinate` :obj:`and` :obj:`an` :obj:`offset` :obj:`may` :obj:`not` :obj:`both` :obj:`be` :obj:`specified` :obj:`for` :obj:`the` :obj:`same` :obj:`coordinate` :obj:`component`"
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.elements:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.elements:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.elements:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.elements:2
 msgid "A :py:class:`~abaqus.Mesh.MeshElementArray.MeshElementArray` object specifying all the elements existing at the assembly level. This member does not provide access to the elements at the instance level."
 msgstr ""
 
@@ -5253,8 +5253,8 @@ msgstr ""
 msgid "A Bool specifying whether to exclude the selected instances from the analysis or include them."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.featuresById:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.featuresById:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.featuresById:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.featuresById:2
 msgid "A repository of Feature objects specifying all Feature objects in the assembly.The Feature objects in the featuresById repository are the same as the Feature objects in the features repository. However, the key to the objects in the featuresById repository is an integer specifying the **ID**, whereas the key to the objects in the features repository is a string specifying the **name**."
 msgstr ""
 
@@ -6288,13 +6288,13 @@ msgstr ""
 msgid "A String specifying the path to the Pro/ENGINEER Elysium Neutral file from which to import the assembly."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.isLocked:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.isLocked:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.isLocked:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.isLocked:2
 msgid "An Int specifying whether the assembly is locked or not. Possible values are 0 and 1."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.isOutOfDate:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.isOutOfDate:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.isOutOfDate:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.isOutOfDate:2
 msgid "An Int specifying that feature parameters have been modified but that the assembly has not been regenerated. Possible values are 0 and 1."
 msgstr ""
 
@@ -6372,8 +6372,8 @@ msgstr ""
 msgid "A Boolean specifying whether the Surface should be marked as internal."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.nodes:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.nodes:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.nodes:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.nodes:2
 msgid "A :py:class:`~abaqus.Mesh.MeshNodeArray.MeshNodeArray` object specifying all the nodes existing at the assembly level. This member does not provide access to the nodes at the instance level."
 msgstr ""
 
@@ -6459,8 +6459,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/Assembly.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.setValues:10
 #: ../../abqpy/src/abaqus/Assembly/AssemblyBase.py:docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.setValues:10
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.regenerateConstraintsTogether:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.regenerateConstraintsTogether:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.regenerateConstraintsTogether:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.regenerateConstraintsTogether:2
 msgid "A Boolean specifying whether the positioning constraints in the assembly should be regenerated together before regenerating other assembly features. The default value is ON.If the assembly has position constraint features and you modify the value of **regenerateConstraintsTogether**, Abaqus/CAE will regenerate the assembly features."
 msgstr ""
 
@@ -7146,8 +7146,8 @@ msgstr ""
 msgid "A Dictionary object containing values for some number of the following keys: failedElements, warningElements, naElements (sequences of MeshElement objects); numElements (Int); average, worst (Float); worstElement (MeshElement object) ."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.Assembly.Assembly.vertices:2
-#: ../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.vertices:2
+#: ../../docstring of abaqus.Assembly.Assembly.Assembly.vertices:2
+#: ../../docstring of abaqus.Assembly.AssemblyBase.AssemblyBase.vertices:2
 msgid "A :py:class:`~abaqus.BasicGeometry.VertexArray.VertexArray` object specifying all the vertices existing at the assembly level. This member does not provide access to the vertices at the instance level."
 msgstr ""
 
@@ -7215,573 +7215,573 @@ msgstr ""
 msgid "AssemblyBase"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`isOutOfDate <abaqus.Assembly.AssemblyBase.AssemblyBase.isOutOfDate>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`timeStamp <abaqus.Assembly.AssemblyBase.AssemblyBase.timeStamp>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`isLocked <abaqus.Assembly.AssemblyBase.AssemblyBase.isLocked>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`regenerateConstraintsTogether <abaqus.Assembly.AssemblyBase.AssemblyBase.regenerateConstraintsTogether>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Assembly.AssemblyBase.AssemblyBase.vertices>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`edges <abaqus.Assembly.AssemblyBase.AssemblyBase.edges>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`elements <abaqus.Assembly.AssemblyBase.AssemblyBase.elements>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`nodes <abaqus.Assembly.AssemblyBase.AssemblyBase.nodes>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`instances <abaqus.Assembly.AssemblyBase.AssemblyBase.instances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`datums <abaqus.Assembly.AssemblyBase.AssemblyBase.datums>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`features <abaqus.Assembly.AssemblyBase.AssemblyBase.features>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`featuresById <abaqus.Assembly.AssemblyBase.AssemblyBase.featuresById>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`surfaces <abaqus.Assembly.AssemblyBase.AssemblyBase.surfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allSurfaces <abaqus.Assembly.AssemblyBase.AssemblyBase.allSurfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInternalSurfaces <abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSurfaces>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`sets <abaqus.Assembly.AssemblyBase.AssemblyBase.sets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allSets <abaqus.Assembly.AssemblyBase.AssemblyBase.allSets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInternalSets <abaqus.Assembly.AssemblyBase.AssemblyBase.allInternalSets>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`skins <abaqus.Assembly.AssemblyBase.AssemblyBase.skins>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`stringers <abaqus.Assembly.AssemblyBase.AssemblyBase.stringers>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`referencePoints <abaqus.Assembly.AssemblyBase.AssemblyBase.referencePoints>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`modelInstances <abaqus.Assembly.AssemblyBase.AssemblyBase.modelInstances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`allInstances <abaqus.Assembly.AssemblyBase.AssemblyBase.allInstances>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`engineeringFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.engineeringFeatures>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`modelName <abaqus.Assembly.AssemblyBase.AssemblyBase.modelName>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`connectorOrientations <abaqus.Assembly.AssemblyBase.AssemblyBase.connectorOrientations>`\\"
 msgstr ""
 
-#: ../None:29:<autosummary>:1
+#: ../../None:29:<autosummary>:1
 msgid ":py:obj:`sectionAssignments <abaqus.Assembly.AssemblyBase.AssemblyBase.sectionAssignments>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Assembly.AssemblyBase.AssemblyBase.name>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Assembly.AssemblyBase.AssemblyBase.id>`\\"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`Instance <abaqus.Assembly.AssemblyBase.AssemblyBase.Instance>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`backup <abaqus.Assembly.AssemblyBase.AssemblyBase.backup>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`clearGeometryCache <abaqus.Assembly.AssemblyBase.AssemblyBase.clearGeometryCache>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`deleteAllFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.deleteAllFeatures>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`deleteFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.deleteFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`excludeFromSimulation <abaqus.Assembly.AssemblyBase.AssemblyBase.excludeFromSimulation>`\\ \\(instances\\, exclude\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`featurelistInfo <abaqus.Assembly.AssemblyBase.AssemblyBase.featurelistInfo>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getMassProperties <abaqus.Assembly.AssemblyBase.AssemblyBase.getMassProperties>`\\ \\(\\[regions\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getAngle <abaqus.Assembly.AssemblyBase.AssemblyBase.getAngle>`\\ \\(plane1\\, plane2\\, line1\\, line2\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getCoordinates <abaqus.Assembly.AssemblyBase.AssemblyBase.getCoordinates>`\\ \\(entity\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getDistance <abaqus.Assembly.AssemblyBase.AssemblyBase.getDistance>`\\ \\(entity1\\, entity2\\[\\, printResults\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getFacesAndVerticesOfAttachmentLines <abaqus.Assembly.AssemblyBase.AssemblyBase.getFacesAndVerticesOfAttachmentLines>`\\ \\(edges\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`getSurfaceSections <abaqus.Assembly.AssemblyBase.AssemblyBase.getSurfaceSections>`\\ \\(surface\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importEafFile <abaqus.Assembly.AssemblyBase.AssemblyBase.importEafFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importParasolidFile <abaqus.Assembly.AssemblyBase.AssemblyBase.importParasolidFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importCatiaV5File <abaqus.Assembly.AssemblyBase.AssemblyBase.importCatiaV5File>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importEnfFile <abaqus.Assembly.AssemblyBase.AssemblyBase.importEnfFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importIdeasFile <abaqus.Assembly.AssemblyBase.AssemblyBase.importIdeasFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`importProEFile <abaqus.Assembly.AssemblyBase.AssemblyBase.importProEFile>`\\ \\(filename\\[\\, ids\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`makeDependent <abaqus.Assembly.AssemblyBase.AssemblyBase.makeDependent>`\\ \\(instances\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`makeIndependent <abaqus.Assembly.AssemblyBase.AssemblyBase.makeIndependent>`\\ \\(instances\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`printAssignedSections <abaqus.Assembly.AssemblyBase.AssemblyBase.printAssignedSections>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`printConnectorOrientations <abaqus.Assembly.AssemblyBase.AssemblyBase.printConnectorOrientations>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`projectReferencesOntoSketch <abaqus.Assembly.AssemblyBase.AssemblyBase.projectReferencesOntoSketch>`\\ \\(sketch\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`queryCachedStates <abaqus.Assembly.AssemblyBase.AssemblyBase.queryCachedStates>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`regenerate <abaqus.Assembly.AssemblyBase.AssemblyBase.regenerate>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`regenerationWarnings <abaqus.Assembly.AssemblyBase.AssemblyBase.regenerationWarnings>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`restore <abaqus.Assembly.AssemblyBase.AssemblyBase.restore>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeAllFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.resumeAllFeatures>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.resumeFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`resumeLastSetFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.resumeLastSetFeatures>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`rotate <abaqus.Assembly.AssemblyBase.AssemblyBase.rotate>`\\ \\(instanceList\\, axisPoint\\, ...\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`translate <abaqus.Assembly.AssemblyBase.AssemblyBase.translate>`\\ \\(instanceList\\, vector\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`saveGeometryCache <abaqus.Assembly.AssemblyBase.AssemblyBase.saveGeometryCache>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
-#: ../None:65:<autosummary>:1
+#: ../../None:46:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Assembly.AssemblyBase.AssemblyBase.setValues>`\\ \\(regenerateConstraintsTogether\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`suppressFeatures <abaqus.Assembly.AssemblyBase.AssemblyBase.suppressFeatures>`\\ \\(featureNames\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`unlinkInstances <abaqus.Assembly.AssemblyBase.AssemblyBase.unlinkInstances>`\\ \\(instances\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`writeAcisFile <abaqus.Assembly.AssemblyBase.AssemblyBase.writeAcisFile>`\\ \\(fileName\\[\\, version\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`writeCADParameters <abaqus.Assembly.AssemblyBase.AssemblyBase.writeCADParameters>`\\ \\(paramFile\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`lock <abaqus.Assembly.AssemblyBase.AssemblyBase.lock>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`unlock <abaqus.Assembly.AssemblyBase.AssemblyBase.unlock>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`setMeshNumberingControl <abaqus.Assembly.AssemblyBase.AssemblyBase.setMeshNumberingControl>`\\ \\(instances\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`copyMeshPattern <abaqus.Assembly.AssemblyBase.AssemblyBase.copyMeshPattern>`\\ \\(\\[elements\\, faces\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:46:<autosummary>:1
+#: ../../None:46:<autosummary>:1
 msgid ":py:obj:`smoothNodes <abaqus.Assembly.AssemblyBase.AssemblyBase.smoothNodes>`\\ \\(\\[nodes\\]\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`AttachmentLines <abaqus.Assembly.AssemblyBase.AssemblyBase.AttachmentLines>`\\ \\(name\\, points\\, sourceFaces\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`Coaxial <abaqus.Assembly.AssemblyBase.AssemblyBase.Coaxial>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`CoincidentPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.CoincidentPoint>`\\ \\(movablePoint\\, fixedPoint\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`EdgeToEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.EdgeToEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`FaceToFace <abaqus.Assembly.AssemblyBase.AssemblyBase.FaceToFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelCsys <abaqus.Assembly.AssemblyBase.AssemblyBase.ParallelCsys>`\\ \\(movableCsys\\, fixedCsys\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.ParallelEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelFace <abaqus.Assembly.AssemblyBase.AssemblyBase.ParallelFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPoints <abaqus.Assembly.AssemblyBase.AssemblyBase.AttachmentPoints>`\\ \\(name\\, points\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsAlongDirection <abaqus.Assembly.AssemblyBase.AssemblyBase.AttachmentPointsAlongDirection>`\\ \\(name\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsOffsetFromEdges <abaqus.Assembly.AssemblyBase.AssemblyBase.AttachmentPointsOffsetFromEdges>`\\ \\(name\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByCylFace <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByCylFace>`\\ \\(face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByNormalToPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByNormalToPlane>`\\ \\(plane\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByParToEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByParToEdge>`\\ \\(edge\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByPrincipalAxis <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByPrincipalAxis>`\\ \\(principalAxis\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByRotation <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByRotation>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThreePoint <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByThreePoint>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThruEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByThruEdge>`\\ \\(edge\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByTwoPlane>`\\ \\(plane1\\, plane2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumAxisByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByDefault <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumCsysByDefault>`\\ \\(coordSysType\\[\\, name\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByOffset <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumCsysByOffset>`\\ \\(coordSysType\\, ...\\[\\, name\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByThreePoints <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumCsysByThreePoints>`\\ \\(coordSysType\\, origin\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByTwoLines <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumCsysByTwoLines>`\\ \\(coordSysType\\, line1\\, line2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPrincipalPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByPrincipalPlane>`\\ \\(principalPlane\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByOffset <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByOffset>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByRotation <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByRotation>`\\ \\(plane\\, axis\\, angle\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByThreePoints <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByThreePoints>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByLinePoint <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByLinePoint>`\\ \\(line\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPointNormal <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByPointNormal>`\\ \\(point\\, normal\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByTwoPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPlaneByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByCoordinate <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByCoordinate>`\\ \\(coords\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOffset <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByOffset>`\\ \\(point\\, vector\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByMidPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByMidPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOnFace <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByOnFace>`\\ \\(face\\, edge1\\, offset1\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByEdgeParam <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByEdgeParam>`\\ \\(edge\\, parameter\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByProjOnEdge>`\\ \\(point\\, edge\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnFace <abaqus.Assembly.AssemblyBase.AssemblyBase.DatumPointByProjOnFace>`\\ \\(point\\, face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`MakeSketchTransform <abaqus.Assembly.AssemblyBase.AssemblyBase.MakeSketchTransform>`\\ \\(sketchPlane\\[\\, origin\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByDatumPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByDatumPlane>`\\ \\(cells\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtendFace <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByExtendFace>`\\ \\(cells\\, extendFace\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtrudeEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByExtrudeEdge>`\\ \\(cells\\, edges\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNCorners <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByPatchNCorners>`\\ \\(cell\\, cornerPoints\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNEdges <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByPatchNEdges>`\\ \\(cell\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneNormalToEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByPlaneNormalToEdge>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlanePointNormal <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByPlanePointNormal>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneThreePoints <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellByPlaneThreePoints>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellBySweepEdge <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionCellBySweepEdge>`\\ \\(cells\\, edges\\, sweepPath\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByDatumPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionEdgeByDatumPlane>`\\ \\(edges\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByParam <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionEdgeByParam>`\\ \\(edges\\, parameter\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionEdgeByPoint>`\\ \\(edge\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByAuto <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByAuto>`\\ \\(face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgeParams <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByCurvedPathEdgeParams>`\\ \\(face\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgePoints <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByCurvedPathEdgePoints>`\\ \\(face\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByDatumPlane <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByDatumPlane>`\\ \\(faces\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByExtendFace <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByExtendFace>`\\ \\(faces\\, extendFace\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByIntersectFace <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByIntersectFace>`\\ \\(faces\\, cuttingFaces\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByProjectingEdges <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByProjectingEdges>`\\ \\(faces\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByShortestPath <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceByShortestPath>`\\ \\(faces\\, point1\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketch <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceBySketch>`\\ \\(faces\\, sketch\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchDistance <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceBySketchDistance>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchRefPoint <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceBySketchRefPoint>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchThruAll <abaqus.Assembly.AssemblyBase.AssemblyBase.PartitionFaceBySketchThruAll>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`ReferencePoint <abaqus.Assembly.AssemblyBase.AssemblyBase.ReferencePoint>`\\ \\(point\\[\\, instanceName\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`RemoveWireEdges <abaqus.Assembly.AssemblyBase.AssemblyBase.RemoveWireEdges>`\\ \\(wireEdgeList\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`WirePolyLine <abaqus.Assembly.AssemblyBase.AssemblyBase.WirePolyLine>`\\ \\(points\\[\\, mergeType\\, meshable\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`isSuppressed <abaqus.Assembly.AssemblyBase.AssemblyBase.isSuppressed>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`resume <abaqus.Assembly.AssemblyBase.AssemblyBase.resume>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`suppress <abaqus.Assembly.AssemblyBase.AssemblyBase.suppress>`\\ \\(\\)"
 msgstr ""
 
@@ -7793,64 +7793,64 @@ msgstr ""
 msgid "The ConnectorOrientation object is used to assign a connector orientation to a connector."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`localCsys1 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys1>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A :py:class:`~abaqus.Datum.DatumCsys.DatumCsys` object specifying the local coordinate system of the first connector point."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`axis1 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis1>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A SymbolicConstant specifying the axis of a datum coordinate system about which an additional rotation is applied."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`angle1 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle1>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A Float specifying the angle of the additional rotation."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`orient2sameAs1 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.orient2sameAs1>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A Boolean specifying whether or not the second connector point is to use the same local coordinate system, axis, and angle as the first point."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`localCsys2 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.localCsys2>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A :py:class:`~abaqus.Datum.DatumCsys.DatumCsys` object specifying the local coordinate system of the second connector point."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`axis2 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.axis2>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`angle2 <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.angle2>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.__init__>`\\ \\(region\\[\\, localCsys1\\, axis1\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.setValues>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/ConnectorOrientation.py:docstring of abaqus.Assembly.ConnectorOrientation.ConnectorOrientation.setValues:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method modifies the ConnectorOrientation object."
 msgstr ""
 
@@ -7870,303 +7870,303 @@ msgstr ""
 msgid "Check `Feature on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-featurepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Assembly.Feature.Feature.name>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`id <abaqus.Assembly.Feature.Feature.id>`\\"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`AttachmentLines <abaqus.Assembly.Feature.Feature.AttachmentLines>`\\ \\(name\\, points\\, sourceFaces\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`Coaxial <abaqus.Assembly.Feature.Feature.Coaxial>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`CoincidentPoint <abaqus.Assembly.Feature.Feature.CoincidentPoint>`\\ \\(movablePoint\\, fixedPoint\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`EdgeToEdge <abaqus.Assembly.Feature.Feature.EdgeToEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`FaceToFace <abaqus.Assembly.Feature.Feature.FaceToFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\, ...\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelCsys <abaqus.Assembly.Feature.Feature.ParallelCsys>`\\ \\(movableCsys\\, fixedCsys\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelEdge <abaqus.Assembly.Feature.Feature.ParallelEdge>`\\ \\(movableAxis\\, fixedAxis\\, flip\\)"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`ParallelFace <abaqus.Assembly.Feature.Feature.ParallelFace>`\\ \\(movablePlane\\, fixedPlane\\, flip\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPoints <abaqus.Assembly.Feature.Feature.AttachmentPoints>`\\ \\(name\\, points\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsAlongDirection <abaqus.Assembly.Feature.Feature.AttachmentPointsAlongDirection>`\\ \\(name\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`AttachmentPointsOffsetFromEdges <abaqus.Assembly.Feature.Feature.AttachmentPointsOffsetFromEdges>`\\ \\(name\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByCylFace <abaqus.Assembly.Feature.Feature.DatumAxisByCylFace>`\\ \\(face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByNormalToPlane <abaqus.Assembly.Feature.Feature.DatumAxisByNormalToPlane>`\\ \\(plane\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByParToEdge <abaqus.Assembly.Feature.Feature.DatumAxisByParToEdge>`\\ \\(edge\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByPrincipalAxis <abaqus.Assembly.Feature.Feature.DatumAxisByPrincipalAxis>`\\ \\(principalAxis\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByRotation <abaqus.Assembly.Feature.Feature.DatumAxisByRotation>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThreePoint <abaqus.Assembly.Feature.Feature.DatumAxisByThreePoint>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByThruEdge <abaqus.Assembly.Feature.Feature.DatumAxisByThruEdge>`\\ \\(edge\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPlane <abaqus.Assembly.Feature.Feature.DatumAxisByTwoPlane>`\\ \\(plane1\\, plane2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumAxisByTwoPoint <abaqus.Assembly.Feature.Feature.DatumAxisByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByDefault <abaqus.Assembly.Feature.Feature.DatumCsysByDefault>`\\ \\(coordSysType\\[\\, name\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByOffset <abaqus.Assembly.Feature.Feature.DatumCsysByOffset>`\\ \\(coordSysType\\, ...\\[\\, name\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByThreePoints <abaqus.Assembly.Feature.Feature.DatumCsysByThreePoints>`\\ \\(coordSysType\\, origin\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumCsysByTwoLines <abaqus.Assembly.Feature.Feature.DatumCsysByTwoLines>`\\ \\(coordSysType\\, line1\\, line2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPrincipalPlane <abaqus.Assembly.Feature.Feature.DatumPlaneByPrincipalPlane>`\\ \\(principalPlane\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByOffset <abaqus.Assembly.Feature.Feature.DatumPlaneByOffset>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByRotation <abaqus.Assembly.Feature.Feature.DatumPlaneByRotation>`\\ \\(plane\\, axis\\, angle\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByThreePoints <abaqus.Assembly.Feature.Feature.DatumPlaneByThreePoints>`\\ \\(point1\\, point2\\, point3\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByLinePoint <abaqus.Assembly.Feature.Feature.DatumPlaneByLinePoint>`\\ \\(line\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByPointNormal <abaqus.Assembly.Feature.Feature.DatumPlaneByPointNormal>`\\ \\(point\\, normal\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPlaneByTwoPoint <abaqus.Assembly.Feature.Feature.DatumPlaneByTwoPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByCoordinate <abaqus.Assembly.Feature.Feature.DatumPointByCoordinate>`\\ \\(coords\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOffset <abaqus.Assembly.Feature.Feature.DatumPointByOffset>`\\ \\(point\\, vector\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByMidPoint <abaqus.Assembly.Feature.Feature.DatumPointByMidPoint>`\\ \\(point1\\, point2\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByOnFace <abaqus.Assembly.Feature.Feature.DatumPointByOnFace>`\\ \\(face\\, edge1\\, offset1\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByEdgeParam <abaqus.Assembly.Feature.Feature.DatumPointByEdgeParam>`\\ \\(edge\\, parameter\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnEdge <abaqus.Assembly.Feature.Feature.DatumPointByProjOnEdge>`\\ \\(point\\, edge\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`DatumPointByProjOnFace <abaqus.Assembly.Feature.Feature.DatumPointByProjOnFace>`\\ \\(point\\, face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`MakeSketchTransform <abaqus.Assembly.Feature.Feature.MakeSketchTransform>`\\ \\(sketchPlane\\[\\, origin\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByDatumPlane <abaqus.Assembly.Feature.Feature.PartitionCellByDatumPlane>`\\ \\(cells\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtendFace <abaqus.Assembly.Feature.Feature.PartitionCellByExtendFace>`\\ \\(cells\\, extendFace\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByExtrudeEdge <abaqus.Assembly.Feature.Feature.PartitionCellByExtrudeEdge>`\\ \\(cells\\, edges\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNCorners <abaqus.Assembly.Feature.Feature.PartitionCellByPatchNCorners>`\\ \\(cell\\, cornerPoints\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPatchNEdges <abaqus.Assembly.Feature.Feature.PartitionCellByPatchNEdges>`\\ \\(cell\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneNormalToEdge <abaqus.Assembly.Feature.Feature.PartitionCellByPlaneNormalToEdge>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlanePointNormal <abaqus.Assembly.Feature.Feature.PartitionCellByPlanePointNormal>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellByPlaneThreePoints <abaqus.Assembly.Feature.Feature.PartitionCellByPlaneThreePoints>`\\ \\(cells\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionCellBySweepEdge <abaqus.Assembly.Feature.Feature.PartitionCellBySweepEdge>`\\ \\(cells\\, edges\\, sweepPath\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByDatumPlane <abaqus.Assembly.Feature.Feature.PartitionEdgeByDatumPlane>`\\ \\(edges\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByParam <abaqus.Assembly.Feature.Feature.PartitionEdgeByParam>`\\ \\(edges\\, parameter\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionEdgeByPoint <abaqus.Assembly.Feature.Feature.PartitionEdgeByPoint>`\\ \\(edge\\, point\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByAuto <abaqus.Assembly.Feature.Feature.PartitionFaceByAuto>`\\ \\(face\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgeParams <abaqus.Assembly.Feature.Feature.PartitionFaceByCurvedPathEdgeParams>`\\ \\(face\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByCurvedPathEdgePoints <abaqus.Assembly.Feature.Feature.PartitionFaceByCurvedPathEdgePoints>`\\ \\(face\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByDatumPlane <abaqus.Assembly.Feature.Feature.PartitionFaceByDatumPlane>`\\ \\(faces\\, datumPlane\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByExtendFace <abaqus.Assembly.Feature.Feature.PartitionFaceByExtendFace>`\\ \\(faces\\, extendFace\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByIntersectFace <abaqus.Assembly.Feature.Feature.PartitionFaceByIntersectFace>`\\ \\(faces\\, cuttingFaces\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByProjectingEdges <abaqus.Assembly.Feature.Feature.PartitionFaceByProjectingEdges>`\\ \\(faces\\, edges\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceByShortestPath <abaqus.Assembly.Feature.Feature.PartitionFaceByShortestPath>`\\ \\(faces\\, point1\\, ...\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketch <abaqus.Assembly.Feature.Feature.PartitionFaceBySketch>`\\ \\(faces\\, sketch\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchDistance <abaqus.Assembly.Feature.Feature.PartitionFaceBySketchDistance>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchRefPoint <abaqus.Assembly.Feature.Feature.PartitionFaceBySketchRefPoint>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`PartitionFaceBySketchThruAll <abaqus.Assembly.Feature.Feature.PartitionFaceBySketchThruAll>`\\ \\(faces\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`ReferencePoint <abaqus.Assembly.Feature.Feature.ReferencePoint>`\\ \\(point\\[\\, instanceName\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`RemoveWireEdges <abaqus.Assembly.Feature.Feature.RemoveWireEdges>`\\ \\(wireEdgeList\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`WirePolyLine <abaqus.Assembly.Feature.Feature.WirePolyLine>`\\ \\(points\\[\\, mergeType\\, meshable\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`isSuppressed <abaqus.Assembly.Feature.Feature.isSuppressed>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`restore <abaqus.Assembly.Feature.Feature.restore>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method restores the parameters of a feature to the value they had when the backup method was invoked on the part or assembly."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`resume <abaqus.Assembly.Feature.Feature.resume>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Assembly.Feature.Feature.setValues>`\\ \\(\\[parameter\\, parameter1\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid "This method modifies the Feature object."
 msgstr ""
 
-#: ../None:65:<autosummary>:1
+#: ../../None:65:<autosummary>:1
 msgid ":py:obj:`suppress <abaqus.Assembly.Feature.Feature.suppress>`\\ \\(\\)"
 msgstr ""
 
@@ -8186,337 +8186,337 @@ msgstr ""
 msgid "Check `PartInstance on help.3ds.com/2020 <https://help.3ds.com/2020/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-partinstancepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Assembly.PartInstance.PartInstance.name>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`dependent <abaqus.Assembly.PartInstance.PartInstance.dependent>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A Boolean specifying whether the part instance is dependent or independent."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`excludedFromSimulation <abaqus.Assembly.PartInstance.PartInstance.excludedFromSimulation>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A Boolean specifying whether the part instance is excluded from the simulation."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`geometryValidity <abaqus.Assembly.PartInstance.PartInstance.geometryValidity>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A Boolean specifying the validity of the geometry of the instance."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`analysisType <abaqus.Assembly.PartInstance.PartInstance.analysisType>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A SymbolicConstant specifying the part type."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`referenceNode <abaqus.Assembly.PartInstance.PartInstance.referenceNode>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "An Int specifying the reference node number."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`part <abaqus.Assembly.PartInstance.PartInstance.part>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.part:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.part:2
 msgid "A :py:class:`~abaqus.Part.Part.Part` object specifying the instanced part."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`sets <abaqus.Assembly.PartInstance.PartInstance.sets>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of Set objects specifying the sets created on the part."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`surfaces <abaqus.Assembly.PartInstance.PartInstance.surfaces>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of Surface objects specifying the surfaces created on the part."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`skins <abaqus.Assembly.PartInstance.PartInstance.skins>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of Skin objects specifying the skins created on the part."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`stringers <abaqus.Assembly.PartInstance.PartInstance.stringers>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of Stringer objects specifying the stringers created on the part."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`vertices <abaqus.Assembly.PartInstance.PartInstance.vertices>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.vertices:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.vertices:2
 msgid "A :py:class:`~abaqus.BasicGeometry.VertexArray.VertexArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`ignoredVertices <abaqus.Assembly.PartInstance.PartInstance.ignoredVertices>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.ignoredVertices:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.ignoredVertices:2
 msgid "An :py:class:`~abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`edges <abaqus.Assembly.PartInstance.PartInstance.edges>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.edges:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.edges:2
 msgid "An :py:class:`~abaqus.BasicGeometry.EdgeArray.EdgeArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`ignoredEdges <abaqus.Assembly.PartInstance.PartInstance.ignoredEdges>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.ignoredEdges:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.ignoredEdges:2
 msgid "An :py:class:`~abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`faces <abaqus.Assembly.PartInstance.PartInstance.faces>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.faces:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.faces:2
 msgid "A :py:class:`~abaqus.BasicGeometry.FaceArray.FaceArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`cells <abaqus.Assembly.PartInstance.PartInstance.cells>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.cells:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.cells:2
 msgid "A :py:class:`~abaqus.BasicGeometry.CellArray.CellArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`datums <abaqus.Assembly.PartInstance.PartInstance.datums>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.datums:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.datums:2
 msgid "A repository of Datum objects."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`elements <abaqus.Assembly.PartInstance.PartInstance.elements>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.elements:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.elements:2
 msgid "A :py:class:`~abaqus.Mesh.MeshElementArray.MeshElementArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`nodes <abaqus.Assembly.PartInstance.PartInstance.nodes>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.nodes:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.nodes:2
 msgid "A :py:class:`~abaqus.Mesh.MeshNodeArray.MeshNodeArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`elemFaces <abaqus.Assembly.PartInstance.PartInstance.elemFaces>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of MeshFace objects specifying all the element faces in the part instance."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`elementFaces <abaqus.Assembly.PartInstance.PartInstance.elementFaces>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.elementFaces:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.elementFaces:2
 msgid "A :py:class:`~abaqus.Mesh.MeshFaceArray.MeshFaceArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`elemEdges <abaqus.Assembly.PartInstance.PartInstance.elemEdges>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid "A repository of MeshEdge objects specifying all the element edges in the part instance."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`elementEdges <abaqus.Assembly.PartInstance.PartInstance.elementEdges>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.elementEdges:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.elementEdges:2
 msgid "A :py:class:`~abaqus.Mesh.MeshEdgeArray.MeshEdgeArray` object."
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`referencePoints <abaqus.Assembly.PartInstance.PartInstance.referencePoints>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
+#: ../../None:28:<autosummary>:1
 msgid ":py:obj:`partName <abaqus.Assembly.PartInstance.PartInstance.partName>`\\"
 msgstr ""
 
-#: ../None:28:<autosummary>:1
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.partName:2
+#: ../../None:28:<autosummary>:1
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.partName:2
 msgid "A String specifying the name of the part from which the instance was created."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Assembly.PartInstance.PartInstance.__init__>`\\ \\(name\\, part\\[\\, autoOffset\\, dependent\\]\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`InstanceFromBooleanCut <abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanCut>`\\ \\(name\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanCut:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method creates a PartInstance in the instances repository after subtracting or cutting the geometries of a group of part instances from that of a base part instance."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`InstanceFromBooleanMerge <abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanMerge>`\\ \\(name\\, instances\\[\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.InstanceFromBooleanMerge:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method creates a PartInstance in the instances repository after merging two or more part instances."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`LinearInstancePattern <abaqus.Assembly.PartInstance.PartInstance.LinearInstancePattern>`\\ \\(instanceList\\, number1\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.LinearInstancePattern:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method creates multiple PartInstance objects in a linear pattern and puts them into the instances repository."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`RadialInstancePattern <abaqus.Assembly.PartInstance.PartInstance.RadialInstancePattern>`\\ \\(instanceList\\, number\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.RadialInstancePattern:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method creates multiple PartInstance objects in a radial pattern and puts them into the instances repository."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`checkGeometry <abaqus.Assembly.PartInstance.PartInstance.checkGeometry>`\\ \\(\\[detailed\\, level\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.checkGeometry:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method checks the validity of the geometry of the part instance and prints a count of all topological entities on the part instance (faces, edges, vertices, etc.)."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`Contact <abaqus.Assembly.PartInstance.PartInstance.Contact>`\\ \\(movableList\\, fixedList\\, direction\\, ...\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.Contact:2
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.translateTo:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method translates an instance along the specified direction until it is in contact with a fixed instance."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`ConvertConstraints <abaqus.Assembly.PartInstance.PartInstance.ConvertConstraints>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method converts the position constraints of an instance to absolute positions."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getPosition <abaqus.Assembly.PartInstance.PartInstance.getPosition>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.getPosition:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method prints the sum of the translations and rotations applied to the PartInstance object."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getRotation <abaqus.Assembly.PartInstance.PartInstance.getRotation>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.getRotation:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a tuple including the point of rotation, axis of rotation, and rotation angle (in degrees)."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getTranslation <abaqus.Assembly.PartInstance.PartInstance.getTranslation>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.getTranslation:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a tuple of three Floats representing translation in the **X**-, **Y**-, and **Z**-directions."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`replace <abaqus.Assembly.PartInstance.PartInstance.replace>`\\ \\(instanceOf\\[\\, applyConstraints\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.replace:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method replaces one instance with an instance of another part."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`rotateAboutAxis <abaqus.Assembly.PartInstance.PartInstance.rotateAboutAxis>`\\ \\(axisPoint\\, axisDirection\\, angle\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.rotateAboutAxis:2
 #: ../../abqpy/src/abaqus/Assembly/PartInstance.py:docstring of abaqus.Assembly.PartInstance.PartInstance.translate:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method translates an instance by the specified amount."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`translate <abaqus.Assembly.PartInstance.PartInstance.translate>`\\ \\(vector\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`translateTo <abaqus.Assembly.PartInstance.PartInstance.translateTo>`\\ \\(movableList\\, fixedList\\, ...\\[\\, ...\\]\\)"
 msgstr ""
 
@@ -8737,7 +8737,7 @@ msgstr ""
 msgid "A sequence of PartInstance objects."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.analysisType:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.analysisType:2
 msgid "A SymbolicConstant specifying the part type. Possible values are DEFORMABLE_BODY, EULERIAN, DISCRETE_RIGID_SURFACE, and ANALYTIC_RIGID_SURFACE."
 msgstr ""
 
@@ -8777,23 +8777,23 @@ msgstr ""
 msgid "instead. :obj:`The` :obj:`geometry` :obj:`of` :obj:`dependent` :obj:`part` :obj:`instances` :obj:`cannot` :obj:`be` changed."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.dependent:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.dependent:2
 msgid "A Boolean specifying whether the part instance is dependent or independent. If **dependent** = OFF, the part instance is independent. The default value is OFF."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.elemEdges:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.elemEdges:2
 msgid "A repository of MeshEdge objects specifying all the element edges in the part instance. For a given element and a given edge index on a given face within that element, the corresponding MeshEdge object can be retrieved from the repository by using the key calculated as (i*32 + j*4 + k), where i, j, and k are zero-based element, face, and edge indices, respectively."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.elemFaces:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.elemFaces:2
 msgid "A repository of MeshFace objects specifying all the element faces in the part instance. For a given element and a given face index within that element, the corresponding MeshFace object can be retrieved from the repository by using the key calculated as (i*8 + j), where i and j are zero-based element and face indices, respectively."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.excludedFromSimulation:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.excludedFromSimulation:2
 msgid "A Boolean specifying whether the part instance is excluded from the simulation. If **excludedFromSimulation** = ON, the part instance is excluded from the simulation. The default value is OFF."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.geometryValidity:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.geometryValidity:2
 msgid "A Boolean specifying the validity of the geometry of the instance. The value is computed, but it can be set to ON to perform feature and mesh operations on an invalid instance. There is no guarantee that such operations will work if the instance was originally invalid."
 msgstr ""
 
@@ -8813,7 +8813,7 @@ msgstr ""
 msgid "A tuple of three Floats representing the translation."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.referenceNode:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.referenceNode:2
 msgid "An Int specifying the reference node number. This member is valid only if **analysisType** = DISCRETE_RIGID_SURFACE or ANALYTIC_RIGID_SURFACE."
 msgstr ""
 
@@ -8849,19 +8849,19 @@ msgstr ""
 msgid "A sequence of three Floats specifying the direction vector of the axis."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.sets:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.sets:2
 msgid "A repository of Set objects specifying the sets created on the part. For more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.skins:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.skins:2
 msgid "A repository of Skin objects specifying the skins created on the part. For more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.stringers:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.stringers:2
 msgid "A repository of Stringer objects specifying the stringers created on the part. For more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
-#: ../docstring of abaqus.Assembly.PartInstance.PartInstance.surfaces:2
+#: ../../docstring of abaqus.Assembly.PartInstance.PartInstance.surfaces:2
 msgid "A repository of Surface objects specifying the surfaces created on the part. For more information, see [Region commands](https://help.3ds.com/2022/english/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-m-RegPyc-sb.htm?ContextScope=all)."
 msgstr ""
 
