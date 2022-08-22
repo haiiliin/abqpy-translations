@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../abqpy/docs/source/summary.rst:7
+#: ../../abqpy/docs/source/user/python/use-scripts.rst:7
 msgid "Contents"
 msgstr ""
 
-#: ../../abqpy/docs/source/summary.rst:3
-msgid "API Summary"
+#: ../../abqpy/docs/source/user/python/use-scripts.rst:3
+msgid "Using the Abaqus Scripting Interface with Abaqus/CAE"
 msgstr ""
 
-#: ../../abqpy/docs/source/summary.rst:5
-msgid "This summary guides you how to write an Abaqus Python script to build the Abaqus model, and to extract the outout data."
+#: ../../abqpy/docs/source/user/python/use-scripts.rst:5
+msgid "This section discusses how you can use the Abaqus Scripting Interface to control Abaqus/CAE models and analysis jobs."
 msgstr ""
