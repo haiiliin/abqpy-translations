@@ -9,11 +9,11 @@ set -ex
 
 
 # pull po files from transifex
-cd `dirname $0`
-sphinx-intl create-transifexrc
+# cd `dirname $0`
+# sphinx-intl create-transifexrc
 #rm -R pot  # skip this line cause "already unused pot files will not removed" but we must keep these files to avoid commit for only "POT-Creation-Time" line updated. see: https://github.com/sphinx-doc/sphinx/issues/3443
-sphinx-build -T -b gettext ../abqpy/docs/source pot
-sphinx-intl update -p pot -l zh_CN
+sphinx-build -T -b gettext abqpy/docs/source locale/pot
+sphinx-intl update -p locale/pot -l zh_CN
 # cat .tx/config
 # tx push -s --skip
 # rm -R -f zh_CN
