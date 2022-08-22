@@ -1,3 +1,44 @@
 [main]
 host = https://www.transifex.com
 
+[abqpy.getting_started]
+file_filter = <lang>/LC_MESSAGES/getting_started.po
+source_file = pot/getting_started.pot
+source_lang = en
+type = PO
+
+[abqpy.index]
+file_filter = <lang>/LC_MESSAGES/index.po
+source_file = pot/index.pot
+source_lang = en
+type = PO
+
+[abqpy.reference]
+file_filter = <lang>/LC_MESSAGES/reference.po
+source_file = pot/reference.pot
+source_lang = en
+type = PO
+
+[abqpy.references]
+file_filter = <lang>/LC_MESSAGES/references.po
+source_file = pot/references.pot
+source_lang = en
+type = PO
+
+[abqpy.summary]
+file_filter = <lang>/LC_MESSAGES/summary.po
+source_file = pot/summary.pot
+source_lang = en
+type = PO
+
+[abqpy.tutorials]
+file_filter = <lang>/LC_MESSAGES/tutorials.po
+source_file = pot/tutorials.pot
+source_lang = en
+type = PO
+
+[abqpy.user]
+file_filter = <lang>/LC_MESSAGES/user.po
+source_file = pot/user.pot
+source_lang = en
+type = PO
