@@ -49,7 +49,7 @@ jobs:
         pip install -U pip setuptools
         pip install -r ./requirements.txt
     - name: Update translations
-      run: sh ./locale/update.sh
+      run: sh ./locales/update.sh
     - name: After success
       run: |
         git branch -a
