@@ -5,14 +5,15 @@ build:
     python: "3.10"
   jobs:
     pre_build:
-      - cd abqpy
-      - python setup.py install
-      - pip install -r ./requirements.txt
-      - pip install -r ./docs/requirements.txt
-      - cd ..
+      - pip install abqpy
+      - pip install -r abqpy/requirements.txt
+      - pip install -r abqpy/docs/requirements.txt
 sphinx:
   configuration: abqpy/docs/source/conf.py
 formats: []
 python:
   install:
     - requirements: requirements.txt
+submodules:
+  include:
+    - abqpy
