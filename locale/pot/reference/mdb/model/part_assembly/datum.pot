@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,24 +68,24 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Datum.DatumAxis.DatumAxis.pointOn>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumAxis.DatumAxis.pointOn:2
-#: ../docstring of abaqus.Datum.DatumPlane.DatumPlane.pointOn:2
-#: ../docstring of abaqus.Datum.DatumPoint.DatumPoint.pointOn:2
+#: ../../None:3:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumAxis.DatumAxis.pointOn:2
+#: ../../docstring of abaqus.Datum.DatumPlane.DatumPlane.pointOn:2
+#: ../../docstring of abaqus.Datum.DatumPoint.DatumPoint.pointOn:2
 msgid "A tuple of Floats specifying the **X**-, **Y**-, and **Z**-coordinates of a point located on the datum."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`direction <abaqus.Datum.DatumAxis.DatumAxis.direction>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumAxis.DatumAxis.direction:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumAxis.DatumAxis.direction:2
 msgid "A tuple of Floats specifying a sequence of three Floats specifying the direction of the axis."
 msgstr ""
 
@@ -101,51 +101,51 @@ msgstr ""
 msgid "Check `DatumCsys on help.3ds.com/2021 <https://help.3ds.com/2021/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-datumcsyspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`coordSysType <abaqus.Datum.DatumCsys.DatumCsys.coordSysType>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A SymbolicConstant specifying the type of the coordinate system."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`origin <abaqus.Datum.DatumCsys.DatumCsys.origin>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumCsys.DatumCsys.origin:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumCsys.DatumCsys.origin:2
 msgid "A :py:class:`~abaqus.Datum.DatumPoint.DatumPoint` object specifying the origin of the coordinate system."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`axis1 <abaqus.Datum.DatumCsys.DatumCsys.axis1>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis1:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis1:2
 msgid "A :py:class:`~abaqus.Datum.DatumAxis.DatumAxis` object specifying the 1-direction of the coordinate system."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`axis2 <abaqus.Datum.DatumCsys.DatumCsys.axis2>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis2:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis2:2
 msgid "A :py:class:`~abaqus.Datum.DatumAxis.DatumAxis` object specifying the 2-direction of the coordinate system."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`axis3 <abaqus.Datum.DatumCsys.DatumCsys.axis3>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis3:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumCsys.DatumCsys.axis3:2
 msgid "A :py:class:`~abaqus.Datum.DatumAxis.DatumAxis` object specifying the 3-direction of the coordinate system."
 msgstr ""
 
-#: ../docstring of abaqus.Datum.DatumCsys.DatumCsys.coordSysType:2
+#: ../../docstring of abaqus.Datum.DatumCsys.DatumCsys.coordSysType:2
 msgid "A SymbolicConstant specifying the type of the coordinate system. Possible values are CARTESIAN, CYLINDRICAL, and SPHERICAL."
 msgstr ""
 
@@ -161,16 +161,16 @@ msgstr ""
 msgid "Check `DatumPlane on help.3ds.com/2021 <https://help.3ds.com/2021/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-datumplanepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Datum.DatumPlane.DatumPlane.pointOn>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`normal <abaqus.Datum.DatumPlane.DatumPlane.normal>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.Datum.DatumPlane.DatumPlane.normal:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.Datum.DatumPlane.DatumPlane.normal:2
 msgid "A tuple of Floats specifying a sequence of three Floats specifying the normal."
 msgstr ""
 
@@ -186,6 +186,6 @@ msgstr ""
 msgid "Check `DatumPoint on help.3ds.com/2021 <https://help.3ds.com/2021/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-datumpointpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.Datum.DatumPoint.DatumPoint.pointOn>`\\"
 msgstr ""

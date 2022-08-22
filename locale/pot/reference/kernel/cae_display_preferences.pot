@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,14 +50,14 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`fileName <abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.fileName>`\\"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeGuiPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.saveAs:10
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeKerPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.saveAs:10
-#: ../None:3:<autosummary>:1
-#: ../docstring of abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.fileName:2
+#: ../../None:3:<autosummary>:1
+#: ../../docstring of abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.fileName:2
 msgid "A String specifying the path to the preferences file."
 msgstr ""
 
@@ -66,21 +66,21 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`save <abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.save>`\\ \\(\\[backupFile\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeGuiPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.save:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method saves the guiPreferences section specified in the current **fileName**."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`saveAs <abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.saveAs>`\\ \\(fileName\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeGuiPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeGuiPrefs.CaeGuiPrefs.saveAs:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method saves the guiPreferences settings to the specified location."
 msgstr ""
 
@@ -132,30 +132,30 @@ msgstr ""
 msgid "Check `CaeKerPrefs on help.3ds.com/2021 <https://help.3ds.com/2021/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-gprcaekerprefspyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`fileName <abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.fileName>`\\"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
-#: ../docstring of abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.fileName:2
+#: ../../None:3:<autosummary>:1
+#: ../../docstring of abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.fileName:2
 msgid "A String specifying the path to the preferences file that the CaeKerPrefs object represents."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`save <abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.save>`\\ \\(\\[backupFile\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeKerPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.save:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method saves the sessionOptions in the current **fileName**."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`saveAs <abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.saveAs>`\\ \\(\\[fileName\\, directory\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/AbaqusCAEDisplayPreferences/CaeKerPrefs.py:docstring of abaqus.AbaqusCAEDisplayPreferences.CaeKerPrefs.CaeKerPrefs.saveAs:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method saves the sessionOptions to the specified location."
 msgstr ""
 

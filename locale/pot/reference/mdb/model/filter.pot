@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,8 +53,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.ButterworthFilter:2
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.ButterworthFilter:2
-#: ../None:4:<autosummary>:1
-#: ../None:6:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method creates a ButterworthFilter object."
 msgstr ""
 
@@ -109,7 +109,7 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev1Filter:18
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:18
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:18
-#: ../docstring of abaqus.Filter.Filter.Filter.name:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.name:2
 msgid "A String specifying the repository key. This name ANTIALIASING is reserved for filters generated internally by the program."
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev1Filter:22
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:22
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:22
-#: ../docstring of abaqus.Filter.Filter.Filter.cutoffFrequency:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.cutoffFrequency:2
 msgid "A Float specifying the attenuation point of the filter. Possible values are non-negative numbers. Order is not available for OperatorFilter."
 msgstr ""
 
@@ -163,11 +163,11 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:30
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:26
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:10
-#: ../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.order:2
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.order:2
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.order:2
-#: ../docstring of abaqus.Filter.Filter.Filter.order:2
-#: ../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.order:2
+#: ../../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.order:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.order:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.order:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.order:2
+#: ../../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.order:2
 msgid "An Int specifying the highest power of the filter transfer function. Possible values are non-negative numbers less than or equal to 20. Order is not available for OperatorFilter. The default value is 2."
 msgstr ""
 
@@ -198,11 +198,11 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:35
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:31
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:15
-#: ../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.operation:2
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.operation:2
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.operation:2
-#: ../docstring of abaqus.Filter.Filter.Filter.operation:2
-#: ../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.operation:2
+#: ../../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.operation:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.operation:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.operation:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.operation:2
+#: ../../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.operation:2
 msgid "A SymbolicConstant specifying the filter operator. Possible values are NONE, MIN, MAX, and ABS. The default value is NONE."
 msgstr ""
 
@@ -233,11 +233,11 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:39
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:35
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:19
-#: ../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.halt:2
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.halt:2
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.halt:2
-#: ../docstring of abaqus.Filter.Filter.Filter.halt:2
-#: ../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.halt:2
+#: ../../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.halt:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.halt:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.halt:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.halt:2
+#: ../../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.halt:2
 msgid "A Boolean specifying whether to stop the analysis if the specified limit is reached. The default value is OFF."
 msgstr ""
 
@@ -268,11 +268,11 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:43
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:39
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:23
-#: ../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.limit:2
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.limit:2
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.limit:2
-#: ../docstring of abaqus.Filter.Filter.Filter.limit:2
-#: ../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.limit:2
+#: ../../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.limit:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.limit:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.limit:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.limit:2
+#: ../../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.limit:2
 msgid "None or a Float specifying the threshold limit, an upper or lower bound for output values depending on the operation, or a bound for stopping the analysis when Halt is used. The default value is None."
 msgstr ""
 
@@ -303,11 +303,11 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:48
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:44
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:28
-#: ../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.invariant:2
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.invariant:2
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.invariant:2
-#: ../docstring of abaqus.Filter.Filter.Filter.invariant:2
-#: ../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.invariant:2
+#: ../../docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.invariant:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.invariant:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.invariant:2
+#: ../../docstring of abaqus.Filter.Filter.Filter.invariant:2
+#: ../../docstring of abaqus.Filter.OperatorFilter.OperatorFilter.invariant:2
 msgid "A SymbolicConstant specifying the invariant to which filtering is applied. Possible values are NONE, FIRST, and SECOND. The default value is NONE."
 msgstr ""
 
@@ -375,8 +375,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.Chebyshev1Filter:2
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev1Filter:2
-#: ../None:4:<autosummary>:1
-#: ../None:6:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method creates a Chebyshev1Filter object."
 msgstr ""
 
@@ -398,7 +398,7 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/Chebyshev1Filter.py:docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.setValues:10
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.Chebyshev1Filter:26
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev1Filter:26
-#: ../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.rippleFactor:2
+#: ../../docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.rippleFactor:2
 msgid "A Float specifying the amount of allowable ripple in the filter. Possible values are non-negative numbers. The default value is 0.225."
 msgstr ""
 
@@ -414,8 +414,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.Chebyshev2Filter:2
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:2
-#: ../None:4:<autosummary>:1
-#: ../None:6:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method creates a Chebyshev2Filter object."
 msgstr ""
 
@@ -428,7 +428,7 @@ msgstr ""
 #: ../../abqpy/src/abaqus/Filter/Chebyshev2Filter.py:docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.setValues:10
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.Chebyshev2Filter:26
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter:26
-#: ../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.rippleFactor:2
+#: ../../docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.rippleFactor:2
 msgid "A Float specifying the amount of allowable ripple in the filter. Possible values are non-negative numbers less than 1. The default value is 0.025."
 msgstr ""
 
@@ -444,8 +444,8 @@ msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/FilterModel.py:docstring of abaqus.Filter.FilterModel.FilterModel.OperatorFilter:2
 #: ../../abqpy/src/abaqus/Filter/FilterOdb.py:docstring of abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter:2
-#: ../None:4:<autosummary>:1
-#: ../None:6:<autosummary>:1
+#: ../../None:4:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method creates an OperatorFilter object."
 msgstr ""
 
@@ -486,115 +486,115 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`isReadOnly <abaqus.Filter.FilterOdb.FilterOdb.isReadOnly>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A Boolean specifying whether the output database was opened with read-only access."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`amplitudes <abaqus.Filter.FilterOdb.FilterOdb.amplitudes>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of Amplitude objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`filters <abaqus.Filter.FilterOdb.FilterOdb.filters>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of Filter objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`rootAssembly <abaqus.Filter.FilterOdb.FilterOdb.rootAssembly>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "An :py:class:`~abaqus.Odb.OdbAssembly.OdbAssembly` object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`jobData <abaqus.Filter.FilterOdb.FilterOdb.jobData>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A :py:class:`~abaqus.Odb.JobData.JobData` object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`parts <abaqus.Filter.FilterOdb.FilterOdb.parts>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of OdbPart objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`materials <abaqus.Filter.FilterOdb.FilterOdb.materials>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of Material objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`steps <abaqus.Filter.FilterOdb.FilterOdb.steps>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of OdbStep objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`sections <abaqus.Filter.FilterOdb.FilterOdb.sections>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of Section objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`sectionCategories <abaqus.Filter.FilterOdb.FilterOdb.sectionCategories>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of SectionCategory objects."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`sectorDefinition <abaqus.Filter.FilterOdb.FilterOdb.sectorDefinition>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A :py:class:`~abaqus.Odb.SectorDefinition.SectorDefinition` object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`userData <abaqus.Filter.FilterOdb.FilterOdb.userData>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A :py:class:`~abaqus.Odb.UserData.UserData` object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`customData <abaqus.Filter.FilterOdb.FilterOdb.customData>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A :py:class:`~abaqus.CustomKernel.RepositorySupport.RepositorySupport` object."
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid ":py:obj:`profiles <abaqus.Filter.FilterOdb.FilterOdb.profiles>`\\"
 msgstr ""
 
-#: ../None:16:<autosummary>:1
+#: ../../None:16:<autosummary>:1
 msgid "A repository of Profile objects."
 msgstr ""
 
@@ -606,59 +606,59 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`ButterworthFilter <abaqus.Filter.FilterOdb.FilterOdb.ButterworthFilter>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`Chebyshev1Filter <abaqus.Filter.FilterOdb.FilterOdb.Chebyshev1Filter>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`Chebyshev2Filter <abaqus.Filter.FilterOdb.FilterOdb.Chebyshev2Filter>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`OperatorFilter <abaqus.Filter.FilterOdb.FilterOdb.OperatorFilter>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Filter.FilterOdb.FilterOdb.__init__>`\\ \\(name\\[\\, analysisTitle\\, description\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method creates a new Odb object."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`close <abaqus.Filter.FilterOdb.FilterOdb.close>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method closes an output database."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`getFrame <abaqus.Filter.FilterOdb.FilterOdb.getFrame>`\\ \\(frameValue\\[\\, match\\]\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method returns the frame at the specified time, frequency, or mode."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`save <abaqus.Filter.FilterOdb.FilterOdb.save>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method saves output to an output database (.odb ) file."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`update <abaqus.Filter.FilterOdb.FilterOdb.update>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "This method is used to update an Odb object in memory while an Abaqus analysis writes data to the associated output database."
 msgstr ""
 
@@ -674,69 +674,69 @@ msgstr ""
 msgid "Check `Filter on help.3ds.com/2021 <https://help.3ds.com/2021/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-filterpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Filter.Filter.Filter.name>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A String specifying the repository key."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`cutoffFrequency <abaqus.Filter.Filter.Filter.cutoffFrequency>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A Float specifying the attenuation point of the filter."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`order <abaqus.Filter.Filter.Filter.order>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "An Int specifying the highest power of the filter transfer function."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`operation <abaqus.Filter.Filter.Filter.operation>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A SymbolicConstant specifying the filter operator."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`halt <abaqus.Filter.Filter.Filter.halt>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A Boolean specifying whether to stop the analysis if the specified limit is reached."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`limit <abaqus.Filter.Filter.Filter.limit>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "None or a Float specifying the threshold limit, an upper or lower bound for output values depending on the operation, or a bound for stopping the analysis when Halt is used."
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`invariant <abaqus.Filter.Filter.Filter.invariant>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid "A SymbolicConstant specifying the invariant to which filtering is applied."
 msgstr ""
 
@@ -762,49 +762,49 @@ msgstr ""
 msgid "FILTER"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`order <abaqus.Filter.ButterworthFilter.ButterworthFilter.order>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`operation <abaqus.Filter.ButterworthFilter.ButterworthFilter.operation>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`halt <abaqus.Filter.ButterworthFilter.ButterworthFilter.halt>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`limit <abaqus.Filter.ButterworthFilter.ButterworthFilter.limit>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`invariant <abaqus.Filter.ButterworthFilter.ButterworthFilter.invariant>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Filter.ButterworthFilter.ButterworthFilter.name>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`cutoffFrequency <abaqus.Filter.ButterworthFilter.ButterworthFilter.cutoffFrequency>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Filter.ButterworthFilter.ButterworthFilter.__init__>`\\ \\(name\\, cutoffFrequency\\[\\, order\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Filter.ButterworthFilter.ButterworthFilter.setValues>`\\ \\(\\[order\\, operation\\, halt\\, limit\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/ButterworthFilter.py:docstring of abaqus.Filter.ButterworthFilter.ButterworthFilter.setValues:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method modifies the ButterworthFilter object."
 msgstr ""
 
@@ -820,57 +820,57 @@ msgstr ""
 msgid "The Chebyshev1Filter object defines a Chebyshev type 1 filter. The Chebyshev1Filter object is derived from the Filter object."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`rippleFactor <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.rippleFactor>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid "A Float specifying the amount of allowable ripple in the filter."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`order <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.order>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`operation <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.operation>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`halt <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.halt>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`limit <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.limit>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`invariant <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.invariant>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.name>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`cutoffFrequency <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.cutoffFrequency>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.__init__>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.setValues>`\\ \\(\\[rippleFactor\\, order\\, operation\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/Chebyshev1Filter.py:docstring of abaqus.Filter.Chebyshev1Filter.Chebyshev1Filter.setValues:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method modifies the Chebyshev1Filter object."
 msgstr ""
 
@@ -886,53 +886,53 @@ msgstr ""
 msgid "The Chebyshev2Filter object defines a Chebyshev type 2 filter. The Chebyshev2Filter object is derived from the Filter object."
 msgstr ""
 
-#: ../None:8:<autosummary>:1
+#: ../../None:8:<autosummary>:1
 msgid ":py:obj:`rippleFactor <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.rippleFactor>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`order <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.order>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`operation <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.operation>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`halt <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.halt>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`limit <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.limit>`\\"
 msgstr ""
 
-#: ../None:8:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:8:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`invariant <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.invariant>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.name>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`cutoffFrequency <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.cutoffFrequency>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.__init__>`\\ \\(name\\, cutoffFrequency\\[\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.setValues>`\\ \\(\\[rippleFactor\\, order\\, operation\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/Chebyshev2Filter.py:docstring of abaqus.Filter.Chebyshev2Filter.Chebyshev2Filter.setValues:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method modifies the Chebyshev2Filter object."
 msgstr ""
 
@@ -948,49 +948,49 @@ msgstr ""
 msgid "The OperatorFilter object defines an operator filter. The OperatorFilter object is derived from the Filter object."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`order <abaqus.Filter.OperatorFilter.OperatorFilter.order>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`operation <abaqus.Filter.OperatorFilter.OperatorFilter.operation>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`halt <abaqus.Filter.OperatorFilter.OperatorFilter.halt>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`limit <abaqus.Filter.OperatorFilter.OperatorFilter.limit>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../None:9:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`invariant <abaqus.Filter.OperatorFilter.OperatorFilter.invariant>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`name <abaqus.Filter.OperatorFilter.OperatorFilter.name>`\\"
 msgstr ""
 
-#: ../None:9:<autosummary>:1
+#: ../../None:9:<autosummary>:1
 msgid ":py:obj:`cutoffFrequency <abaqus.Filter.OperatorFilter.OperatorFilter.cutoffFrequency>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.Filter.OperatorFilter.OperatorFilter.__init__>`\\ \\(name\\, cutoffFrequency\\[\\, order\\, ...\\]\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`setValues <abaqus.Filter.OperatorFilter.OperatorFilter.setValues>`\\ \\(\\[order\\, operation\\, halt\\, limit\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/Filter/OperatorFilter.py:docstring of abaqus.Filter.OperatorFilter.OperatorFilter.setValues:2
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method modifies the OperatorFilter object."
 msgstr ""
 
