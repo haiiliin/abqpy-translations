@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: abqpy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:22+0000\n"
+"POT-Creation-Date: 2022-08-22 15:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,48 +67,48 @@ msgstr ""
 msgid "Public Data Attributes:"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.Cell.Cell.index>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Cell.Cell.index:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Cell.Cell.index:2
 msgid "An Int specifying the index of the cell in the CellArray."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`isReferenceRep <abaqus.BasicGeometry.Cell.Cell.isReferenceRep>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Cell.Cell.isReferenceRep:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Cell.Cell.isReferenceRep:2
 msgid "A Boolean specifying whether the cell belongs to the reference representation of the Part or Instance."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.Cell.Cell.pointOn>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Cell.Cell.pointOn:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Cell.Cell.pointOn:2
 msgid "A tuple of Floats specifying the **X**-, **Y**-, and **Z**-coordinates of a point located on the cell."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`featureName <abaqus.BasicGeometry.Cell.Cell.featureName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Cell.Cell.featureName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Cell.Cell.featureName:2
 msgid "A tuple of Floats specifying the name of the feature that created this cell."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`instanceName <abaqus.BasicGeometry.Cell.Cell.instanceName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Cell.Cell.instanceName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Cell.Cell.instanceName:2
 msgid "A tuple of Floats specifying the name of the part instance for this cell (if applicable)."
 msgstr ""
 
@@ -130,75 +130,75 @@ msgstr ""
 msgid "Public Methods:"
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.BasicGeometry.Cell.Cell.getSize>`\\ \\(\\[printResults\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getSize:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns a Float indicating the volume of the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getFaces <abaqus.BasicGeometry.Cell.Cell.getFaces>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getFaces:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns a sequence consisting of the face IDs of the faces which bound the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getEdges <abaqus.BasicGeometry.Cell.Cell.getEdges>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getEdges:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns a sequence consisting of the edge IDs of the edges on the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getVertices <abaqus.BasicGeometry.Cell.Cell.getVertices>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getVertices:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns a sequence consisting of the vertex IDs of the vertices on the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getAdjacentCells <abaqus.BasicGeometry.Cell.Cell.getAdjacentCells>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getAdjacentCells:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns an array of cell objects that share at least one face of the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getNodes <abaqus.BasicGeometry.Cell.Cell.getNodes>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getNodes:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns an array of node objects that are associated with the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getElements <abaqus.BasicGeometry.Cell.Cell.getElements>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getElements:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns an array of element objects that are associated with the cell."
 msgstr ""
 
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid ":py:obj:`getCADAttributes <abaqus.BasicGeometry.Cell.Cell.getCADAttributes>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Cell.py:docstring of abaqus.BasicGeometry.Cell.Cell.getCADAttributes:2
-#: ../None:10:<autosummary>:1
+#: ../../None:10:<autosummary>:1
 msgid "This method returns an array of CAD attribute strings associated with the cell when the part was created from CAD data."
 msgstr ""
 
@@ -444,41 +444,41 @@ msgstr ""
 msgid "Check `CellArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-cellarraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.CellArray.CellArray.__init__>`\\ \\(cells\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "This method creates a CellArray object."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.CellArray.CellArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the CellArray located at the given coordinates."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getExteriorFaces <abaqus.BasicGeometry.CellArray.CellArray.getExteriorFaces>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the cell faces on the exterior of the CellArray."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.CellArray.CellArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the CellArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.CellArray.CellArray.getMask>`\\ \\(\\)"
 msgstr ""
 
@@ -488,334 +488,334 @@ msgstr ""
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredEdgeArray.py:docstring of abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.getMask:2
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredVertexArray.py:docstring of abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.getMask:2
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getMask:2
-#: ../None:11:<autosummary>:1
-#: ../None:12:<autosummary>:1
-#: ../None:6:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns a string specifying the object or objects."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingBox <abaqus.BasicGeometry.CellArray.CellArray.getByBoundingBox>`\\ \\(\\[xMin\\, yMin\\, zMin\\, xMax\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/CellArray.py:docstring of abaqus.BasicGeometry.CellArray.CellArray.getByBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of cell objects that lie within the specified bounding box."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingCylinder <abaqus.BasicGeometry.CellArray.CellArray.getByBoundingCylinder>`\\ \\(center1\\, center2\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/CellArray.py:docstring of abaqus.BasicGeometry.CellArray.CellArray.getByBoundingCylinder:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of cell objects that lie within the specified bounding cylinder."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingSphere <abaqus.BasicGeometry.CellArray.CellArray.getByBoundingSphere>`\\ \\(center\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/CellArray.py:docstring of abaqus.BasicGeometry.CellArray.CellArray.getByBoundingSphere:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of cell objects that lie within the specified bounding sphere."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getBoundingBox <abaqus.BasicGeometry.CellArray.CellArray.getBoundingBox>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/CellArray.py:docstring of abaqus.BasicGeometry.CellArray.CellArray.getBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns a dictionary of two tuples representing minimum and maximum boundary values of the bounding box of the minimum size containing the cell sequence."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.CellArray.CellArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return repr(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.CellArray.CellArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return getattr(self, name)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.CellArray.CellArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self<value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.CellArray.CellArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self<=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.CellArray.CellArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self==value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.CellArray.CellArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self!=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.CellArray.CellArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self>value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.CellArray.CellArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self>=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.CellArray.CellArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement iter(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.CellArray.CellArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return len(self)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.CellArray.CellArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "x.__getitem__(y) <==> x[y]"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.CellArray.CellArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Set self[key] to value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.CellArray.CellArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Delete self[key]."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.CellArray.CellArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self+value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.CellArray.CellArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return self*value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.CellArray.CellArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return value*self."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.CellArray.CellArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return key in self."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.CellArray.CellArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement self+=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.CellArray.CellArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Implement self*=value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.CellArray.CellArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return a reverse iterator over the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.CellArray.CellArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return the size of the list in memory, in bytes."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.CellArray.CellArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove all items from list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.CellArray.CellArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return a shallow copy of the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.CellArray.CellArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Append object to the end of the list."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.CellArray.CellArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Insert object before index."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.CellArray.CellArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Extend list by appending elements from the iterable."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.CellArray.CellArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove and return item at index (default last)."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.CellArray.CellArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Remove first occurrence of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.CellArray.CellArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return first index of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.CellArray.CellArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Return number of occurrences of value."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.CellArray.CellArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Reverse *IN PLACE*."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.CellArray.CellArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "Sort the list in ascending order and return None."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.CellArray.CellArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "See PEP 585"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.CellArray.CellArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid "This method is called when a class is subclassed."
 msgstr ""
 
@@ -829,7 +829,7 @@ msgstr ""
 msgid "Private Data Attributes:"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.CellArray.CellArray._is_protocol>`\\"
 msgstr ""
 
@@ -1187,141 +1187,141 @@ msgstr ""
 msgid "Check `Edge on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-edgepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.Edge.Edge.index>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Edge.Edge.index:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Edge.Edge.index:2
 msgid "An Int specifying the index of the edge in the EdgeArray."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`isReferenceRep <abaqus.BasicGeometry.Edge.Edge.isReferenceRep>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Edge.Edge.isReferenceRep:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Edge.Edge.isReferenceRep:2
 msgid "A Boolean specifying whether the edge belongs to the reference representation of the Part or Instance."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.Edge.Edge.pointOn>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Edge.Edge.pointOn:2
-#: ../docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.pointOn:2
+#: ../../None:4:<autosummary>:1
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Edge.Edge.pointOn:2
+#: ../../docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.pointOn:2
 msgid "A tuple of Floats specifying the **X**-, **Y**-, and **Z**-coordinates of a point located on the edge."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`featureName <abaqus.BasicGeometry.Edge.Edge.featureName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Edge.Edge.featureName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Edge.Edge.featureName:2
 msgid "A tuple of Floats specifying the name of the feature that created this edge."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`instanceName <abaqus.BasicGeometry.Edge.Edge.instanceName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Edge.Edge.instanceName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Edge.Edge.instanceName:2
 msgid "A tuple of Floats specifying the name of the part instance for this edge (if applicable)."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`isTangentFlipped <abaqus.BasicGeometry.Edge.Edge.isTangentFlipped>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.isTangentFlipped:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method determines whether the tangent to the edge is flipped from its default direction by the use of the flipTangent method on a Part object."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getCurvature <abaqus.BasicGeometry.Edge.Edge.getCurvature>`\\ \\(parameter\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getCurvature:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns curvature information at a location on the edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getFaces <abaqus.BasicGeometry.Edge.Edge.getFaces>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getFaces:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns a sequence consisting of the face ids of the faces which share this edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getAdjacentEdges <abaqus.BasicGeometry.Edge.Edge.getAdjacentEdges>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getAdjacentEdges:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of Edge objects that share at least one vertex of the edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getEdgesByEdgeAngle <abaqus.BasicGeometry.Edge.Edge.getEdgesByEdgeAngle>`\\ \\(angle\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getEdgesByEdgeAngle:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of Edge objects that are obtained by recursively finding adjacent edges that are at an angle of less than or equal to the specified face angle."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getNodes <abaqus.BasicGeometry.Edge.Edge.getNodes>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getNodes:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of node objects that are associated with the edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getElements <abaqus.BasicGeometry.Edge.Edge.getElements>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getElements:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of element objects that are associated with the edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getRadius <abaqus.BasicGeometry.Edge.Edge.getRadius>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getRadius:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns the radius of circular edges."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.BasicGeometry.Edge.Edge.getSize>`\\ \\(\\[printResults\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Edge.py:docstring of abaqus.BasicGeometry.Edge.Edge.getSize:2
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredEdge.py:docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getSize:2
-#: ../None:12:<autosummary>:1
-#: ../None:5:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns a Float indicating the length of the edge."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getVertices <abaqus.BasicGeometry.Edge.Edge.getVertices>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns a sequence of indices of the vertices that bound this edge."
 msgstr ""
 
@@ -1448,219 +1448,219 @@ msgstr ""
 msgid "Check `EdgeArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-edgearraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__init__>`\\ \\(edges\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "This method creates an EdgeArray object."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.EdgeArray.EdgeArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the EdgeArray located at the given coordinates."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getClosest <abaqus.BasicGeometry.EdgeArray.EdgeArray.getClosest>`\\ \\(coordinates\\[\\, searchTolerance\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/EdgeArray.py:docstring of abaqus.BasicGeometry.EdgeArray.EdgeArray.getClosest:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an object or objects in the EdgeArray closest to the given set of points, where the given points need not lie on the edges in the EdgeArray."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.EdgeArray.EdgeArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the EdgeArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.EdgeArray.EdgeArray.getMask>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingBox <abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingBox>`\\ \\(\\[xMin\\, yMin\\, zMin\\, xMax\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/EdgeArray.py:docstring of abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of edge objects that lie within the specified bounding box."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingCylinder <abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingCylinder>`\\ \\(center1\\, center2\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/EdgeArray.py:docstring of abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingCylinder:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of edge objects that lie within the specified bounding cylinder."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingSphere <abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingSphere>`\\ \\(center\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/EdgeArray.py:docstring of abaqus.BasicGeometry.EdgeArray.EdgeArray.getByBoundingSphere:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of edge objects that lie within the specified bounding sphere."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getBoundingBox <abaqus.BasicGeometry.EdgeArray.EdgeArray.getBoundingBox>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/EdgeArray.py:docstring of abaqus.BasicGeometry.EdgeArray.EdgeArray.getBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns a dictionary of two tuples representing minimum and maximum boundary values of the bounding box of the minimum size containing the edge sequence."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.EdgeArray.EdgeArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.EdgeArray.EdgeArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.EdgeArray.EdgeArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.EdgeArray.EdgeArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.EdgeArray.EdgeArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.EdgeArray.EdgeArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.EdgeArray.EdgeArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.EdgeArray.EdgeArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.EdgeArray.EdgeArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.EdgeArray.EdgeArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.EdgeArray.EdgeArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.EdgeArray.EdgeArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.EdgeArray.EdgeArray._is_protocol>`\\"
 msgstr ""
 
@@ -1749,179 +1749,179 @@ msgstr ""
 msgid "Check `Face on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-facepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.Face.Face.index>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Face.Face.index:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Face.Face.index:2
 msgid "An Int specifying the index of the face in the FaceArray."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`isReferenceRep <abaqus.BasicGeometry.Face.Face.isReferenceRep>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Face.Face.isReferenceRep:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Face.Face.isReferenceRep:2
 msgid "A Boolean specifying whether the face belongs to the reference representation of the Part or Instance."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.Face.Face.pointOn>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid "A tuple of tuples of Floats specifying the coordinates."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`featureName <abaqus.BasicGeometry.Face.Face.featureName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Face.Face.featureName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Face.Face.featureName:2
 msgid "A tuple of Floats specifying the name of the feature that created this face."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`instanceName <abaqus.BasicGeometry.Face.Face.instanceName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Face.Face.instanceName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Face.Face.instanceName:2
 msgid "A tuple of Floats specifying the name of the part instance for this face (if applicable)."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getCentroid <abaqus.BasicGeometry.Face.Face.getCentroid>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getCentroid:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns the centroid of a face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getCurvature <abaqus.BasicGeometry.Face.Face.getCurvature>`\\ \\(point\\, uParam\\, vParam\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getCurvature:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns information about the curvature at a location on the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getElements <abaqus.BasicGeometry.Face.Face.getElements>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getElements:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of element objects that are associated with the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getElementFaces <abaqus.BasicGeometry.Face.Face.getElementFaces>`\\ \\(\\[faceSide\\]\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of mesh face objects."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getNodes <abaqus.BasicGeometry.Face.Face.getNodes>`\\ \\(\\[faceSide\\]\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of mesh node objects."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getNormal <abaqus.BasicGeometry.Face.Face.getNormal>`\\ \\(\\[point\\]\\)"
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns the normal to a face at the location specified by the **pointOn** member."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.BasicGeometry.Face.Face.getSize>`\\ \\(\\[printResults\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getSize:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a Float indicating the area of the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getEdges <abaqus.BasicGeometry.Face.Face.getEdges>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getEdges:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a sequence consisting of the edge ids of the edges on the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getVertices <abaqus.BasicGeometry.Face.Face.getVertices>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getVertices:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a sequence consisting of the vertex ids of the vertices of the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getCells <abaqus.BasicGeometry.Face.Face.getCells>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getCells:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns a sequence consisting of the cell ids of the cells to which this face belongs."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getAdjacentFaces <abaqus.BasicGeometry.Face.Face.getAdjacentFaces>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getAdjacentFaces:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of face objects that share at least one edge of the face."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getFacesByFaceAngle <abaqus.BasicGeometry.Face.Face.getFacesByFaceAngle>`\\ \\(angle\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getFacesByFaceAngle:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of Face objects that are obtained by recursively finding adjacent faces that are at an angle of less than or equal to the specified angle."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getFacesByCurvature <abaqus.BasicGeometry.Face.Face.getFacesByCurvature>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getFacesByCurvature:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of Face objects that are obtained by recursively finding adjacent faces that share the same curvature."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`isNormalFlipped <abaqus.BasicGeometry.Face.Face.isNormalFlipped>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.isNormalFlipped:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method determines whether the normal to the face is flipped from its default direction by the use of the flipNormal method on a Part object."
 msgstr ""
 
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid ":py:obj:`getCADAttributes <abaqus.BasicGeometry.Face.Face.getCADAttributes>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Face.py:docstring of abaqus.BasicGeometry.Face.Face.getCADAttributes:2
-#: ../None:17:<autosummary>:1
+#: ../../None:17:<autosummary>:1
 msgid "This method returns an array of CAD attribute strings associated with the Face when the part was created from CAD data."
 msgstr ""
 
@@ -2059,7 +2059,7 @@ msgstr ""
 msgid "A Boolean value of True if the normal is flipped and False if not."
 msgstr ""
 
-#: ../docstring of abaqus.BasicGeometry.Face.Face.pointOn:2
+#: ../../docstring of abaqus.BasicGeometry.Face.Face.pointOn:2
 msgid "A tuple of tuples of Floats specifying the coordinates. For a face of a shell **pointOn** specifies the **X**-, **Y**-, and **Z**-coordinates of a point located on the face and the **X**-, **Y**-, and **Z**-components of the normal to the face.For a face of a solid **pointOn** specifies the **X**-, **Y**-, and **Z**-coordinates of a point located on the face."
 msgstr ""
 
@@ -2075,227 +2075,227 @@ msgstr ""
 msgid "Check `FaceArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-facearraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.FaceArray.FaceArray.__init__>`\\ \\(faces\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:12:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "This method creates a FaceArray object."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.FaceArray.FaceArray.findAt>`\\ \\(coordinates\\[\\, normal\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns the object or objects in the FaceArray located at the given coordinates."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getExteriorEdges <abaqus.BasicGeometry.FaceArray.FaceArray.getExteriorEdges>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns the edges on the exterior of the faces in the FaceArray."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.FaceArray.FaceArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns the object or objects in the FaceArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.FaceArray.FaceArray.getMask>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getByBoundingBox <abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingBox>`\\ \\(\\[xMin\\, yMin\\, zMin\\, xMax\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/FaceArray.py:docstring of abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingBox:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of face objects that lie within the specified bounding box."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getByBoundingCylinder <abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingCylinder>`\\ \\(center1\\, center2\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/FaceArray.py:docstring of abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingCylinder:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of face objects that lie within the specified bounding cylinder."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getByBoundingSphere <abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingSphere>`\\ \\(center\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/FaceArray.py:docstring of abaqus.BasicGeometry.FaceArray.FaceArray.getByBoundingSphere:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an array of face objects that lie within the specified bounding sphere."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getBoundingBox <abaqus.BasicGeometry.FaceArray.FaceArray.getBoundingBox>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/FaceArray.py:docstring of abaqus.BasicGeometry.FaceArray.FaceArray.getBoundingBox:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns a dictionary of two tuples representing minimum and maximum boundary values of the bounding box of the minimum size containing the face sequence."
 msgstr ""
 
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid ":py:obj:`getClosest <abaqus.BasicGeometry.FaceArray.FaceArray.getClosest>`\\ \\(coordinates\\[\\, searchTolerance\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/FaceArray.py:docstring of abaqus.BasicGeometry.FaceArray.FaceArray.getClosest:2
-#: ../None:12:<autosummary>:1
+#: ../../None:12:<autosummary>:1
 msgid "This method returns an object or objects in the FaceArray closest to the given set of points, where the given points need not lie on the faces in the FaceArray."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.FaceArray.FaceArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.FaceArray.FaceArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.FaceArray.FaceArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.FaceArray.FaceArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.FaceArray.FaceArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.FaceArray.FaceArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.FaceArray.FaceArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.FaceArray.FaceArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.FaceArray.FaceArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.FaceArray.FaceArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.FaceArray.FaceArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.FaceArray.FaceArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.FaceArray.FaceArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.FaceArray.FaceArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.FaceArray.FaceArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.FaceArray.FaceArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.FaceArray.FaceArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.FaceArray.FaceArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.FaceArray.FaceArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.FaceArray.FaceArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.FaceArray.FaceArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.FaceArray.FaceArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.FaceArray.FaceArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.FaceArray.FaceArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.FaceArray.FaceArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.FaceArray.FaceArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.FaceArray.FaceArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.FaceArray.FaceArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.FaceArray.FaceArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.FaceArray.FaceArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.FaceArray.FaceArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.FaceArray.FaceArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.FaceArray.FaceArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.FaceArray.FaceArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.FaceArray.FaceArray._is_protocol>`\\"
 msgstr ""
 
@@ -2392,38 +2392,38 @@ msgstr ""
 msgid "Check `IgnoredEdge on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-ignorededgepyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.index>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.index:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.index:2
 msgid "An Int specifying the index of the IgnoredEdge in the IgnoredEdgeArray."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.pointOn>`\\"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getSize <abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getSize>`\\ \\(\\[printResults\\]\\)"
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getRadius <abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getRadius>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredEdge.py:docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getRadius:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns the radius of a circular IgnoredEdge object."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getCurvature <abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getCurvature>`\\ \\(parameter\\, point\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredEdge.py:docstring of abaqus.BasicGeometry.IgnoredEdge.IgnoredEdge.getCurvature:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns curvature information at a location on the IgnoredEdge object."
 msgstr ""
 
@@ -2467,177 +2467,177 @@ msgstr ""
 msgid "Check `IgnoredEdgeArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-ignorededgearraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns the object or objects in the IgnoredEdgeArray located at the given coordinates."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns the object or objects in the IgnoredEdgeArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.getMask>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getClosest <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.getClosest>`\\ \\(coordinates\\[\\, searchTolerance\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredEdgeArray.py:docstring of abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.getClosest:2
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns a object or objects in the IgnoredEdgeArray closest to the given set of points, where the given points need not lie on the edges in the IgnoredEdgeArray."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__init__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.IgnoredEdgeArray.IgnoredEdgeArray._is_protocol>`\\"
 msgstr ""
 
@@ -2704,21 +2704,21 @@ msgstr ""
 msgid "Check `IgnoredVertex on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-ignoredvertexpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.index>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.index:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.index:2
 msgid "An Int specifying the index of the IgnoredVertex in the IgnoredVertexArray."
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.pointOn>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.pointOn:2
+#: ../../None:4:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.IgnoredVertex.IgnoredVertex.pointOn:2
 msgid "A tuple of Floats specifying the **X**-, **Y**-, and **Z**-coordinates of the vertex."
 msgstr ""
 
@@ -2734,177 +2734,177 @@ msgstr ""
 msgid "Check `IgnoredVertexArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-ignoredvertexarraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns the object or objects in the IgnoredVertexArray located at the given coordinates."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns the object or objects in the IgnoredVertexArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.getMask>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid ":py:obj:`getClosest <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.getClosest>`\\ \\(coordinates\\[\\, searchTolerance\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/IgnoredVertexArray.py:docstring of abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.getClosest:2
-#: ../None:6:<autosummary>:1
+#: ../../None:6:<autosummary>:1
 msgid "This method returns a object or objects in the IgnoredVertexArray closest to the given set of points, where the given points need not lie on the vertices in the IgnoredVertexArray."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__init__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.IgnoredVertexArray.IgnoredVertexArray._is_protocol>`\\"
 msgstr ""
 
@@ -2962,11 +2962,11 @@ msgstr ""
 msgid "Check `InterestingPoint on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-interestingpointpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.InterestingPoint.InterestingPoint.__init__>`\\ \\(edge\\, rule\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates an interesting point along an edge."
 msgstr ""
 
@@ -2998,11 +2998,11 @@ msgstr ""
 msgid "Check `ReferencePoint on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-referencepointpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.ReferencePoint.ReferencePoint.__init__>`\\ \\(point\\[\\, instanceName\\]\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method creates a Feature object and a ReferencePoint object at the specified location."
 msgstr ""
 
@@ -3014,185 +3014,185 @@ msgstr ""
 msgid "ReferencePoints"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:3:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__getitem__>`\\ \\(key\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__init__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__or__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__or__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Return self|value."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__ror__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__ror__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Return value|self."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__ior__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__ior__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Return self|=value."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "True if the dictionary has the specified key, else False."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__sizeof__>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`get <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.get>`\\ \\(key\\[\\, default\\]\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Return the value for key if key is in the dictionary, else default."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`setdefault <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.setdefault>`\\ \\(key\\[\\, default\\]\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Insert key with a value of default if key is not in the dictionary."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.pop>`\\ \\(key\\[\\, default\\]\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "If key is not found, default is returned if given, otherwise KeyError is raised"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`popitem <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.popitem>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Remove and return a (key, value) pair as a 2-tuple."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`keys <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.keys>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`items <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.items>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`values <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.values>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`update <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.update>`\\ \\(\\[E\\, \\]\\*\\*F\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "If E is present and has a .keys() method, then does:  for k in E: D[k] = E[k] If E is present and lacks a .keys() method, then does:  for k, v in E: D[k] = v In either case, this is followed by: for k in F:  D[k] = F[k]"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`fromkeys <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.fromkeys>`\\ \\(iterable\\[\\, value\\]\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Create a new dictionary with keys from iterable and values set to value."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.clear>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.copy>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:34:<autosummary>:1
+#: ../../None:34:<autosummary>:1
 msgid "Return a reverse iterator over the dict keys."
 msgstr ""
 
-#: ../None:34:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:34:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.ReferencePoints.ReferencePoints.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.ReferencePoints.ReferencePoints._is_protocol>`\\"
 msgstr ""
 
@@ -3208,12 +3208,12 @@ msgstr ""
 msgid "Check `Transform on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-transformpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`matrix <abaqus.BasicGeometry.Transform.Transform.matrix>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Transform.py:docstring of abaqus.BasicGeometry.Transform.Transform.matrix:2
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid "This method returns the transformation matrix as a tuple of 12 Floats."
 msgstr ""
 
@@ -3237,75 +3237,75 @@ msgstr ""
 msgid "Check `Vertex on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-vertexpyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.Vertex.Vertex.index>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Vertex.Vertex.index:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Vertex.Vertex.index:2
 msgid "An Int specifying the index of the ConstrainedSketchVertex in the VertexArray."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`isReferenceRep <abaqus.BasicGeometry.Vertex.Vertex.isReferenceRep>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Vertex.Vertex.isReferenceRep:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Vertex.Vertex.isReferenceRep:2
 msgid "A Boolean specifying whether the vertex belongs to the reference representation of the Part or Instance."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`pointOn <abaqus.BasicGeometry.Vertex.Vertex.pointOn>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Vertex.Vertex.pointOn:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Vertex.Vertex.pointOn:2
 msgid "A tuple of Floats specifying the **X** -, **Y** -, and **Z** -coordinates of the vertex."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`featureName <abaqus.BasicGeometry.Vertex.Vertex.featureName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Vertex.Vertex.featureName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Vertex.Vertex.featureName:2
 msgid "A tuple of Floats specifying the name of the feature that created this vertex."
 msgstr ""
 
-#: ../None:7:<autosummary>:1
+#: ../../None:7:<autosummary>:1
 msgid ":py:obj:`instanceName <abaqus.BasicGeometry.Vertex.Vertex.instanceName>`\\"
 msgstr ""
 
-#: ../None:7:<autosummary>:1
-#: ../docstring of abaqus.BasicGeometry.Vertex.Vertex.instanceName:2
+#: ../../None:7:<autosummary>:1
+#: ../../docstring of abaqus.BasicGeometry.Vertex.Vertex.instanceName:2
 msgid "A tuple of Floats specifying the name of the part instance for this vertex (if applicable)."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getEdges <abaqus.BasicGeometry.Vertex.Vertex.getEdges>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Vertex.py:docstring of abaqus.BasicGeometry.Vertex.Vertex.getEdges:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns a sequence consisting of the edge ids of the edges which share this vertex."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getNodes <abaqus.BasicGeometry.Vertex.Vertex.getNodes>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Vertex.py:docstring of abaqus.BasicGeometry.Vertex.Vertex.getNodes:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns an array of node objects that are associated with the vertex."
 msgstr ""
 
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid ":py:obj:`getElements <abaqus.BasicGeometry.Vertex.Vertex.getElements>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/Vertex.py:docstring of abaqus.BasicGeometry.Vertex.Vertex.getElements:2
-#: ../None:5:<autosummary>:1
+#: ../../None:5:<autosummary>:1
 msgid "This method returns an array of element objects that are associated with the vertex."
 msgstr ""
 
@@ -3321,219 +3321,219 @@ msgstr ""
 msgid "Check `VertexArray on help.3ds.com/2019 <https://help.3ds.com/2019/English/DSSIMULIA_Established/SIMACAEKERRefMap/simaker-c-vertexarraypyc.htm?contextscope=all>`_."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__init__ <abaqus.BasicGeometry.VertexArray.VertexArray.__init__>`\\ \\(vertices\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
-#: ../None:36:<autosummary>:1
+#: ../../None:11:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid "This method creates a VertexArray object."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`findAt <abaqus.BasicGeometry.VertexArray.VertexArray.findAt>`\\ \\(coordinates\\[\\, printWarning\\]\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the VertexArray located at the given coordinates."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getSequenceFromMask <abaqus.BasicGeometry.VertexArray.VertexArray.getSequenceFromMask>`\\ \\(mask\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns the object or objects in the VertexArray identified using the specified **mask**."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getMask <abaqus.BasicGeometry.VertexArray.VertexArray.getMask>`\\ \\(\\)"
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingBox <abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingBox>`\\ \\(\\[xMin\\, yMin\\, zMin\\, xMax\\, ...\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of vertex objects that lie within the specified bounding box."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingCylinder <abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingCylinder>`\\ \\(center1\\, center2\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingCylinder:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of vertex objects that lie within the specified bounding cylinder."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getByBoundingSphere <abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingSphere>`\\ \\(center\\, radius\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getByBoundingSphere:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns an array of vertex objects that lie within the specified bounding sphere."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getBoundingBox <abaqus.BasicGeometry.VertexArray.VertexArray.getBoundingBox>`\\ \\(\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getBoundingBox:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns a dictionary of two tuples representing minimum and maximum boundary values of the bounding box of the minimum size containing the vertex sequence."
 msgstr ""
 
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid ":py:obj:`getClosest <abaqus.BasicGeometry.VertexArray.VertexArray.getClosest>`\\ \\(coordinates\\[\\, searchTolerance\\]\\)"
 msgstr ""
 
 #: ../../abqpy/src/abaqus/BasicGeometry/VertexArray.py:docstring of abaqus.BasicGeometry.VertexArray.VertexArray.getClosest:2
-#: ../None:11:<autosummary>:1
+#: ../../None:11:<autosummary>:1
 msgid "This method returns a object or objects in the VertexArray closest to the given set of points, where the given points need not lie on ConstrainedSketchVertex objects in the VertexArray."
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__repr__ <abaqus.BasicGeometry.VertexArray.VertexArray.__repr__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getattribute__ <abaqus.BasicGeometry.VertexArray.VertexArray.__getattribute__>`\\ \\(name\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__lt__ <abaqus.BasicGeometry.VertexArray.VertexArray.__lt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__le__ <abaqus.BasicGeometry.VertexArray.VertexArray.__le__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__eq__ <abaqus.BasicGeometry.VertexArray.VertexArray.__eq__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ne__ <abaqus.BasicGeometry.VertexArray.VertexArray.__ne__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__gt__ <abaqus.BasicGeometry.VertexArray.VertexArray.__gt__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__ge__ <abaqus.BasicGeometry.VertexArray.VertexArray.__ge__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iter__ <abaqus.BasicGeometry.VertexArray.VertexArray.__iter__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__len__ <abaqus.BasicGeometry.VertexArray.VertexArray.__len__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__getitem__ <abaqus.BasicGeometry.VertexArray.VertexArray.__getitem__>`\\"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__setitem__ <abaqus.BasicGeometry.VertexArray.VertexArray.__setitem__>`\\ \\(key\\, value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__delitem__ <abaqus.BasicGeometry.VertexArray.VertexArray.__delitem__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__add__ <abaqus.BasicGeometry.VertexArray.VertexArray.__add__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__mul__ <abaqus.BasicGeometry.VertexArray.VertexArray.__mul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__rmul__ <abaqus.BasicGeometry.VertexArray.VertexArray.__rmul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__contains__ <abaqus.BasicGeometry.VertexArray.VertexArray.__contains__>`\\ \\(key\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__iadd__ <abaqus.BasicGeometry.VertexArray.VertexArray.__iadd__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__imul__ <abaqus.BasicGeometry.VertexArray.VertexArray.__imul__>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__reversed__ <abaqus.BasicGeometry.VertexArray.VertexArray.__reversed__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`__sizeof__ <abaqus.BasicGeometry.VertexArray.VertexArray.__sizeof__>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`clear <abaqus.BasicGeometry.VertexArray.VertexArray.clear>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`copy <abaqus.BasicGeometry.VertexArray.VertexArray.copy>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`append <abaqus.BasicGeometry.VertexArray.VertexArray.append>`\\ \\(object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`insert <abaqus.BasicGeometry.VertexArray.VertexArray.insert>`\\ \\(index\\, object\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`extend <abaqus.BasicGeometry.VertexArray.VertexArray.extend>`\\ \\(iterable\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`pop <abaqus.BasicGeometry.VertexArray.VertexArray.pop>`\\ \\(\\[index\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`remove <abaqus.BasicGeometry.VertexArray.VertexArray.remove>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`index <abaqus.BasicGeometry.VertexArray.VertexArray.index>`\\ \\(value\\[\\, start\\, stop\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`count <abaqus.BasicGeometry.VertexArray.VertexArray.count>`\\ \\(value\\, \\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`reverse <abaqus.BasicGeometry.VertexArray.VertexArray.reverse>`\\ \\(\\/\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
+#: ../../None:36:<autosummary>:1
 msgid ":py:obj:`sort <abaqus.BasicGeometry.VertexArray.VertexArray.sort>`\\ \\(\\*\\[\\, key\\, reverse\\]\\)"
 msgstr ""
 
-#: ../None:36:<autosummary>:1
-#: ../None:4:<autosummary>:1
+#: ../../None:36:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__class_getitem__ <abaqus.BasicGeometry.VertexArray.VertexArray.__class_getitem__>`\\"
 msgstr ""
 
-#: ../None:4:<autosummary>:1
+#: ../../None:4:<autosummary>:1
 msgid ":py:obj:`__init_subclass__ <abaqus.BasicGeometry.VertexArray.VertexArray.__init_subclass__>`\\ \\(\\*args\\, \\*\\*kwargs\\)"
 msgstr ""
 
-#: ../None:3:<autosummary>:1
+#: ../../None:3:<autosummary>:1
 msgid ":py:obj:`_is_protocol <abaqus.BasicGeometry.VertexArray.VertexArray._is_protocol>`\\"
 msgstr ""
 
