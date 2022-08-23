@@ -1,4 +1,5 @@
 [submodule "abqpy"]
 	path = abqpy
 	url = https://github.com/haiiliin/abqpy.git
+	branch = V2018
 	ignore = dirty
