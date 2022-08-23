@@ -9,6 +9,7 @@ jobs:
   update-translations:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         branch: [main, V2022, V2021, V2020, V2019, V2018, V2017, V2016]
     env:
